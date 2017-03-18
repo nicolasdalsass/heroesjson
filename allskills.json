@@ -133,78 +133,76 @@
 {"id":137,"name":"Wo Dao","mods":[0,9,0,0,0]}
 {"id":138,"name":"Wo Dao+","mods":[0,13,0,0,0]}
 {"id":139,"name":"Yato","mods":[0,16,0,0,0]}
-
-{"id":10000,"name":"Ardent Sacrifice"}
-{"id":10001,"name":"Dance"}
-{"id":10002,"name":"Draw Back"}
-{"id":10003,"name":"Harsh Command"}
-{"id":10004,"name":"Heal"}
-{"id":10005,"name":"Martyr"}
-{"id":10006,"name":"Mend"}
-{"id":10007,"name":"Physic"}
-{"id":10008,"name":"Pivot"}
-{"id":10009,"name":"Rally Attack"}
-{"id":10010,"name":"Rally Defense"}
-{"id":10011,"name":"Rally Resistance"}
-{"id":10012,"name":"Rally Speed"}
-{"id":10013,"name":"Reciprocal Aid"}
-{"id":10014,"name":"Reconcile"}
-{"id":10015,"name":"Recover"}
-{"id":10016,"name":"Rehabilitate"}
-{"id":10017,"name":"Reposition"}
-{"id":10018,"name":"Shove"}
-{"id":10019,"name":"Sing"}
-{"id":10020,"name":"Smite"}
-{"id":10021,"name":"Swap"}
-
-{"id":20001,"name":"Aegis"}
-{"id":20002,"name":"Aether"}
-{"id":20003,"name":"Astra"}
-{"id":20004,"name":"Blazing Flame"}
-{"id":20005,"name":"Blazing Light"}
-{"id":20006,"name":"Blazing Thunder"}
-{"id":20007,"name":"Blazing Wind"}
-{"id":20008,"name":"Bonfire"}
-{"id":20009,"name":"Buckler"}
-{"id":20010,"name":"Chilling Wind"}
-{"id":20011,"name":"Daylight"}
-{"id":20012,"name":"Draconic Aura"}
-{"id":20013,"name":"Dragon Fang"}
-{"id":20014,"name":"Dragon Gaze"}
-{"id":20015,"name":"Escutcheon"}
-{"id":20016,"name":"Galeforce"}
-{"id":20017,"name":"Glacies"}
-{"id":20018,"name":"Glimmer"}
-{"id":20019,"name":"Glowing Ember"}
-{"id":20020,"name":"Growing Flame"}
-{"id":20021,"name":"Growing Light"}
-{"id":20022,"name":"Growing Thunder"}
-{"id":20023,"name":"Growing Wind"}
-{"id":20024,"name":"Heavenly Light"}
-{"id":20025,"name":"Holy Vestments"}
-{"id":20026,"name":"Iceberg"}
-{"id":20027,"name":"Ignis"}
-{"id":20028,"name":"Imbue"}
-{"id":20029,"name":"Kindled-Fire Balm"}
-{"id":20030,"name":"Luna"}
-{"id":20031,"name":"Miracle"}
-{"id":20032,"name":"Moonbow"}
-{"id":20033,"name":"New Moon"}
-{"id":20034,"name":"Night Sky"}
-{"id":20035,"name":"Noontime"}
-{"id":20036,"name":"Pavise"}
-{"id":20037,"name":"Reprisal"}
-{"id":20038,"name":"Retribution"}
-{"id":20039,"name":"Rising Flame"}
-{"id":20040,"name":"Rising Light"}
-{"id":20041,"name":"Rising Thunder"}
-{"id":20042,"name":"Rising Wind"}
-{"id":20043,"name":"Sacred Cowl"}
-{"id":20044,"name":"Sol"}
-{"id":20045,"name":"Solid-Earth Balm"}
-{"id":20046,"name":"Still-Water Balm"}
-{"id":20047,"name":"Swift-Winds Balm"}
-{"id":20048,"name":"Vengeance"}
+{"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
+{"id":10001,"name":"Dance","mods":[0,0,0,0,0]}
+{"id":10002,"name":"Draw Back","mods":[0,0,0,0,0]}
+{"id":10003,"name":"Harsh Command","mods":[0,0,0,0,0]}
+{"id":10004,"name":"Heal","mods":[0,0,0,0,0]}
+{"id":10005,"name":"Martyr","mods":[0,0,0,0,0]}
+{"id":10006,"name":"Mend","mods":[0,0,0,0,0]}
+{"id":10007,"name":"Physic","mods":[0,0,0,0,0]}
+{"id":10008,"name":"Pivot","mods":[0,0,0,0,0]}
+{"id":10009,"name":"Rally Attack","mods":[0,0,0,0,0]}
+{"id":10010,"name":"Rally Defense","mods":[0,0,0,0,0]}
+{"id":10011,"name":"Rally Resistance","mods":[0,0,0,0,0]}
+{"id":10012,"name":"Rally Speed","mods":[0,0,0,0,0]}
+{"id":10013,"name":"Reciprocal Aid","mods":[0,0,0,0,0]}
+{"id":10014,"name":"Reconcile","mods":[0,0,0,0,0]}
+{"id":10015,"name":"Recover","mods":[0,0,0,0,0]}
+{"id":10016,"name":"Rehabilitate","mods":[0,0,0,0,0]}
+{"id":10017,"name":"Reposition","mods":[0,0,0,0,0]}
+{"id":10018,"name":"Shove","mods":[0,0,0,0,0]}
+{"id":10019,"name":"Sing","mods":[0,0,0,0,0]}
+{"id":10020,"name":"Smite","mods":[0,0,0,0,0]}
+{"id":10021,"name":"Swap","mods":[0,0,0,0,0]}
+{"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
+{"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
+{"id":20003,"name":"Astra","mods":[0,0,0,0,0]}
+{"id":20004,"name":"Blazing Flame","mods":[0,0,0,0,0]}
+{"id":20005,"name":"Blazing Light","mods":[0,0,0,0,0]}
+{"id":20006,"name":"Blazing Thunder","mods":[0,0,0,0,0]}
+{"id":20007,"name":"Blazing Wind","mods":[0,0,0,0,0]}
+{"id":20008,"name":"Bonfire","mods":[0,0,0,0,0]}
+{"id":20009,"name":"Buckler","mods":[0,0,0,0,0]}
+{"id":20010,"name":"Chilling Wind","mods":[0,0,0,0,0]}
+{"id":20011,"name":"Daylight","mods":[0,0,0,0,0]}
+{"id":20012,"name":"Draconic Aura","mods":[0,0,0,0,0]}
+{"id":20013,"name":"Dragon Fang","mods":[0,0,0,0,0]}
+{"id":20014,"name":"Dragon Gaze","mods":[0,0,0,0,0]}
+{"id":20015,"name":"Escutcheon","mods":[0,0,0,0,0]}
+{"id":20016,"name":"Galeforce","mods":[0,0,0,0,0]}
+{"id":20017,"name":"Glacies","mods":[0,0,0,0,0]}
+{"id":20018,"name":"Glimmer","mods":[0,0,0,0,0]}
+{"id":20019,"name":"Glowing Ember","mods":[0,0,0,0,0]}
+{"id":20020,"name":"Growing Flame","mods":[0,0,0,0,0]}
+{"id":20021,"name":"Growing Light","mods":[0,0,0,0,0]}
+{"id":20022,"name":"Growing Thunder","mods":[0,0,0,0,0]}
+{"id":20023,"name":"Growing Wind","mods":[0,0,0,0,0]}
+{"id":20024,"name":"Heavenly Light","mods":[0,0,0,0,0]}
+{"id":20025,"name":"Holy Vestments","mods":[0,0,0,0,0]}
+{"id":20026,"name":"Iceberg","mods":[0,0,0,0,0]}
+{"id":20027,"name":"Ignis","mods":[0,0,0,0,0]}
+{"id":20028,"name":"Imbue","mods":[0,0,0,0,0]}
+{"id":20029,"name":"Kindled-Fire Balm","mods":[0,0,0,0,0]}
+{"id":20030,"name":"Luna","mods":[0,0,0,0,0]}
+{"id":20031,"name":"Miracle","mods":[0,0,0,0,0]}
+{"id":20032,"name":"Moonbow","mods":[0,0,0,0,0]}
+{"id":20033,"name":"New Moon","mods":[0,0,0,0,0]}
+{"id":20034,"name":"Night Sky","mods":[0,0,0,0,0]}
+{"id":20035,"name":"Noontime","mods":[0,0,0,0,0]}
+{"id":20036,"name":"Pavise","mods":[0,0,0,0,0]}
+{"id":20037,"name":"Reprisal","mods":[0,0,0,0,0]}
+{"id":20038,"name":"Retribution","mods":[0,0,0,0,0]}
+{"id":20039,"name":"Rising Flame","mods":[0,0,0,0,0]}
+{"id":20040,"name":"Rising Light","mods":[0,0,0,0,0]}
+{"id":20041,"name":"Rising Thunder","mods":[0,0,0,0,0]}
+{"id":20042,"name":"Rising Wind","mods":[0,0,0,0,0]}
+{"id":20043,"name":"Sacred Cowl","mods":[0,0,0,0,0]}
+{"id":20044,"name":"Sol","mods":[0,0,0,0,0]}
+{"id":20045,"name":"Solid-Earth Balm","mods":[0,0,0,0,0]}
+{"id":20046,"name":"Still-Water Balm","mods":[0,0,0,0,0]}
+{"id":20047,"name":"Swift-Winds Balm","mods":[0,0,0,0,0]}
+{"id":20048,"name":"Vengeance","mods":[0,0,0,0,0]}
 
 {"id":30001,"name":"Armored Blow 1","mods":[0,0,0,0,0]}
 {"id":30002,"name":"Armored Blow 2","mods":[0,0,0,0,0]}
@@ -333,7 +331,6 @@
 {"id":40073,"name":"Wings of Mercy 1","mods":[0,0,0,0,0]}
 {"id":40074,"name":"Wings of Mercy 2","mods":[0,0,0,0,0]}
 {"id":40075,"name":"Wings of Mercy 3","mods":[0,0,0,0,0]}
-
 {"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0]}
 {"id":50003,"name":"Breath of Life 3","mods":[0,0,0,0,0]}
