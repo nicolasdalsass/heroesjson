@@ -1,5 +1,5 @@
 {"id":1,"name":"Absorb","mods":[0,4,0,0,0]}
-{"id":2,"name":"Armads","mods":[0,16,0,0,0]}
+{"id":2,"name":"Armadès","mods":[0,16,0,0,0]}
 {"id":3,"name":"Armorslayer","mods":[0,8,0,0,0]}
 {"id":4,"name":"Armorslayer+","mods":[0,12,0,0,0]}
 {"id":5,"name":"Assassin's Bow","mods":[0,7,0,0,0]}
@@ -86,8 +86,8 @@
 {"id":92,"name":"Pain","mods":[0,3,0,0,0]}
 {"id":93,"name":"Panic","mods":[0,7,0,0,0]}
 {"id":94,"name":"Parthia","mods":[0,14,0,0,0]}
-{"id":95,"name":"Poison Dagger","mods":[0,2,0,0,0]}
-{"id":96,"name":"Poison Dagger+","mods":[0,5,0,0,0]}
+{"id":95,"name":"Dague Poison","mods":[0,2,0,0,0]}
+{"id":96,"name":"Dague Poison+","mods":[0,5,0,0,0]}
 {"id":97,"name":"Raijinto","mods":[0,16,0,0,0]}
 {"id":98,"name":"Rauðrblade","mods":[0,9,0,0,0]}
 {"id":99,"name":"Rauðrblade+","mods":[0,13,0,0,0]}
@@ -105,16 +105,16 @@
 {"id":111,"name":"Sapphire Lance+","mods":[0,12,0,0,0]}
 {"id":112,"name":"Sieglinde","mods":[0,16,0,0,0]}
 {"id":113,"name":"Siegmund","mods":[0,16,0,0,0]}
-{"id":114,"name":"Silver Axe","mods":[0,11,0,0,0]}
-{"id":115,"name":"Silver Axe+","mods":[0,15,0,0,0]}
-{"id":116,"name":"Silver Bow","mods":[0,9,0,0,0]}
-{"id":117,"name":"Silver Bow+","mods":[0,13,0,0,0]}
-{"id":118,"name":"Silver Dagger","mods":[0,7,0,0,0]}
-{"id":119,"name":"Silver Dagger+","mods":[0,10,0,0,0]}
-{"id":120,"name":"Silver Lance","mods":[0,11,0,0,0]}
-{"id":121,"name":"Silver Lance+","mods":[0,15,0,0,0]}
-{"id":122,"name":"Silver Sword","mods":[0,11,0,0,0]}
-{"id":123,"name":"Silver Sword+","mods":[0,15,0,0,0]}
+{"id":114,"name":"Hache argent","mods":[0,11,0,0,0]}
+{"id":115,"name":"Hache argent+","mods":[0,15,0,0,0]}
+{"id":116,"name":"Arc argent","mods":[0,9,0,0,0]}
+{"id":117,"name":"Arc argent+","mods":[0,13,0,0,0]}
+{"id":118,"name":"Dague argent","mods":[0,7,0,0,0]}
+{"id":119,"name":"Dague argent+","mods":[0,10,0,0,0]}
+{"id":120,"name":"Lance argent","mods":[0,11,0,0,0]}
+{"id":121,"name":"Lance argent+","mods":[0,15,0,0,0]}
+{"id":122,"name":"Epée argent","mods":[0,11,0,0,0]}
+{"id":123,"name":"Epée argent+","mods":[0,15,0,0,0]}
 {"id":124,"name":"Slow","mods":[0,5,0,0,0]}
 {"id":125,"name":"Smoke Dagger","mods":[0,6,0,0,0]}
 {"id":126,"name":"Smoke Dagger+","mods":[0,9,0,0,0]}
