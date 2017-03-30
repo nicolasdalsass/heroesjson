@@ -259,6 +259,8 @@
 {"id":30050,"name":"Warding Blow 2","mods":[0,0,0,0,0]}
 {"id":30051,"name":"Warding Blow 3","mods":[0,0,0,0,0]}
 {"id":30052,"name":"Iote's Shield","mods":[0,0,0,0,0]}
+{"id":30053,"name":"Attack/Def +2","mods":[0,2,0,2,0]}
+{"id":30054,"name":"Swift sparrow 2","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0]}
@@ -335,12 +337,8 @@
 {"id":40073,"name":"Wings of Mercy 1","mods":[0,0,0,0,0]}
 {"id":40074,"name":"Wings of Mercy 2","mods":[0,0,0,0,0]}
 {"id":40075,"name":"Wings of Mercy 3","mods":[0,0,0,0,0]}
-
 {"id":40076,"name":"Live for Honor","mods":[0,0,0,0,0]}
 {"id":40077,"name":"Live for Bounty","mods":[0,0,0,0,0]}
-{"id":50056,"name":"Axe Experience 3","mods":[0,0,0,0,0]}
-{"id":30053,"name":"Attack/Def +2","mods":[0,2,0,2,0]}
-{"id":30054,"name":"Swift sparrow 2","mods":[0,2,0,2,0]}
 
 {"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0]}
@@ -397,3 +395,4 @@
 {"id":50053,"name":"Ward Armor","mods":[0,0,0,0,0]}
 {"id":50054,"name":"Ward Cavalry","mods":[0,0,0,0,0]}
 {"id":50055,"name":"Ward Fliers","mods":[0,0,0,0,0]}
+{"id":50056,"name":"Axe Experience 3","mods":[0,0,0,0,0]}
