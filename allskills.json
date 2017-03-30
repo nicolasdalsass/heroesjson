@@ -135,6 +135,7 @@
 {"id":141,"name":"Carrot Lance+","mods":[0,13,0,0,0]}
 {"id":142,"name":"Green Egg+","mods":[0,11,0,0,0]}
 {"id":143,"name":"Blue Egg+","mods":[0,11,0,0,0]}
+
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0]}
 {"id":10002,"name":"Draw Back","mods":[0,0,0,0,0]}
@@ -334,6 +335,13 @@
 {"id":40073,"name":"Wings of Mercy 1","mods":[0,0,0,0,0]}
 {"id":40074,"name":"Wings of Mercy 2","mods":[0,0,0,0,0]}
 {"id":40075,"name":"Wings of Mercy 3","mods":[0,0,0,0,0]}
+
+{"id":40076,"name":"Live for Honor","mods":[0,0,0,0,0]}
+{"id":40077,"name":"Live for Bounty","mods":[0,0,0,0,0]}
+{"id":50056,"name":"Axe Experience 3","mods":[0,0,0,0,0]}
+{"id":30053,"name":"Attack/Def +2","mods":[0,2,0,2,0]}
+{"id":30054,"name":"Swift sparrow 2","mods":[0,2,0,2,0]}
+
 {"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0]}
 {"id":50003,"name":"Breath of Life 3","mods":[0,0,0,0,0]}
