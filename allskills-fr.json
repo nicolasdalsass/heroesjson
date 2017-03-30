@@ -131,6 +131,11 @@
 {"id":137,"name":"Wo Dao","mods":[0,9,0,0,0]}
 {"id":138,"name":"Wo Dao+","mods":[0,13,0,0,0]}
 {"id":139,"name":"Yato","mods":[0,16,0,0,0]}
+{"id":140,"name":"Hache Carotte +","mods":[0,13,0,0,0]}
+{"id":141,"name":"Lance Carotte+","mods":[0,13,0,0,0]}
+{"id":142,"name":"Oeuf vert+","mods":[0,11,0,0,0]}
+{"id":143,"name":"Oeuf bleu+","mods":[0,11,0,0,0]}
+
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
 {"id":10002,"name":"Repli","mods":[0,0,0,0,0]}
@@ -153,6 +158,7 @@
 {"id":10019,"name":"Chant","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Charge","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Inversion","mods":[0,0,0,0,0]}
+
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
 {"id":20003,"name":"Astra","mods":[0,0,0,0,0]}
@@ -330,6 +336,13 @@
 {"id":40073,"name":"Sauvetage 1","mods":[0,0,0,0,0]}
 {"id":40074,"name":"Sauvetage 2","mods":[0,0,0,0,0]}
 {"id":40075,"name":"Sauvetage 3","mods":[0,0,0,0,0]}
+
+{"id":40076,"name":"Honneur","mods":[0,0,0,0,0]}
+{"id":40077,"name":"Abondance","mods":[0,0,0,0,0]}
+{"id":50056,"name":"Expérience hache 3","mods":[0,0,0,0,0]}
+{"id":30053,"name":"Atq/Déf +2","mods":[0,2,0,2,0]}
+{"id":30054,"name":"Hirondelle rapide 2","mods":[0,2,0,2,0]}
+
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
 {"id":50003,"name":"Souffle vital 3","mods":[0,0,0,0,0]}
