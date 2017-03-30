@@ -9,8 +9,8 @@
 {"id":9,"name":"Lame du sceau","mods":[0,16,0,0,0]}
 {"id":10,"name":"Blárblade","mods":[0,9,0,0,0]}
 {"id":11,"name":"Blárblade +","mods":[0,13,0,0,0]}
-{"id":12,"name":"Blárraven","mods":[0,7,0,0,0]}
-{"id":13,"name":"Blárraven+","mods":[0,11,0,0,0]}
+{"id":12,"name":"Serres saphir","mods":[0,7,0,0,0]}
+{"id":13,"name":"Serres saphir+","mods":[0,11,0,0,0]}
 {"id":14,"name":"Crocs saphir","mods":[0,6,0,0,0]}
 {"id":15,"name":"Crocs saphir+","mods":[0,10,0,0,0]}
 {"id":16,"name":"Bolganone","mods":[0,9,0,0,0]}
@@ -74,8 +74,8 @@
 {"id":78,"name":"Lance létale+","mods":[0,11,0,0,0]}
 {"id":79,"name":"Killing Edge","mods":[0,7,0,0,0]}
 {"id":80,"name":"Killing Edge+","mods":[0,11,0,0,0]}
-{"id":82,"name":"Light Breath","mods":[0,9,0,0,0]}
-{"id":83,"name":"Light Breath+","mods":[0,13,0,0,0]}
+{"id":82,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
+{"id":83,"name":"Souffle lumineux+","mods":[0,13,0,0,0]}
 {"id":85,"name":"Souffle électrique","mods":[0,7,0,0,0]}
 {"id":86,"name":"Souffle électrique","mods":[0,7,0,0,0]}
 {"id":87,"name":"Souffle électrique+","mods":[0,11,0,0,0]}
@@ -136,7 +136,7 @@
 {"id":142,"name":"Oeuf vert+","mods":[0,11,0,0,0]}
 {"id":143,"name":"Oeuf bleu+","mods":[0,11,0,0,0]}
 
-{"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
+{"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
 {"id":10002,"name":"Repli","mods":[0,0,0,0,0]}
 {"id":10003,"name":"Ordre impérieux","mods":[0,0,0,0,0]}
@@ -188,7 +188,7 @@
 {"id":20027,"name":"Ignition","mods":[0,0,0,0,0]}
 {"id":20028,"name":"Grâce","mods":[0,0,0,0,0]}
 {"id":20029,"name":"Baume ardent","mods":[0,0,0,0,0]}
-{"id":20030,"name":"Luna","mods":[0,0,0,0,0]}
+{"id":20030,"name":"Lunaire","mods":[0,0,0,0,0]}
 {"id":20031,"name":"Miracle","mods":[0,0,0,0,0]}
 {"id":20032,"name":"Arc lunaire","mods":[0,0,0,0,0]}
 {"id":20033,"name":"Nouvelle lune","mods":[0,0,0,0,0]}
@@ -260,6 +260,8 @@
 {"id":30050,"name":"Coup gardien 2","mods":[0,0,0,0,0]}
 {"id":30051,"name":"Coup gardien 3","mods":[0,0,0,0,0]}
 {"id":30052,"name":"Ecu de Iote","mods":[0,0,0,0,0]}
+{"id":30053,"name":"Atq/Déf +2","mods":[0,2,0,2,0]}
+{"id":30054,"name":"Hirondelle rapide 2","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Anti-Hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-Hache 2","mods":[0,0,0,0,0]}
@@ -300,30 +302,30 @@
 {"id":40037,"name":"Passage 1","mods":[0,0,0,0,0]}
 {"id":40038,"name":"Passage 2","mods":[0,0,0,0,0]}
 {"id":40039,"name":"Passage 3","mods":[0,0,0,0,0]}
-{"id":40040,"name":"Frappe Cigüe 1","mods":[0,0,0,0,0]}
-{"id":40041,"name":"Frappe Cigüe 2","mods":[0,0,0,0,0]}
-{"id":40042,"name":"Frappe Cigüe 3","mods":[0,0,0,0,0]}
-{"id":40043,"name":"Quick Riposte 1","mods":[0,0,0,0,0]}
-{"id":40044,"name":"Quick Riposte 2","mods":[0,0,0,0,0]}
-{"id":40045,"name":"Quick Riposte 3","mods":[0,0,0,0,0]}
+{"id":40040,"name":"Frappe cigüe 1","mods":[0,0,0,0,0]}
+{"id":40041,"name":"Frappe cigüe 2","mods":[0,0,0,0,0]}
+{"id":40042,"name":"Frappe cigüe 3","mods":[0,0,0,0,0]}
+{"id":40043,"name":"Double riposte 1","mods":[0,0,0,0,0]}
+{"id":40044,"name":"Double riposte 2","mods":[0,0,0,0,0]}
+{"id":40045,"name":"Double riposte 3","mods":[0,0,0,0,0]}
 {"id":40046,"name":"Anti-Tome (R.) 1","mods":[0,0,0,0,0]}
 {"id":40047,"name":"Anti-Tome (R.) 2","mods":[0,0,0,0,0]}
 {"id":40048,"name":"Anti-Tome (R.) 3","mods":[0,0,0,0,0]}
 {"id":40049,"name":"Guérison 1","mods":[0,0,0,0,0]}
 {"id":40050,"name":"Guérison 2","mods":[0,0,0,0,0]}
 {"id":40051,"name":"Guérison 3","mods":[0,0,0,0,0]}
-{"id":40052,"name":"Sceau Atq 1","mods":[0,0,0,0,0]}
-{"id":40053,"name":"Sceau Atq 2","mods":[0,0,0,0,0]}
-{"id":40054,"name":"Sceau Atq 3","mods":[0,0,0,0,0]}
-{"id":40055,"name":"Sceau Def 1","mods":[0,0,0,0,0]}
-{"id":40056,"name":"Sceau Def 2","mods":[0,0,0,0,0]}
-{"id":40057,"name":"Sceau Def 3","mods":[0,0,0,0,0]}
-{"id":40058,"name":"Sceau Rés 1","mods":[0,0,0,0,0]}
-{"id":40059,"name":"Sceau Rés 2","mods":[0,0,0,0,0]}
-{"id":40060,"name":"Sceau Rés 3","mods":[0,0,0,0,0]}
-{"id":40061,"name":"Sceau Vit 1","mods":[0,0,0,0,0]}
-{"id":40062,"name":"Sceau Vit 2","mods":[0,0,0,0,0]}
-{"id":40063,"name":"Sceau Vit 3","mods":[0,0,0,0,0]}
+{"id":40052,"name":"Sceau atq 1","mods":[0,0,0,0,0]}
+{"id":40053,"name":"Sceau atq 2","mods":[0,0,0,0,0]}
+{"id":40054,"name":"Sceau atq 3","mods":[0,0,0,0,0]}
+{"id":40055,"name":"Sceau def 1","mods":[0,0,0,0,0]}
+{"id":40056,"name":"Sceau def 2","mods":[0,0,0,0,0]}
+{"id":40057,"name":"Sceau def 3","mods":[0,0,0,0,0]}
+{"id":40058,"name":"Sceau rés 1","mods":[0,0,0,0,0]}
+{"id":40059,"name":"Sceau rés 2","mods":[0,0,0,0,0]}
+{"id":40060,"name":"Sceau rés 3","mods":[0,0,0,0,0]}
+{"id":40061,"name":"Sceau vit 1","mods":[0,0,0,0,0]}
+{"id":40062,"name":"Sceau vit 2","mods":[0,0,0,0,0]}
+{"id":40063,"name":"Sceau vit 3","mods":[0,0,0,0,0]}
 {"id":40064,"name":"Anti-Epée 1","mods":[0,0,0,0,0]}
 {"id":40065,"name":"Anti-Epée 2","mods":[0,0,0,0,0]}
 {"id":40066,"name":"Anti-Epée 3","mods":[0,0,0,0,0]}
@@ -336,12 +338,8 @@
 {"id":40073,"name":"Sauvetage 1","mods":[0,0,0,0,0]}
 {"id":40074,"name":"Sauvetage 2","mods":[0,0,0,0,0]}
 {"id":40075,"name":"Sauvetage 3","mods":[0,0,0,0,0]}
-
 {"id":40076,"name":"Honneur","mods":[0,0,0,0,0]}
 {"id":40077,"name":"Abondance","mods":[0,0,0,0,0]}
-{"id":50056,"name":"Expérience hache 3","mods":[0,0,0,0,0]}
-{"id":30053,"name":"Atq/Déf +2","mods":[0,2,0,2,0]}
-{"id":30054,"name":"Hirondelle rapide 2","mods":[0,2,0,2,0]}
 
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
@@ -398,3 +396,4 @@
 {"id":50053,"name":"Ward Armor","mods":[0,0,0,0,0]}
 {"id":50054,"name":"Ward Cavalry","mods":[0,0,0,0,0]}
 {"id":50055,"name":"Ward Fliers","mods":[0,0,0,0,0]}
+{"id":50056,"name":"Expérience hache 3","mods":[0,0,0,0,0]}
