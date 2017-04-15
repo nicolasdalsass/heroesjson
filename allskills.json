@@ -146,8 +146,8 @@
 {"id":40080,"name":"Windsweep 3","mods":[0,0,0,0,0]}
 {"id":40081,"name":"Hit and run","mods":[0,0,0,0,0]}
 {"id":50057,"name":"Bow Exp 1","mods":[0,0,0,0,0]}
-{"id":40080,"name":"Bow Exp 2","mods":[0,0,0,0,0]}
-{"id":40081,"name":"Bow Exp 3","mods":[0,0,0,0,0]}
+{"id":50058,"name":"Bow Exp 2","mods":[0,0,0,0,0]}
+{"id":50059,"name":"Bow Exp 3","mods":[0,0,0,0,0]}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0]}
