@@ -146,8 +146,8 @@
 +{"id":40080,"name":"Rafale 3","mods":[0,0,0,0,0]}
 +{"id":40081,"name":"Coup-esquive","mods":[0,0,0,0,0]}
 +{"id":50057,"name":"Exp. arc 1","mods":[0,0,0,0,0]}
-+{"id":40080,"name":"Exp. arc 2","mods":[0,0,0,0,0]}
-+{"id":40081,"name":"Exp. arc 3","mods":[0,0,0,0,0]}
++{"id":50058,"name":"Exp. arc 2","mods":[0,0,0,0,0]}
++{"id":50059,"name":"Exp. arc 3","mods":[0,0,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
