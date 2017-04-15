@@ -135,19 +135,8 @@
 {"id":141,"name":"Lance Carotte+","mods":[0,13,0,0,0]}
 {"id":142,"name":"Oeuf vert+","mods":[0,11,0,0,0]}
 {"id":143,"name":"Oeuf bleu+","mods":[0,11,0,0,0]}
-
 {"id":144,"name":"Arc enflammé","mods":[0,7,0,0,0]}
-+{"id":145,"name":"Arc enflammé+","mods":[0,11,0,0,0]}
-+{"id":30054,"name":"Forteresse 1","mods":[0,-3,0,3,0]}
-+{"id":30055,"name":"Forteresse 2","mods":[0,-3,0,4,0]}
-+{"id":30056,"name":"Forteresse 3","mods":[0,-3,0,5,0]}
-+{"id":40078,"name":"Rafale 1","mods":[0,0,0,0,0]}
-+{"id":40079,"name":"Rafale 2","mods":[0,0,0,0,0]}
-+{"id":40080,"name":"Rafale 3","mods":[0,0,0,0,0]}
-+{"id":40081,"name":"Coup-esquive","mods":[0,0,0,0,0]}
-+{"id":50057,"name":"Exp. arc 1","mods":[0,0,0,0,0]}
-+{"id":50058,"name":"Exp. arc 2","mods":[0,0,0,0,0]}
-+{"id":50059,"name":"Exp. arc 3","mods":[0,0,0,0,0]}
+{"id":145,"name":"Arc enflammé+","mods":[0,11,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -275,6 +264,9 @@
 {"id":30052,"name":"Ecu de Iote","mods":[0,0,0,0,0]}
 {"id":30053,"name":"Atq/Déf +2","mods":[0,2,0,2,0]}
 {"id":30054,"name":"Hirondelle rapide 2","mods":[0,0,0,0,0]}
+{"id":30055,"name":"Forteresse 1","mods":[0,-3,0,3,0]}
+{"id":30056,"name":"Forteresse 2","mods":[0,-3,0,4,0]}
+{"id":30057,"name":"Forteresse 3","mods":[0,-3,0,5,0]}
 
 {"id":40001,"name":"Anti-Hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-Hache 2","mods":[0,0,0,0,0]}
@@ -353,6 +345,10 @@
 {"id":40075,"name":"Sauvetage 3","mods":[0,0,0,0,0]}
 {"id":40076,"name":"Honneur","mods":[0,0,0,0,0]}
 {"id":40077,"name":"Abondance","mods":[0,0,0,0,0]}
+{"id":40078,"name":"Rafale 1","mods":[0,0,0,0,0]}
+{"id":40079,"name":"Rafale 2","mods":[0,0,0,0,0]}
+{"id":40080,"name":"Rafale 3","mods":[0,0,0,0,0]}
+{"id":40081,"name":"Coup-esquive","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
@@ -410,3 +406,6 @@
 {"id":50054,"name":"Ward Cavalry","mods":[0,0,0,0,0]}
 {"id":50055,"name":"Ward Fliers","mods":[0,0,0,0,0]}
 {"id":50056,"name":"Expérience hache 3","mods":[0,0,0,0,0]}
+{"id":50057,"name":"Exp. arc 1","mods":[0,0,0,0,0]}
+{"id":50058,"name":"Exp. arc 2","mods":[0,0,0,0,0]}
+{"id":50059,"name":"Exp. arc 3","mods":[0,0,0,0,0]}
