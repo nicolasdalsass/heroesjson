@@ -139,8 +139,8 @@
 {"id":144,"name":"Arc enflammé","mods":[0,7,0,0,0]}
 +{"id":145,"name":"Arc enflammé+","mods":[0,11,0,0,0]}
 +{"id":30054,"name":"Forteresse 1","mods":[0,-3,0,3,0]}
-+{"id":30054,"name":"Forteresse 2","mods":[0,-3,0,4,0]}
-+{"id":30054,"name":"Forteresse 3","mods":[0,-3,0,5,0]}
++{"id":30055,"name":"Forteresse 2","mods":[0,-3,0,4,0]}
++{"id":30056,"name":"Forteresse 3","mods":[0,-3,0,5,0]}
 +{"id":40078,"name":"Rafale 1","mods":[0,0,0,0,0]}
 +{"id":40079,"name":"Rafale 2","mods":[0,0,0,0,0]}
 +{"id":40080,"name":"Rafale 3","mods":[0,0,0,0,0]}
