@@ -138,6 +138,8 @@
 {"id":144,"name":"Arc enflammé","mods":[0,7,0,0,0]}
 {"id":145,"name":"Arc enflammé+","mods":[0,11,0,0,0]}
 {"id":146,"name":"Eckesachs","mods":[0,16,0,0,0]}
+{"id":147,"name":"Ragnell","mods":[0,16,0,0,0]}
+{"id":148,"name":"Fimbulvetr+","mods":[0,13,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -161,7 +163,6 @@
 {"id":10019,"name":"Chant","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Charge","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Inversion","mods":[0,0,0,0,0]}
-
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
 {"id":20003,"name":"Stellaire","mods":[0,0,0,0,0]}
@@ -268,6 +269,9 @@
 {"id":30055,"name":"Forteresse 1","mods":[0,-3,0,3,0]}
 {"id":30056,"name":"Forteresse 2","mods":[0,-3,0,4,0]}
 {"id":30057,"name":"Forteresse 3","mods":[0,-3,0,5,0]}
+{"id":30058,"name":"Heavy Blade 1","mods":[0,0,0,0,0]}
+{"id":30059,"name":"Heavy Blade 2","mods":[0,0,0,0,0]}
+{"id":30060,"name":"Heavy Blade 3","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Anti-Hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-Hache 2","mods":[0,0,0,0,0]}
@@ -350,6 +354,12 @@
 {"id":40079,"name":"Rafale 2","mods":[0,0,0,0,0]}
 {"id":40080,"name":"Rafale 3","mods":[0,0,0,0,0]}
 {"id":40081,"name":"Coup-esquive","mods":[0,0,0,0,0]}
+{"id":40082,"name":"Watersweep 1","mods":[0,0,0,0,0]}
+{"id":40083,"name":"Watersweep 2","mods":[0,0,0,0,0]}
+{"id":40084,"name":"Watersweep 3","mods":[0,0,0,0,0]}
+{"id":40085,"name":"Guard 1","mods":[0,0,0,0,0]}
+{"id":40086,"name":"Guard 2","mods":[0,0,0,0,0]}
+{"id":40087,"name":"Guard 3","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
@@ -410,3 +420,6 @@
 {"id":50057,"name":"Exp. arc 1","mods":[0,0,0,0,0]}
 {"id":50058,"name":"Exp. arc 2","mods":[0,0,0,0,0]}
 {"id":50059,"name":"Exp. arc 3","mods":[0,0,0,0,0]}
+{"id":50060,"name":"Encens Def/Res 1","mods":[0,0,0,0,0]}
+{"id":50061,"name":"Encens Def/Res 2","mods":[0,0,0,0,0]}
+{"id":50062,"name":"Encens Def/Res 3","mods":[0,0,0,0,0]}
