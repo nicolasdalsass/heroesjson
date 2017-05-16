@@ -169,6 +169,7 @@
 {"id":10019,"name":"Sing","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Smite","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Swap","mods":[0,0,0,0,0]}
+
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
 {"id":20003,"name":"Astra","mods":[0,0,0,0,0]}
@@ -217,6 +218,7 @@
 {"id":20046,"name":"Still-Water Balm","mods":[0,0,0,0,0]}
 {"id":20047,"name":"Swift-Winds Balm","mods":[0,0,0,0,0]}
 {"id":20048,"name":"Vengeance","mods":[0,0,0,0,0]}
+{"id":20049,"name":"Heavenly Light","mods":[0,0,0,0,0]}
 
 {"id":30001,"name":"Armored Blow 1","mods":[0,0,0,0,0]}
 {"id":30002,"name":"Armored Blow 2","mods":[0,0,0,0,0]}
@@ -372,6 +374,9 @@
 {"id":40085,"name":"Guard 1","mods":[0,0,0,0,0]}
 {"id":40086,"name":"Guard 2","mods":[0,0,0,0,0]}
 {"id":40087,"name":"Guard 3","mods":[0,0,0,0,0]}
+{"id":40088,"name":"Wrathful Staff 1","mods":[0,0,0,0,0]}
+{"id":40089,"name":"Wrathful Staff 2","mods":[0,0,0,0,0]}
+{"id":40090,"name":"Wrathful Staff 3","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0]}
