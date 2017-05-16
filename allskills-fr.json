@@ -141,6 +141,9 @@
 {"id":147,"name":"Ragnell","mods":[0,16,0,0,0]}
 {"id":148,"name":"Fimbulvetr+","mods":[0,13,0,0,0]}
 {"id":149,"name":"Siegfried","mods":[0,16,0,0,0]}
+{"id":150,"name":"Ragnarök","mods":[0,14,0,0,0]}
+{"id":151,"name":"Ailes émeraude","mods":[0,6,0,0,0]}
+{"id":152,"name":"Ailes émeraude+","mods":[0,10,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -212,6 +215,9 @@
 {"id":20046,"name":"Baume apaisant","mods":[0,0,0,0,0]}
 {"id":20047,"name":"Baume vivifiant","mods":[0,0,0,0,0]}
 {"id":20048,"name":"Vengeance","mods":[0,0,0,0,0]}
+{"id":30061,"name":"Déf à distance 1","mods":[0,0,0,0,0]}
+{"id":30062,"name":"Déf à distance 2","mods":[0,0,0,0,0]}
+{"id":30063,"name":"Déf à distance 3","mods":[0,0,0,0,0]}
 
 {"id":30001,"name":"Coup blindé 1","mods":[0,0,0,0,0]}
 {"id":30002,"name":"Coup blindé 2","mods":[0,0,0,0,0]}
