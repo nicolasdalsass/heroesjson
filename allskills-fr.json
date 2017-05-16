@@ -144,6 +144,8 @@
 {"id":150,"name":"Ragnarök","mods":[0,14,0,0,0]}
 {"id":151,"name":"Ailes émeraude","mods":[0,6,0,0,0]}
 {"id":152,"name":"Ailes émeraude+","mods":[0,10,0,0,0]}
+{"id":153,"name":"Ailes Saphir","mods":[0,6,0,0,0]}
+{"id":154,"name":"Ailes Saphir+","mods":[0,10,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -218,6 +220,9 @@
 {"id":30061,"name":"Déf à distance 1","mods":[0,0,0,0,0]}
 {"id":30062,"name":"Déf à distance 2","mods":[0,0,0,0,0]}
 {"id":30063,"name":"Déf à distance 3","mods":[0,0,0,0,0]}
+{"id":30064,"name":"Boost Fortifiant 1","mods":[0,0,0,0,0]}
+{"id":30065,"name":"Boost Fortifiant 2","mods":[0,0,0,0,0]}
+{"id":30066,"name":"Boost Fortifiant 3","mods":[0,0,0,0,0]}
 
 {"id":30001,"name":"Coup blindé 1","mods":[0,0,0,0,0]}
 {"id":30002,"name":"Coup blindé 2","mods":[0,0,0,0,0]}
@@ -430,3 +435,6 @@
 {"id":50060,"name":"Encens Def/Res 1","mods":[0,0,0,0,0]}
 {"id":50061,"name":"Encens Def/Res 2","mods":[0,0,0,0,0]}
 {"id":50062,"name":"Encens Def/Res 3","mods":[0,0,0,0,0]}
+{"id":50063,"name":"Exp. tome bleu 1","mods":[0,0,0,0,0]}
+{"id":50064,"name":"Exp. tome bleu 2","mods":[0,0,0,0,0]}
+{"id":50065,"name":"Exp. tome bleu 3","mods":[0,0,0,0,0]}
