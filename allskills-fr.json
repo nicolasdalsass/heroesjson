@@ -146,6 +146,11 @@
 {"id":152,"name":"Ailes émeraude+","mods":[0,10,0,0,0]}
 {"id":153,"name":"Ailes Saphir","mods":[0,6,0,0,0]}
 {"id":154,"name":"Ailes Saphir+","mods":[0,10,0,0,0]}
+{"id":155,"name":"Regal Blade","mods":[0,16,0,0,0]}
+{"id":156,"name":"Blessed Bouquet+","mods":[0,12,0,0,0]}
+{"id":157,"name":"First Bite+","mods":[0,14,0,0,0]}
+{"id":158,"name":"Cupid Arrow+","mods":[0,12,0,0,0]}
+{"id":159,"name":"Candlelight","mods":[0,7,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -156,10 +161,10 @@
 {"id":10006,"name":"Mend","mods":[0,0,0,0,0]}
 {"id":10007,"name":"Physic","mods":[0,0,0,0,0]}
 {"id":10008,"name":"Pivot","mods":[0,0,0,0,0]}
-{"id":10009,"name":"Ralliement: Attaque","mods":[0,0,0,0,0]}
-{"id":10010,"name":"Ralliement: Defense","mods":[0,0,0,0,0]}
-{"id":10011,"name":"Ralliement: Résistance","mods":[0,0,0,0,0]}
-{"id":10012,"name":"Ralliement: Vitesse","mods":[0,0,0,0,0]}
+{"id":10009,"name":"Ralliement: Atq.","mods":[0,0,0,0,0]}
+{"id":10010,"name":"Ralliement: Def.","mods":[0,0,0,0,0]}
+{"id":10011,"name":"Ralliement: Rés.","mods":[0,0,0,0,0]}
+{"id":10012,"name":"Ralliement: Vit.","mods":[0,0,0,0,0]}
 {"id":10013,"name":"Interversion","mods":[0,0,0,0,0]}
 {"id":10014,"name":"Cercle vertueux","mods":[0,0,0,0,0]}
 {"id":10015,"name":"Recover","mods":[0,0,0,0,0]}
@@ -169,6 +174,7 @@
 {"id":10019,"name":"Chant","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Charge","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Inversion","mods":[0,0,0,0,0]}
+{"id":10022,"name":"Ralliement Atq/Spd","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
@@ -286,6 +292,11 @@
 {"id":30064,"name":"Boost Fortifiant 1","mods":[0,0,0,0,0]}
 {"id":30065,"name":"Boost Fortifiant 2","mods":[0,0,0,0,0]}
 {"id":30066,"name":"Boost Fortifiant 3","mods":[0,0,0,0,0]}
+{"id":30067,"name":"Atq/Rés +1","mods":[0,1,0,0,1]}
+{"id":30068,"name":"Atq/Rés +2","mods":[0,2,0,0,2]}
+{"id":30069,"name":"Wind Boost 1","mods":[0,0,0,0,0]}
+{"id":30070,"name":"Wind Boost 2","mods":[0,0,0,0,0]}
+{"id":30071,"name":"Wind Boost 3","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Anti-Hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-Hache 2","mods":[0,0,0,0,0]}
@@ -377,6 +388,9 @@
 {"id":40088,"name":"Bâton furieux 1","mods":[0,0,0,0,0]}
 {"id":40089,"name":"Bâton furieux 2","mods":[0,0,0,0,0]}
 {"id":40090,"name":"Bâton furieux 3","mods":[0,0,0,0,0]}
+{"id":40091,"name":"Dazzling Staff 1","mods":[0,0,0,0,0]}
+{"id":40092,"name":"Dazzling Staff 2","mods":[0,0,0,0,0]}
+{"id":40093,"name":"Dazzling Staff 3","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
