@@ -232,7 +232,7 @@
 {"id":30004,"name":"Attaque +1","mods":[0,1,0,0,0]}
 {"id":30005,"name":"Attaque +2","mods":[0,2,0,0,0]}
 {"id":30006,"name":"Attaque +3","mods":[0,3,0,0,0]}
-{"id":30007,"name":"Close Counter","mods":[0,0,0,0,0]}
+{"id":30007,"name":"Contre rapproché","mods":[0,0,0,0,0]}
 {"id":30008,"name":"Cp foudroyant 1","mods":[0,0,0,0,0]}
 {"id":30009,"name":"Cp foudroyant 2","mods":[0,0,0,0,0]}
 {"id":30010,"name":"Cp foudroyant 3","mods":[0,0,0,0,0]}
@@ -400,7 +400,7 @@
 {"id":50006,"name":"Impulsion Déf 1","mods":[0,0,0,0,0]}
 {"id":50007,"name":"Impulsion Déf 2","mods":[0,0,0,0,0]}
 {"id":50008,"name":"Impulsion Déf 3","mods":[0,0,0,0,0]}
-{"id":50009,"name":"Fortify Dragons","mods":[0,0,0,0,0]}
+{"id":50009,"name":"Prudence (Dra.)","mods":[0,0,0,0,0]}
 {"id":50010,"name":"Fortify Fliers","mods":[0,0,0,0,0]}
 {"id":50011,"name":"Impulsion Rés 1","mods":[0,0,0,0,0]}
 {"id":50012,"name":"Impulsion Rés 2","mods":[0,0,0,0,0]}
