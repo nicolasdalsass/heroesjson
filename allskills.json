@@ -151,6 +151,7 @@
 {"id":157,"name":"First Bite+","mods":[0,14,0,0,0]}
 {"id":158,"name":"Cupid Arrow+","mods":[0,12,0,0,0]}
 {"id":159,"name":"Candlelight","mods":[0,7,0,0,0]}
+{"id":160,"name":"Gradivus","mods":[0,16,0,0,0]}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0]}
@@ -297,7 +298,7 @@
 {"id":30069,"name":"Wind Boost 1","mods":[0,0,0,0,0]}
 {"id":30070,"name":"Wind Boost 2","mods":[0,0,0,0,0]}
 {"id":30071,"name":"Wind Boost 3","mods":[0,0,0,0,0]}
-
+{"id":30072,"name":"Grani's Shield","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0]}
