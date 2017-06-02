@@ -151,6 +151,7 @@
 {"id":157,"name":"1re bouchée +","mods":[0,14,0,0,0]}
 {"id":158,"name":"Flèche Cupidon +","mods":[0,12,0,0,0]}
 {"id":159,"name":"Lueur de bougie","mods":[0,7,0,0,0]}
+{"id":160,"name":"Gradivus","mods":[0,16,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -297,6 +298,7 @@
 {"id":30069,"name":"Boost Vivifiant 1","mods":[0,0,0,0,0]}
 {"id":30070,"name":"Boost Vivifiant 2","mods":[0,0,0,0,0]}
 {"id":30071,"name":"Boost Vivifiant 3","mods":[0,0,0,0,0]}
+{"id":30072,"name":"Écu de Grani","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Anti-hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-hache 2","mods":[0,0,0,0,0]}
