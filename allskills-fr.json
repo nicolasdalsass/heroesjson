@@ -59,13 +59,13 @@
 {"id":63,"name":"Marteau","mods":[0,8,0,0,0]}
 {"id":64,"name":"Marteau +","mods":[0,12,0,0,0]}
 {"id":65,"name":"Hauteclere","mods":[0,16,0,0,0]}
-{"id":66,"name":"Epieu Lourd","mods":[0,8,0,0,0]}
-{"id":67,"name":"Epieu Lourd +","mods":[0,12,0,0,0]}
+{"id":66,"name":"Épieu Lourd","mods":[0,8,0,0,0]}
+{"id":67,"name":"Épieu Lourd +","mods":[0,12,0,0,0]}
 {"id":68,"name":"Hache Acier","mods":[0,6,0,0,0]}
 {"id":69,"name":"Arc Acier","mods":[0,4,0,0,0]}
 {"id":70,"name":"Dague Acier","mods":[0,3,0,0,0]}
 {"id":71,"name":"Lance Acier","mods":[0,6,0,0,0]}
-{"id":72,"name":"Epée Acier","mods":[0,6,0,0,0]}
+{"id":72,"name":"Épée Acier","mods":[0,6,0,0,0]}
 {"id":73,"name":"Hache létale","mods":[0,7,0,0,0]}
 {"id":74,"name":"Hache létale +","mods":[0,11,0,0,0]}
 {"id":75,"name":"Arc létal","mods":[0,5,0,0,0]}
@@ -182,7 +182,7 @@
 {"id":20003,"name":"Stellaire","mods":[0,0,0,0,0]}
 {"id":20004,"name":"Feu déferlant","mods":[0,0,0,0,0]}
 {"id":20005,"name":"Lueur déferlante","mods":[0,0,0,0,0]}
-{"id":20006,"name":"Eclair déferlant","mods":[0,0,0,0,0]}
+{"id":20006,"name":"Éclair déferlant","mods":[0,0,0,0,0]}
 {"id":20007,"name":"Vent déferlant","mods":[0,0,0,0,0]}
 {"id":20008,"name":"Feu de joie","mods":[0,0,0,0,0]}
 {"id":20009,"name":"Bouclier","mods":[0,0,0,0,0]}
@@ -403,7 +403,7 @@
 {"id":50007,"name":"Impulsion Déf 2","mods":[0,0,0,0,0]}
 {"id":50008,"name":"Impulsion Déf 3","mods":[0,0,0,0,0]}
 {"id":50009,"name":"Prudence (Dra.)","mods":[0,0,0,0,0]}
-{"id":50010,"name":"Prudence (Vol)s","mods":[0,0,0,0,0]}
+{"id":50010,"name":"Prudence (Vol)","mods":[0,0,0,0,0]}
 {"id":50011,"name":"Impulsion Rés 1","mods":[0,0,0,0,0]}
 {"id":50012,"name":"Impulsion Rés 2","mods":[0,0,0,0,0]}
 {"id":50013,"name":"Impulsion Rés 3","mods":[0,0,0,0,0]}
