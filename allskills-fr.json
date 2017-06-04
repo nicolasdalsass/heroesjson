@@ -21,8 +21,8 @@
 {"id":21,"name":"Arc héros +","mods":[0,7,-5,0,0]}
 {"id":22,"name":"Lance héros","mods":[0,5,-5,0,0]}
 {"id":23,"name":"Lance héros +","mods":[0,8,-5,0,0]}
-{"id":24,"name":"Epée héros","mods":[0,5,-5,0,0]}
-{"id":25,"name":"Epée héros +","mods":[0,8,-5,0,0]}
+{"id":24,"name":"Épée héros","mods":[0,5,-5,0,0]}
+{"id":25,"name":"Épée héros +","mods":[0,8,-5,0,0]}
 {"id":26,"name":"Brynhildr","mods":[0,14,0,0,0]}
 {"id":27,"name":"Cymbeline","mods":[0,14,0,0,0]}
 {"id":28,"name":"Souffle sombre","mods":[0,9,0,0,0]}
@@ -113,8 +113,8 @@
 {"id":119,"name":"Dague argent +","mods":[0,10,0,0,0]}
 {"id":120,"name":"Lance argent","mods":[0,11,0,0,0]}
 {"id":121,"name":"Lance argent +","mods":[0,15,0,0,0]}
-{"id":122,"name":"Epée argent","mods":[0,11,0,0,0]}
-{"id":123,"name":"Epée argent +","mods":[0,15,0,0,0]}
+{"id":122,"name":"Épée argent","mods":[0,11,0,0,0]}
+{"id":123,"name":"Épée argent +","mods":[0,15,0,0,0]}
 {"id":124,"name":"Lenteur","mods":[0,5,0,0,0]}
 {"id":125,"name":"Dague fumigène","mods":[0,6,0,0,0]}
 {"id":126,"name":"Dague fumigène +","mods":[0,9,0,0,0]}
@@ -123,7 +123,7 @@
 {"id":129,"name":"Arc acier","mods":[0,6,0,0,0]}
 {"id":130,"name":"Dague acier","mods":[0,5,0,0,0]}
 {"id":131,"name":"Lance acier","mods":[0,8,0,0,0]}
-{"id":132,"name":"Epée acier","mods":[0,8,0,0,0]}
+{"id":132,"name":"Épée acier","mods":[0,8,0,0,0]}
 {"id":133,"name":"Thoron","mods":[0,9,0,0,0]}
 {"id":134,"name":"Foudre","mods":[0,4,0,0,0]}
 {"id":135,"name":"Tyrfing","mods":[0,16,0,0,0]}
@@ -178,7 +178,7 @@
 {"id":10022,"name":"Ralliem: Atq/Vit","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Égide","mods":[0,0,0,0,0]}
-{"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
+{"id":20002,"name":"Éther","mods":[0,0,0,0,0]}
 {"id":20003,"name":"Stellaire","mods":[0,0,0,0,0]}
 {"id":20004,"name":"Feu déferlant","mods":[0,0,0,0,0]}
 {"id":20005,"name":"Lueur déferlante","mods":[0,0,0,0,0]}
