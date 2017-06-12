@@ -41,7 +41,7 @@
 {"id":41,"name":"Fenrir","mods":[0,9,0,0,0]}
 {"id":42,"name":"Fenrir +","mods":[0,13,0,0,0]}
 {"id":43,"name":"Fensalir","mods":[0,16,0,0,0]}
-{"id":44,"name":"Fire","mods":[0,4,0,0,0]}
+{"id":44,"name":"Feu","mods":[0,4,0,0,0]}
 {"id":45,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
 {"id":50,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
 {"id":51,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
@@ -61,11 +61,11 @@
 {"id":65,"name":"Hauteclere","mods":[0,16,0,0,0]}
 {"id":66,"name":"Épieu Lourd","mods":[0,8,0,0,0]}
 {"id":67,"name":"Épieu Lourd +","mods":[0,12,0,0,0]}
-{"id":68,"name":"Hache Acier","mods":[0,6,0,0,0]}
-{"id":69,"name":"Arc Acier","mods":[0,4,0,0,0]}
-{"id":70,"name":"Dague Acier","mods":[0,3,0,0,0]}
-{"id":71,"name":"Lance Acier","mods":[0,6,0,0,0]}
-{"id":72,"name":"Épée Acier","mods":[0,6,0,0,0]}
+{"id":68,"name":"Hache Fer","mods":[0,6,0,0,0]}
+{"id":69,"name":"Arc Fer","mods":[0,4,0,0,0]}
+{"id":70,"name":"Dague Fer","mods":[0,3,0,0,0]}
+{"id":71,"name":"Lance Fer","mods":[0,6,0,0,0]}
+{"id":72,"name":"Épée Fer","mods":[0,6,0,0,0]}
 {"id":73,"name":"Hache létale","mods":[0,7,0,0,0]}
 {"id":74,"name":"Hache létale +","mods":[0,11,0,0,0]}
 {"id":75,"name":"Arc létal","mods":[0,5,0,0,0]}
