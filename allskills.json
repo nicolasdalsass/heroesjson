@@ -1,206 +1,206 @@
-{"id":1,"name":"Absorb","mods":[0,4,0,0,0]}
-{"id":2,"name":"Armads","mods":[0,16,0,0,0]}
-{"id":3,"name":"Armorslayer","mods":[0,8,0,0,0]}
-{"id":4,"name":"Armorslayer+","mods":[0,12,0,0,0]}
-{"id":5,"name":"Assassin's Bow","mods":[0,7,0,0,0]}
-{"id":6,"name":"Assassin's Bow+","mods":[0,11,0,0,0]}
-{"id":7,"name":"Assault","mods":[0,10,0,0,0]}
-{"id":8,"name":"Aura","mods":[0,14,0,0,0]}
-{"id":9,"name":"Binding Blade","mods":[0,16,0,0,0]}
-{"id":10,"name":"Blárblade","mods":[0,9,0,0,0]}
-{"id":11,"name":"Blárblade +","mods":[0,13,0,0,0]}
-{"id":12,"name":"Blárraven","mods":[0,7,0,0,0]}
-{"id":13,"name":"Blárraven+","mods":[0,11,0,0,0]}
-{"id":14,"name":"Blárwolf","mods":[0,6,0,0,0]}
-{"id":15,"name":"Blárwolf+","mods":[0,10,0,0,0]}
-{"id":16,"name":"Bolganone","mods":[0,9,0,0,0]}
-{"id":17,"name":"Bolganone+","mods":[0,13,0,0,0]}
-{"id":18,"name":"Brave Axe","mods":[0,5,-5,0,0]}
-{"id":19,"name":"Brave Axe+","mods":[0,8,-5,0,0]}
-{"id":20,"name":"Brave Bow","mods":[0,4,-5,0,0]}
-{"id":21,"name":"Brave Bow+","mods":[0,7,-5,0,0]}
-{"id":22,"name":"Brave Lance","mods":[0,5,-5,0,0]}
-{"id":23,"name":"Brave Lance+","mods":[0,8,-5,0,0]}
-{"id":24,"name":"Brave Sword","mods":[0,5,-5,0,0]}
-{"id":25,"name":"Brave Sword+","mods":[0,8,-5,0,0]}
-{"id":26,"name":"Brynhildr","mods":[0,14,0,0,0]}
-{"id":27,"name":"Cymbeline","mods":[0,14,0,0,0]}
-{"id":28,"name":"Dark Breath","mods":[0,9,0,0,0]}
-{"id":29,"name":"Dark Breath+","mods":[0,13,0,0,0]}
-{"id":30,"name":"Deathly Dagger","mods":[0,11,0,0,0]}
-{"id":31,"name":"Dire Thunder","mods":[0,9,-5,0,0]}
-{"id":32,"name":"Durandal","mods":[0,16,0,0,0]}
-{"id":33,"name":"Elfire","mods":[0,6,0,0,0]}
-{"id":34,"name":"Elthunder","mods":[0,6,0,0,0]}
-{"id":35,"name":"Elwind","mods":[0,6,0,0,0]}
-{"id":36,"name":"Emerald Axe","mods":[0,8,0,0,0]}
-{"id":37,"name":"Emerald Axe+","mods":[0,12,0,0,0]}
-{"id":38,"name":"Excalibur","mods":[0,14,0,0,0]}
-{"id":39,"name":"Falchion","mods":[0,16,0,0,0]}
-{"id":40,"name":"Fear","mods":[0,5,0,0,0]}
-{"id":41,"name":"Fenrir","mods":[0,9,0,0,0]}
-{"id":42,"name":"Fenrir+","mods":[0,13,0,0,0]}
-{"id":43,"name":"Fensalir","mods":[0,16,0,0,0]}
-{"id":44,"name":"Fire","mods":[0,4,0,0,0]}
-{"id":45,"name":"Fire Breath","mods":[0,6,0,0,0]}
-{"id":50,"name":"Fire Breath+","mods":[0,8,0,0,0]}
-{"id":51,"name":"Flametongue","mods":[0,11,0,0,0]}
-{"id":52,"name":"Flametongue+","mods":[0,15,0,0,0]}
-{"id":53,"name":"Flux","mods":[0,4,0,0,0]}
-{"id":54,"name":"Fólkvangr","mods":[0,16,0,0,0]}
-{"id":55,"name":"FujinYumi","mods":[0,14,0,0,0]}
-{"id":56,"name":"Gravity","mods":[0,6,0,0,0]}
-{"id":57,"name":"Gronnblade","mods":[0,9,0,0,0]}
-{"id":58,"name":"Gronnblade+","mods":[0,13,0,0,0]}
-{"id":59,"name":"Gronnraven","mods":[0,7,0,0,0]}
-{"id":60,"name":"Gronnraven+","mods":[0,11,0,0,0]}
-{"id":61,"name":"Gronnwolf","mods":[0,6,0,0,0]}
-{"id":62,"name":"Gronnwolf+","mods":[0,10,0,0,0]}
-{"id":63,"name":"Hammer","mods":[0,8,0,0,0]}
-{"id":64,"name":"Hammer+","mods":[0,12,0,0,0]}
-{"id":65,"name":"Hauteclere","mods":[0,16,0,0,0]}
-{"id":66,"name":"Heavy Spear","mods":[0,8,0,0,0]}
-{"id":67,"name":"Heavy Spear+","mods":[0,12,0,0,0]}
-{"id":68,"name":"Iron Axe","mods":[0,6,0,0,0]}
-{"id":69,"name":"Iron Bow","mods":[0,4,0,0,0]}
-{"id":70,"name":"Iron Dagger","mods":[0,3,0,0,0]}
-{"id":71,"name":"Iron Lance","mods":[0,6,0,0,0]}
-{"id":72,"name":"Iron Sword","mods":[0,6,0,0,0]}
-{"id":73,"name":"Killer Axe","mods":[0,7,0,0,0]}
-{"id":74,"name":"Killer Axe+","mods":[0,11,0,0,0]}
-{"id":75,"name":"Killer Bow","mods":[0,5,0,0,0]}
-{"id":76,"name":"Killer Bow+","mods":[0,9,0,0,0]}
-{"id":77,"name":"Killer Lance","mods":[0,7,0,0,0]}
-{"id":78,"name":"Killer Lance+","mods":[0,11,0,0,0]}
-{"id":79,"name":"Killing Edge","mods":[0,7,0,0,0]}
-{"id":80,"name":"Killing Edge+","mods":[0,11,0,0,0]}
-{"id":82,"name":"Light Breath","mods":[0,9,0,0,0]}
-{"id":83,"name":"Light Breath+","mods":[0,13,0,0,0]}
-{"id":85,"name":"Lightning Breath","mods":[0,7,0,0,0]}
-{"id":86,"name":"Lightning Breath","mods":[0,7,0,0,0]}
-{"id":87,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
-{"id":88,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
-{"id":89,"name":"Mystletainn","mods":[0,16,0,0,0]}
-{"id":90,"name":"Naga","mods":[0,14,0,0,0]}
-{"id":91,"name":"Nóatún","mods":[0,16,0,0,0]}
-{"id":92,"name":"Pain","mods":[0,3,0,0,0]}
-{"id":93,"name":"Panic","mods":[0,7,0,0,0]}
-{"id":94,"name":"Parthia","mods":[0,14,0,0,0]}
-{"id":95,"name":"Poison Dagger","mods":[0,2,0,0,0]}
-{"id":96,"name":"Poison Dagger+","mods":[0,5,0,0,0]}
-{"id":97,"name":"Raijinto","mods":[0,16,0,0,0]}
-{"id":98,"name":"Rauðrblade","mods":[0,9,0,0,0]}
-{"id":99,"name":"Rauðrblade+","mods":[0,13,0,0,0]}
-{"id":100,"name":"Rauðrraven","mods":[0,7,0,0,0]}
-{"id":101,"name":"Rauðrraven+","mods":[0,11,0,0,0]}
-{"id":102,"name":"Rauðrwolf","mods":[0,6,0,0,0]}
-{"id":103,"name":"Rauðrwolf+","mods":[0,10,0,0,0]}
-{"id":104,"name":"Rexcalibur","mods":[0,9,0,0,0]}
-{"id":105,"name":"Rogue Dagger","mods":[0,4,0,0,0]}
-{"id":106,"name":"Rogue Dagger+","mods":[0,7,0,0,0]}
-{"id":107,"name":"Ruby Sword","mods":[0,8,0,0,0]}
-{"id":108,"name":"Ruby Sword+","mods":[0,12,0,0,0]}
-{"id":109,"name":"Ruin","mods":[0,6,0,0,0]}
-{"id":110,"name":"Sapphire Lance","mods":[0,8,0,0,0]}
-{"id":111,"name":"Sapphire Lance+","mods":[0,12,0,0,0]}
-{"id":112,"name":"Sieglinde","mods":[0,16,0,0,0]}
-{"id":113,"name":"Siegmund","mods":[0,16,0,0,0]}
-{"id":114,"name":"Silver Axe","mods":[0,11,0,0,0]}
-{"id":115,"name":"Silver Axe+","mods":[0,15,0,0,0]}
-{"id":116,"name":"Silver Bow","mods":[0,9,0,0,0]}
-{"id":117,"name":"Silver Bow+","mods":[0,13,0,0,0]}
-{"id":118,"name":"Silver Dagger","mods":[0,7,0,0,0]}
-{"id":119,"name":"Silver Dagger+","mods":[0,10,0,0,0]}
-{"id":120,"name":"Silver Lance","mods":[0,11,0,0,0]}
-{"id":121,"name":"Silver Lance+","mods":[0,15,0,0,0]}
-{"id":122,"name":"Silver Sword","mods":[0,11,0,0,0]}
-{"id":123,"name":"Silver Sword+","mods":[0,15,0,0,0]}
-{"id":124,"name":"Slow","mods":[0,5,0,0,0]}
-{"id":125,"name":"Smoke Dagger","mods":[0,6,0,0,0]}
-{"id":126,"name":"Smoke Dagger+","mods":[0,9,0,0,0]}
-{"id":127,"name":"Sol Katti","mods":[0,16,0,0,0]}
-{"id":128,"name":"Steel Axe","mods":[0,8,0,0,0]}
-{"id":129,"name":"Steel Bow","mods":[0,6,0,0,0]}
-{"id":130,"name":"Steel Dagger","mods":[0,5,0,0,0]}
-{"id":131,"name":"Steel Lance","mods":[0,8,0,0,0]}
-{"id":132,"name":"Steel Sword","mods":[0,8,0,0,0]}
-{"id":133,"name":"Thoron","mods":[0,9,0,0,0]}
-{"id":134,"name":"Thunder","mods":[0,4,0,0,0]}
-{"id":135,"name":"Tyrfing","mods":[0,16,0,0,0]}
-{"id":136,"name":"Wind","mods":[0,4,0,0,0]}
-{"id":137,"name":"Wo Dao","mods":[0,9,0,0,0]}
-{"id":138,"name":"Wo Dao+","mods":[0,13,0,0,0]}
-{"id":139,"name":"Yato","mods":[0,16,0,0,0]}
-{"id":140,"name":"Carrot Axe+","mods":[0,13,0,0,0]}
-{"id":141,"name":"Carrot Lance+","mods":[0,13,0,0,0]}
-{"id":142,"name":"Green Egg+","mods":[0,11,0,0,0]}
-{"id":143,"name":"Blue Egg+","mods":[0,11,0,0,0]}
-{"id":144,"name":"Firesweep Bow","mods":[0,7,0,0,0]}
-{"id":145,"name":"Firesweep Bow+","mods":[0,11,0,0,0]}
-{"id":146,"name":"Eckesachs","mods":[0,16,0,0,0]}
-{"id":147,"name":"Ragnell","mods":[0,16,0,0,0]}
-{"id":148,"name":"Rexcalibur+","mods":[0,13,0,0,0]}
-{"id":149,"name":"Siegfried","mods":[0,16,0,0,0]}
-{"id":150,"name":"Ragnarok","mods":[0,14,0,0,0]}
-{"id":151,"name":"Gronnowl","mods":[0,6,0,0,0]}
-{"id":152,"name":"Gronnowl+","mods":[0,10,0,0,0]}
-{"id":153,"name":"Blárowl","mods":[0,6,0,0,0]}
-{"id":154,"name":"Blárowl+","mods":[0,10,0,0,0]}
-{"id":155,"name":"Regal Blade","mods":[0,16,0,0,0]}
-{"id":156,"name":"Blessed Bouquet+","mods":[0,12,0,0,0]}
-{"id":157,"name":"First Bite+","mods":[0,14,0,0,0]}
-{"id":158,"name":"Cupid Arrow+","mods":[0,12,0,0,0]}
-{"id":159,"name":"Candlelight","mods":[0,7,0,0,0]}
-{"id":160,"name":"Gradivus","mods":[0,16,0,0,0]}
-{"id":161,"name":"Blessed Bouquet","mods":[0,9,0,0,0]}
-{"id":162,"name":"First Bite","mods":[0,10,0,0,0]}
-{"id":163,"name":"Cupid Arrow","mods":[0,8,0,0,0]}
-{"id":164,"name":"Carrot Axe","mods":[0,9,0,0,0]}
-{"id":165,"name":"Carrot Lance","mods":[0,9,0,0,0]}
-{"id":166,"name":"Green Egg","mods":[0,7,0,0,0]}
-{"id":167,"name":"Blue Egg","mods":[0,7,0,0,0]}
-{"id":168,"name":"Fire Breath","mods":[0,6,0,0,0]}
-{"id":169,"name":"Fire Breath+","mods":[0,8,0,0,0]}
-{"id":170,"name":"Fire Breath","mods":[0,6,0,0,0]}
-{"id":171,"name":"Fire Breath+","mods":[0,8,0,0,0]}
-{"id":172,"name":"Dark Breath","mods":[0,9,0,0,0]}
-{"id":173,"name":"Dark Breath+","mods":[0,13,0,0,0]}
-{"id":174,"name":"Dark Breath","mods":[0,9,0,0,0]}
-{"id":175,"name":"Dark Breath+","mods":[0,13,0,0,0]}
-{"id":176,"name":"Flametongue","mods":[0,11,0,0,0]}
-{"id":177,"name":"Flametongue+","mods":[0,15,0,0,0]}
-{"id":178,"name":"Flametongue","mods":[0,11,0,0,0]}
-{"id":179,"name":"Flametongue+","mods":[0,15,0,0,0]}
-{"id":180,"name":"Light Breath","mods":[0,9,0,0,0]}
-{"id":181,"name":"Light Breath+","mods":[0,13,0,0,0]}
-{"id":182,"name":"Light Breath","mods":[0,9,0,0,0]}
-{"id":183,"name":"Light Breath+","mods":[0,13,0,0,0]}
-{"id":184,"name":"Lightning Breath","mods":[0,7,0,0,0]}
-{"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
+{"id":1,"name":"Absorb","mods":[0,4,0,0,0],"color":"colorless","type":"staff","parents":[7]}
+{"id":2,"name":"Armads","mods":[0,16,0,0,0],"color":"green","type":"melee"}
+{"id":3,"name":"Armorslayer","mods":[0,8,0,0,0],"color":"red","type":"sword"}
+{"id":4,"name":"Armorslayer+","mods":[0,12,0,0,0],"color":"red","type":"sword"}
+{"id":5,"name":"Assassin's Bow","mods":[0,7,0,0,0],"color":"colorless","type":"bow"}
+{"id":6,"name":"Assassin's Bow+","mods":[0,11,0,0,0],"color":"colorless","type":"bow"}
+{"id":7,"name":"Assault","mods":[0,10,0,0,0],"color":"colorless","type":"staff"}
+{"id":8,"name":"Aura","mods":[0,14,0,0,0],"color":"blue","type":"tome","parents":[133]}
+{"id":9,"name":"Binding Blade","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":10,"name":"Blárblade","mods":[0,9,0,0,0],"color":"blue","type":"tome","parents":[34]}
+{"id":11,"name":"Blárblade +","mods":[0,13,0,0,0],"color":"blue","type":"tome","parents":[10]}
+{"id":12,"name":"Blárraven","mods":[0,7,0,0,0],"color":"blue","type":"tome","parents":[34]}
+{"id":13,"name":"Blárraven+","mods":[0,11,0,0,0],"color":"blue","type":"tome","parents":[12]}
+{"id":14,"name":"Blárwolf","mods":[0,6,0,0,0],"color":"blue","type":"tome","parents":[34]}
+{"id":15,"name":"Blárwolf+","mods":[0,10,0,0,0],"color":"blue","type":"tome","parents":[14]}
+{"id":16,"name":"Bolganone","mods":[0,9,0,0,0],"color":"red","type":"tome"}
+{"id":17,"name":"Bolganone+","mods":[0,13,0,0,0],"color":"red","type":"tome"}
+{"id":18,"name":"Brave Axe","mods":[0,5,-5,0,0],"color":"green","type":"melee"}
+{"id":19,"name":"Brave Axe+","mods":[0,8,-5,0,0],"color":"green","type":"melee"}
+{"id":20,"name":"Brave Bow","mods":[0,4,-5,0,0],"color":"colorless","type":"bow"}
+{"id":21,"name":"Brave Bow+","mods":[0,7,-5,0,0],"color":"colorless","type":"bow"}
+{"id":22,"name":"Brave Lance","mods":[0,5,-5,0,0],"color":"blue","type":"melee","parents":[131]}
+{"id":23,"name":"Brave Lance+","mods":[0,8,-5,0,0],"color":"blue","type":"melee","parents":[22]}
+{"id":24,"name":"Brave Sword","mods":[0,5,-5,0,0],"color":"red","type":"melee"}
+{"id":25,"name":"Brave Sword+","mods":[0,8,-5,0,0],"color":"red","type":"melee"}
+{"id":26,"name":"Brynhildr","mods":[0,14,0,0,0],"color":"red","type":"tome"}
+{"id":27,"name":"Cymbeline","mods":[0,14,0,0,0],"color":"red","type":"tome"}
+{"id":28,"name":"Dark Breath","mods":[0,9,0,0,0],"color":"blue","type":"breath","parents":[169]}
+{"id":29,"name":"Dark Breath+","mods":[0,13,0,0,0],"color":"blue","type":"breath","parents":[28]}
+{"id":30,"name":"Deathly Dagger","mods":[0,11,0,0,0],"color":"colorless","type":"dagger"}
+{"id":31,"name":"Dire Thunder","mods":[0,9,-5,0,0],"color":"blue","type":"tome"}
+{"id":32,"name":"Durandal","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":33,"name":"Elfire","mods":[0,6,0,0,0],"color":"red","type":"tome"}
+{"id":34,"name":"Elthunder","mods":[0,6,0,0,0],"color":"blue","type":"tome","parents":[134]}
+{"id":35,"name":"Elwind","mods":[0,6,0,0,0],"color":"green","type":"tome"}
+{"id":36,"name":"Emerald Axe","mods":[0,8,0,0,0],"color":"green","type":"melee"}
+{"id":37,"name":"Emerald Axe+","mods":[0,12,0,0,0],"color":"green","type":"melee"}
+{"id":38,"name":"Excalibur","mods":[0,14,0,0,0],"color":"red","type":"melee"}
+{"id":39,"name":"Falchion","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":40,"name":"Fear","mods":[0,5,0,0,0],"color":"colorless","type":"staff","parents":[7]}
+{"id":41,"name":"Fenrir","mods":[0,9,0,0,0],"color":"red","type":"tome"}
+{"id":42,"name":"Fenrir+","mods":[0,13,0,0,0],"color":"red","type":"tome"}
+{"id":43,"name":"Fensalir","mods":[0,16,0,0,0],"color":"blue","type":"melee","parents":[120]}
+{"id":44,"name":"Fire","mods":[0,4,0,0,0],"color":"red","type":"tome","parents":[]}
+{"id":45,"name":"Fire Breath","mods":[0,6,0,0,0],"color":"red","type":"breath","parents":[]}
+{"id":50,"name":"Fire Breath+","mods":[0,8,0,0,0],"color":"red","type":"breath","parents":[45]}
+{"id":51,"name":"Flametongue","mods":[0,11,0,0,0],"color":"red","type":"breath","parents":[50]}
+{"id":52,"name":"Flametongue+","mods":[0,15,0,0,0],"color":"red","type":"breath","parents":[51]}
+{"id":53,"name":"Flux","mods":[0,4,0,0,0],"color":"red","type":"tome"}
+{"id":54,"name":"Fólkvangr","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":55,"name":"FujinYumi","mods":[0,14,0,0,0],"color":"colorless","type":"bow"}
+{"id":56,"name":"Gravity","mods":[0,6,0,0,0],"color":"colorless","type":"staff","parents":[7]}
+{"id":57,"name":"Gronnblade","mods":[0,9,0,0,0],"color":"green","type":"tome"}
+{"id":58,"name":"Gronnblade+","mods":[0,13,0,0,0],"color":"green","type":"tome"}
+{"id":59,"name":"Gronnraven","mods":[0,7,0,0,0],"color":"green","type":"tome"}
+{"id":60,"name":"Gronnraven+","mods":[0,11,0,0,0],"color":"green","type":"tome"}
+{"id":61,"name":"Gronnwolf","mods":[0,6,0,0,0],"color":"green","type":"tome"}
+{"id":62,"name":"Gronnwolf+","mods":[0,10,0,0,0],"color":"green","type":"tome"}
+{"id":63,"name":"Hammer","mods":[0,8,0,0,0],"color":"green","type":"melee"}
+{"id":64,"name":"Hammer+","mods":[0,12,0,0,0],"color":"green","type":"melee"}
+{"id":65,"name":"Hauteclere","mods":[0,16,0,0,0],"color":"green","type":"melee"}
+{"id":66,"name":"Heavy Spear","mods":[0,8,0,0,0],"color":"blue","type":"melee","parents":[131]}
+{"id":67,"name":"Heavy Spear+","mods":[0,12,0,0,0],"color":"blue","type":"melee","parents":[66]}
+{"id":68,"name":"Iron Axe","mods":[0,6,0,0,0],"color":"green","type":"melee","parents":[]}
+{"id":69,"name":"Iron Bow","mods":[0,4,0,0,0],"color":"colorless","type":"bow","parents":[]}
+{"id":70,"name":"Iron Dagger","mods":[0,3,0,0,0],"color":"colorless","type":"dagger","parents":[]}
+{"id":71,"name":"Iron Lance","mods":[0,6,0,0,0],"color":"blue","type":"melee","parents":[]}
+{"id":72,"name":"Iron Sword","mods":[0,6,0,0,0],"color":"red","type":"melee","parents":[]}
+{"id":73,"name":"Killer Axe","mods":[0,7,0,0,0],"color":"green","type":"melee"}
+{"id":74,"name":"Killer Axe+","mods":[0,11,0,0,0],"color":"green","type":"melee"}
+{"id":75,"name":"Killer Bow","mods":[0,5,0,0,0],"color":"colorless","type":"bow"}
+{"id":76,"name":"Killer Bow+","mods":[0,9,0,0,0],"color":"colorless","type":"bow"}
+{"id":77,"name":"Killer Lance","mods":[0,7,0,0,0],"color":"blue","type":"melee","parents":[131]}
+{"id":78,"name":"Killer Lance+","mods":[0,11,0,0,0],"color":"blue","type":"melee","parents":[77]}
+{"id":79,"name":"Killing Edge","mods":[0,7,0,0,0],"color":"red","type":"melee"}
+{"id":80,"name":"Killing Edge+","mods":[0,11,0,0,0],"color":"red","type":"melee"}
+{"id":82,"name":"Light Breath","mods":[0,9,0,0,0],"color":"green","type":"breath","parents":[171]}
+{"id":83,"name":"Light Breath+","mods":[0,13,0,0,0],"color":"green","type":"breath","parents":[82]}
+{"id":85,"name":"Lightning Breath","mods":[0,7,0,0,0],"color":"blue","type":"breath","parents":[169]}
+{"id":86,"name":"Lightning Breath","mods":[0,7,0,0,0],"color":"blue","type":"breath","parents":[85]}
+{"id":87,"name":"Lightning Breath+","mods":[0,11,0,0,0],"color":"red","type":"breath","parents":[50]}
+{"id":88,"name":"Lightning Breath+","mods":[0,11,0,0,0],"color":"red","type":"breath","parents":[87]}
+{"id":89,"name":"Mystletainn","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":90,"name":"Naga","mods":[0,14,0,0,0],"color":"green","type":"tome"}
+{"id":91,"name":"Nóatún","mods":[0,16,0,0,0],"color":"green","type":"melee"}
+{"id":92,"name":"Pain","mods":[0,3,0,0,0],"color":"colorless","type":"staff","parents":[7]}
+{"id":93,"name":"Panic","mods":[0,7,0,0,0],"color":"colorless","type":"staff","parents":[7]}
+{"id":94,"name":"Parthia","mods":[0,14,0,0,0],"color":"colorless","type":"bow"}
+{"id":95,"name":"Poison Dagger","mods":[0,2,0,0,0],"color":"colorless","type":"dagger"}
+{"id":96,"name":"Poison Dagger+","mods":[0,5,0,0,0],"color":"colorless","type":"dagger"}
+{"id":97,"name":"Raijinto","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":98,"name":"Rauðrblade","mods":[0,9,0,0,0],"color":"red","type":"tome"}
+{"id":99,"name":"Rauðrblade+","mods":[0,13,0,0,0],"color":"red","type":"tome"}
+{"id":100,"name":"Rauðrraven","mods":[0,7,0,0,0],"color":"red","type":"tome"}
+{"id":101,"name":"Rauðrraven+","mods":[0,11,0,0,0],"color":"red","type":"tome"}
+{"id":102,"name":"Rauðrwolf","mods":[0,6,0,0,0],"color":"red","type":"tome"}
+{"id":103,"name":"Rauðrwolf+","mods":[0,10,0,0,0],"color":"red","type":"tome"}
+{"id":104,"name":"Rexcalibur","mods":[0,9,0,0,0],"color":"green","type":"tome"}
+{"id":105,"name":"Rogue Dagger","mods":[0,4,0,0,0],"color":"colorless","type":"dagger"}
+{"id":106,"name":"Rogue Dagger+","mods":[0,7,0,0,0],"color":"colorless","type":"dagger"}
+{"id":107,"name":"Ruby Sword","mods":[0,8,0,0,0],"color":"red","type":"melee"}
+{"id":108,"name":"Ruby Sword+","mods":[0,12,0,0,0],"color":"red","type":"melee"}
+{"id":109,"name":"Ruin","mods":[0,6,0,0,0],"color":"red","type":"tome"}
+{"id":110,"name":"Sapphire Lance","mods":[0,8,0,0,0],"color":"blue","type":"melee","parents":[131]}
+{"id":111,"name":"Sapphire Lance+","mods":[0,12,0,0,0],"color":"blue","type":"melee","parents":[110]}
+{"id":112,"name":"Sieglinde","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":113,"name":"Siegmund","mods":[0,16,0,0,0],"color":"blue","type":"melee","parents":[66]}
+{"id":114,"name":"Silver Axe","mods":[0,11,0,0,0],"color":"green","type":"melee"}
+{"id":115,"name":"Silver Axe+","mods":[0,15,0,0,0],"color":"green","type":"melee","parents":[114]}
+{"id":116,"name":"Silver Bow","mods":[0,9,0,0,0],"color":"colorless","type":"bow"}
+{"id":117,"name":"Silver Bow+","mods":[0,13,0,0,0],"color":"colorless","type":"bow","parents":[116]}
+{"id":118,"name":"Silver Dagger","mods":[0,7,0,0,0],"color":"colorless","type":"dagger"}
+{"id":119,"name":"Silver Dagger+","mods":[0,10,0,0,0],"color":"colorless","type":"dagger","parents":[118]}
+{"id":120,"name":"Silver Lance","mods":[0,11,0,0,0],"color":"blue","type":"melee","parents":[131]}
+{"id":121,"name":"Silver Lance+","mods":[0,15,0,0,0],"color":"blue","type":"melee","parents":[120]}
+{"id":122,"name":"Silver Sword","mods":[0,11,0,0,0],"color":"red","type":"melee"}
+{"id":123,"name":"Silver Sword+","mods":[0,15,0,0,0],"color":"red","type":"melee","parents":[122]}
+{"id":124,"name":"Slow","mods":[0,5,0,0,0],"color":"colorless","type":"staff","parents":[7]}
+{"id":125,"name":"Smoke Dagger","mods":[0,6,0,0,0],"color":"colorless","type":"dagger"}
+{"id":126,"name":"Smoke Dagger+","mods":[0,9,0,0,0],"color":"colorless","type":"dagger"}
+{"id":127,"name":"Sol Katti","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":128,"name":"Steel Axe","mods":[0,8,0,0,0],"color":"green","type":"melee","parents":[68]}
+{"id":129,"name":"Steel Bow","mods":[0,6,0,0,0],"color":"colorless","type":"bow","parents":[69]}
+{"id":130,"name":"Steel Dagger","mods":[0,5,0,0,0],"color":"colorless","type":"dagger","parents":[70]}
+{"id":131,"name":"Steel Lance","mods":[0,8,0,0,0],"color":"blue","type":"melee","parents":[71]}
+{"id":132,"name":"Steel Sword","mods":[0,8,0,0,0],"color":"red","type":"melee","parents":[72]}
+{"id":133,"name":"Thoron","mods":[0,9,0,0,0],"color":"blue","type":"tome","parents":[34]}
+{"id":134,"name":"Thunder","mods":[0,4,0,0,0],"color":"blue","type":"tome","parents":[]}
+{"id":135,"name":"Tyrfing","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":136,"name":"Wind","mods":[0,4,0,0,0],"color":"green","type":"tome","parents":[]}
+{"id":137,"name":"Wo Dao","mods":[0,9,0,0,0],"color":"red","type":"melee"}
+{"id":138,"name":"Wo Dao+","mods":[0,13,0,0,0],"color":"red","type":"melee"}
+{"id":139,"name":"Yato","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":140,"name":"Carrot Axe+","mods":[0,13,0,0,0],"color":"green","type":"melee","parents":[164]}
+{"id":141,"name":"Carrot Lance+","mods":[0,13,0,0,0],"color":"blue","type":"melee","parents":[165]}
+{"id":142,"name":"Green Egg+","mods":[0,11,0,0,0],"color":"green","type":"tome","parents":[166]}
+{"id":143,"name":"Blue Egg+","mods":[0,11,0,0,0],"color":"blue","type":"tome","parents":[167]}
+{"id":144,"name":"Firesweep Bow","mods":[0,7,0,0,0],"color":"colorless","type":"bow"}
+{"id":145,"name":"Firesweep Bow+","mods":[0,11,0,0,0],"color":"colorless","type":"bow"}
+{"id":146,"name":"Eckesachs","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":147,"name":"Ragnell","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":148,"name":"Rexcalibur+","mods":[0,13,0,0,0],"color":"green","type":"tome"}
+{"id":149,"name":"Siegfried","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":150,"name":"Ragnarok","mods":[0,14,0,0,0],"color":"red","type":"tome"}
+{"id":151,"name":"Gronnowl","mods":[0,6,0,0,0],"color":"green","type":"tome"}
+{"id":152,"name":"Gronnowl+","mods":[0,10,0,0,0],"color":"green","type":"tome"}
+{"id":153,"name":"Blárowl","mods":[0,6,0,0,0],"color":"blue","type":"tome","parents":[34]}
+{"id":154,"name":"Blárowl+","mods":[0,10,0,0,0],"color":"blue","type":"tome","parents":[153]}
+{"id":155,"name":"Regal Blade","mods":[0,16,0,0,0],"color":"red","type":"melee"}
+{"id":156,"name":"Blessed Bouquet+","mods":[0,12,0,0,0],"color":"blue","type":"tome","parents":[161]}
+{"id":157,"name":"First Bite+","mods":[0,14,0,0,0],"color":"blue","type":"melee","parents":[162]}
+{"id":158,"name":"Cupid Arrow+","mods":[0,12,0,0,0],"color":"colorless","type":"bow","parents":[163]}
+{"id":159,"name":"Candlelight","mods":[0,7,0,0,0],"color":"colorless","type":"staff","parents":[7]}
+{"id":160,"name":"Gradivus","mods":[0,16,0,0,0],"color":"blue","type":"melee","parents":[120]}
+{"id":161,"name":"Blessed Bouquet","mods":[0,9,0,0,0],"color":"blue","type":"tome","parents":[34]}
+{"id":162,"name":"First Bite","mods":[0,10,0,0,0],"color":"blue","type":"melee","parents":[131]}
+{"id":163,"name":"Cupid Arrow","mods":[0,8,0,0,0],"color":"colorless","type":"bow"}
+{"id":164,"name":"Carrot Axe","mods":[0,9,0,0,0],"color":"green","type":"melee"}
+{"id":165,"name":"Carrot Lance","mods":[0,9,0,0,0],"color":"blue","type":"melee","parents":[131]}
+{"id":166,"name":"Green Egg","mods":[0,7,0,0,0],"color":"green","type":"tome"}
+{"id":167,"name":"Blue Egg","mods":[0,7,0,0,0],"color":"blue","type":"tome","parents":[34]}
+{"id":168,"name":"Fire Breath","mods":[0,6,0,0,0],"color":"blue","type":"breath","parents":[]}
+{"id":169,"name":"Fire Breath+","mods":[0,8,0,0,0],"color":"blue","type":"breath","parents":[168]}
+{"id":170,"name":"Fire Breath","mods":[0,6,0,0,0],"color":"green","type":"breath","parents":[]}
+{"id":171,"name":"Fire Breath+","mods":[0,8,0,0,0],"color":"green","type":"breath","parents":[170]}
+{"id":172,"name":"Dark Breath","mods":[0,9,0,0,0],"color":"red","type":"breath","parents":[50]}
+{"id":173,"name":"Dark Breath+","mods":[0,13,0,0,0],"color":"red","type":"breath","parents":[172]}
+{"id":174,"name":"Dark Breath","mods":[0,9,0,0,0],"color":"green","type":"breath","parents":[171]}
+{"id":175,"name":"Dark Breath+","mods":[0,13,0,0,0],"color":"green","type":"breath","parents":[174]}
+{"id":176,"name":"Flametongue","mods":[0,11,0,0,0],"color":"blue","type":"breath","parents":[169]}
+{"id":177,"name":"Flametongue+","mods":[0,15,0,0,0],"color":"blue","type":"breath","parents":[176]}
+{"id":178,"name":"Flametongue","mods":[0,11,0,0,0],"color":"green","type":"breath","parents":[171]}
+{"id":179,"name":"Flametongue+","mods":[0,15,0,0,0],"color":"green","type":"breath","parents":[178]}
+{"id":180,"name":"Light Breath","mods":[0,9,0,0,0],"color":"blue","type":"breath","parents":[169]}
+{"id":181,"name":"Light Breath+","mods":[0,13,0,0,0],"color":"blue","type":"breath","parents":[180]}
+{"id":182,"name":"Light Breath","mods":[0,9,0,0,0],"color":"red","type":"breath","parents":[50]}
+{"id":183,"name":"Light Breath+","mods":[0,13,0,0,0],"color":"red","type":"breath","parents":[182]}
+{"id":184,"name":"Lightning Breath","mods":[0,7,0,0,0],"color":"green","type":"breath","parents":[171]}
+{"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0],"color":"green","type":"breath","parents":[184]}
 
-{"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
-{"id":10001,"name":"Dance","mods":[0,0,0,0,0]}
-{"id":10002,"name":"Draw Back","mods":[0,0,0,0,0]}
-{"id":10003,"name":"Harsh Command","mods":[0,0,0,0,0]}
-{"id":10004,"name":"Heal","mods":[0,0,0,0,0]}
-{"id":10005,"name":"Martyr","mods":[0,0,0,0,0]}
-{"id":10006,"name":"Mend","mods":[0,0,0,0,0]}
-{"id":10007,"name":"Physic","mods":[0,0,0,0,0]}
-{"id":10008,"name":"Pivot","mods":[0,0,0,0,0]}
-{"id":10009,"name":"Rally Attack","mods":[0,0,0,0,0]}
-{"id":10010,"name":"Rally Defense","mods":[0,0,0,0,0]}
-{"id":10011,"name":"Rally Resistance","mods":[0,0,0,0,0]}
-{"id":10012,"name":"Rally Speed","mods":[0,0,0,0,0]}
-{"id":10013,"name":"Reciprocal Aid","mods":[0,0,0,0,0]}
-{"id":10014,"name":"Reconcile","mods":[0,0,0,0,0]}
-{"id":10015,"name":"Recover","mods":[0,0,0,0,0]}
-{"id":10016,"name":"Rehabilitate","mods":[0,0,0,0,0]}
-{"id":10017,"name":"Reposition","mods":[0,0,0,0,0]}
-{"id":10018,"name":"Shove","mods":[0,0,0,0,0]}
-{"id":10019,"name":"Sing","mods":[0,0,0,0,0]}
-{"id":10020,"name":"Smite","mods":[0,0,0,0,0]}
-{"id":10021,"name":"Swap","mods":[0,0,0,0,0]}
-{"id":10022,"name":"Rally Atk/Spd","mods":[0,0,0,0,0]}
+{"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0],"parents":[]}
+{"id":10001,"name":"Dance","mods":[0,0,0,0,0],"parents":[]}
+{"id":10002,"name":"Draw Back","mods":[0,0,0,0,0],"parents":[]}
+{"id":10003,"name":"Harsh Command","mods":[0,0,0,0,0],"parents":[]}
+{"id":10004,"name":"Heal","mods":[0,0,0,0,0],"parents":[]}
+{"id":10005,"name":"Martyr","mods":[0,0,0,0,0],"parents":[]}
+{"id":10006,"name":"Mend","mods":[0,0,0,0,0],"parents":[]}
+{"id":10007,"name":"Physic","mods":[0,0,0,0,0],"parents":[]}
+{"id":10008,"name":"Pivot","mods":[0,0,0,0,0],"parents":[]}
+{"id":10009,"name":"Rally Attack","mods":[0,0,0,0,0],"parents":[]}
+{"id":10010,"name":"Rally Defense","mods":[0,0,0,0,0],"parents":[]}
+{"id":10011,"name":"Rally Resistance","mods":[0,0,0,0,0],"parents":[]}
+{"id":10012,"name":"Rally Speed","mods":[0,0,0,0,0],"parents":[]}
+{"id":10013,"name":"Reciprocal Aid","mods":[0,0,0,0,0],"parents":[]}
+{"id":10014,"name":"Reconcile","mods":[0,0,0,0,0],"parents":[]}
+{"id":10015,"name":"Recover","mods":[0,0,0,0,0],"parents":[]}
+{"id":10016,"name":"Rehabilitate","mods":[0,0,0,0,0],"parents":[]}
+{"id":10017,"name":"Reposition","mods":[0,0,0,0,0],"parents":[]}
+{"id":10018,"name":"Shove","mods":[0,0,0,0,0],"parents":[]}
+{"id":10019,"name":"Sing","mods":[0,0,0,0,0],"parents":[]}
+{"id":10020,"name":"Smite","mods":[0,0,0,0,0],"parents":[]}
+{"id":10021,"name":"Swap","mods":[0,0,0,0,0],"parents":[]}
+{"id":10022,"name":"Rally Atk/Spd","mods":[0,0,0,0,0],"parents":[10009,10012]}
 
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
