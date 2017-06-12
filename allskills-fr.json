@@ -152,6 +152,31 @@
 {"id":158,"name":"Flèche Cupidon +","mods":[0,12,0,0,0]}
 {"id":159,"name":"Lueur de bougie","mods":[0,7,0,0,0]}
 {"id":160,"name":"Gradivus","mods":[0,16,0,0,0]}
+{"id":161,"name":"Bouquet béni","mods":[0,9,0,0,0]}
+{"id":162,"name":"1re bouchée","mods":[0,10,0,0,0]}
+{"id":163,"name":"Flèche Cupidon","mods":[0,8,0,0,0]}
+{"id":164,"name":"Hache Carotte","mods":[0,9,0,0,0]}
+{"id":165,"name":"Lance Carotte","mods":[0,9,0,0,0]}
+{"id":166,"name":"Oeuf vert","mods":[0,7,0,0,0]}
+{"id":167,"name":"Oeuf bleu","mods":[0,7,0,0,0]}
+{"id":168,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
+{"id":169,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
+{"id":170,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
+{"id":171,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
+{"id":172,"name":"Souffle sombre","mods":[0,9,0,0,0]}
+{"id":173,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
+{"id":174,"name":"Souffle sombre","mods":[0,9,0,0,0]}
+{"id":175,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
+{"id":176,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
+{"id":177,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
+{"id":178,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
+{"id":179,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
+{"id":180,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
+{"id":181,"name":"S. lumineux +","mods":[0,13,0,0,0]}
+{"id":182,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
+{"id":183,"name":"S. lumineux +","mods":[0,13,0,0,0]}
+{"id":184,"name":"Souffle électrique","mods":[0,7,0,0,0]}
+{"id":185,"name":"S. électrique +","mods":[0,11,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -299,6 +324,8 @@
 {"id":30070,"name":"Boost Vivifiant 2","mods":[0,0,0,0,0]}
 {"id":30071,"name":"Boost Vivifiant 3","mods":[0,0,0,0,0]}
 {"id":30072,"name":"Écu de Grani","mods":[0,0,0,0,0]}
+{"id":30073,"name":"Atq/Déf +1","mods":[0,1,0,1,0]}
+{"id":30074,"name":"Hirondelle rapide 1","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Anti-hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-hache 2","mods":[0,0,0,0,0]}
@@ -459,4 +486,5 @@
 {"id":50063,"name":"Exp. tome bleu 1","mods":[0,0,0,0,0]}
 {"id":50064,"name":"Exp. tome bleu 2","mods":[0,0,0,0,0]}
 {"id":50065,"name":"Exp. tome bleu 3","mods":[0,0,0,0,0]}
-
+{"id":50066,"name":"Expérience hache 1","mods":[0,0,0,0,0]}
+{"id":50067,"name":"Expérience hache 2","mods":[0,0,0,0,0]}
