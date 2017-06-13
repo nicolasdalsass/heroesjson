@@ -178,7 +178,7 @@
 {"id":184,"name":"Souffle électrique","mods":[0,7,0,0,0]}
 {"id":185,"name":"S. électrique +","mods":[0,11,0,0,0]}
 {"id":186,"name":"Raudrowl+","mods":[0,10,0,0,0]}
-{"id":187,"name":"Firesweep L+","mods":[0,10,0,0,0
+{"id":187,"name":"Firesweep L+","mods":[0,10,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -202,7 +202,8 @@
 {"id":10019,"name":"Chant","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Charge","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Inversion","mods":[0,0,0,0,0]}
-{"id":10022,"name":"Ralliem: Atq/Vit","mods":[0,0,0,0,0]}{"id":10022,"name":"Rally Def/Res","mods":[0,0,0,0,0]}
+{"id":10022,"name":"Ralliem: Atq/Vit","mods":[0,0,0,0,0]}
+{"id":10023,"name":"Rally Def/Res","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Égide","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Éther","mods":[0,0,0,0,0]}
