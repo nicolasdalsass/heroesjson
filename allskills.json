@@ -251,80 +251,80 @@
 {"id":20047,"name":"Swift-Winds Balm","mods":[0,0,0,0,0],"parents":[20028]}
 {"id":20048,"name":"Vengeance","mods":[0,0,0,0,0],"parents":[20038]}
 
-{"id":30001,"name":"Armored Blow 1","mods":[0,0,0,0,0]}
-{"id":30002,"name":"Armored Blow 2","mods":[0,0,0,0,0]}
-{"id":30003,"name":"Armored Blow 3","mods":[0,0,0,0,0]}
-{"id":30004,"name":"Attack +1","mods":[0,1,0,0,0]}
-{"id":30005,"name":"Attack +2","mods":[0,2,0,0,0]}
-{"id":30006,"name":"Attack +3","mods":[0,3,0,0,0]}
-{"id":30007,"name":"Close Counter","mods":[0,0,0,0,0]}
-{"id":30008,"name":"Darting Blow 1","mods":[0,0,0,0,0]}
-{"id":30009,"name":"Darting Blow 2","mods":[0,0,0,0,0]}
-{"id":30010,"name":"Darting Blow 3","mods":[0,0,0,0,0]}
-{"id":30011,"name":"Death Blow 1","mods":[0,0,0,0,0]}
-{"id":30012,"name":"Death Blow 2","mods":[0,0,0,0,0]}
-{"id":30013,"name":"Death Blow 3","mods":[0,0,0,0,0]}
-{"id":30014,"name":"Defense +1","mods":[0,0,0,1,0]}
-{"id":30015,"name":"Defense +2","mods":[0,0,0,2,0]}
-{"id":30016,"name":"Defense +3","mods":[0,0,0,3,0]}
-{"id":30017,"name":"Defiant Atk 1","mods":[0,0,0,0,0]}
-{"id":30018,"name":"Defiant Atk 2","mods":[0,0,0,0,0]}
-{"id":30019,"name":"Defiant Atk 3","mods":[0,0,0,0,0]}
-{"id":30020,"name":"Defiant Def 1","mods":[0,0,0,0,0]}
-{"id":30021,"name":"Defiant Def 2","mods":[0,0,0,0,0]}
-{"id":30022,"name":"Defiant Def 3","mods":[0,0,0,0,0]}
-{"id":30023,"name":"Defiant Res 1","mods":[0,0,0,0,0]}
-{"id":30024,"name":"Defiant Res 2","mods":[0,0,0,0,0]}
-{"id":30025,"name":"Defiant Res 3","mods":[0,0,0,0,0]}
-{"id":30026,"name":"Defiant Spd 1","mods":[0,0,0,0,0]}
-{"id":30027,"name":"Defiant Spd 2","mods":[0,0,0,0,0]}
-{"id":30028,"name":"Defiant Spd 3","mods":[0,0,0,0,0]}
-{"id":30029,"name":"Distant Counter","mods":[0,0,0,0,0]}
-{"id":30030,"name":"Fury 1","mods":[0,1,1,1,1]}
-{"id":30031,"name":"Fury 2","mods":[0,2,2,2,2]}
-{"id":30032,"name":"Fury 3","mods":[0,3,3,3,3]}
-{"id":30033,"name":"HP +3","mods":[3,0,0,0,0]}
-{"id":30034,"name":"HP +4","mods":[4,0,0,0,0]}
-{"id":30035,"name":"HP +5","mods":[5,0,0,0,0]}
-{"id":30036,"name":"Life and Death 1","mods":[0,3,3,-3,-3]}
-{"id":30037,"name":"Life and Death 2","mods":[0,4,4,-4,-4]}
-{"id":30038,"name":"Life and Death 3","mods":[0,5,5,-5,-5]}
-{"id":30039,"name":"Resistance +1","mods":[0,0,0,0,1]}
-{"id":30040,"name":"Resistance +2","mods":[0,0,0,0,2]}
-{"id":30041,"name":"Resistance +3","mods":[0,0,0,0,3]}
-{"id":30042,"name":"Speed +1","mods":[0,0,1,0,0]}
-{"id":30043,"name":"Speed +2","mods":[0,0,2,0,0]}
-{"id":30044,"name":"Speed +3","mods":[0,0,3,0,0]}
-{"id":30045,"name":"Svalinn Shield","mods":[0,0,0,0,0]}
-{"id":30046,"name":"Triangle Adept 1","mods":[0,0,0,0,0]}
-{"id":30047,"name":"Triangle Adept 2","mods":[0,0,0,0,0]}
-{"id":30048,"name":"Triangle Adept 3","mods":[0,0,0,0,0]}
-{"id":30049,"name":"Warding Blow 1","mods":[0,0,0,0,0]}
-{"id":30050,"name":"Warding Blow 2","mods":[0,0,0,0,0]}
-{"id":30051,"name":"Warding Blow 3","mods":[0,0,0,0,0]}
-{"id":30052,"name":"Iote's Shield","mods":[0,0,0,0,0]}
-{"id":30053,"name":"Attack/Def +2","mods":[0,2,0,2,0]}
-{"id":30054,"name":"Swift sparrow 2","mods":[0,0,0,0,0]}
-{"id":30055,"name":"Fortress Def 1","mods":[0,-3,0,3,0]}
-{"id":30056,"name":"Fortress Def 2","mods":[0,-3,0,4,0]}
-{"id":30057,"name":"Fortress Def 3","mods":[0,-3,0,5,0]}
-{"id":30058,"name":"Heavy Blade 1","mods":[0,0,0,0,0]}
-{"id":30059,"name":"Heavy Blade 2","mods":[0,0,0,0,0]}
-{"id":30060,"name":"Heavy Blade 3","mods":[0,0,0,0,0]}
-{"id":30061,"name":"Distant Def 1","mods":[0,0,0,0,0]}
-{"id":30062,"name":"Distant Def 2","mods":[0,0,0,0,0]}
-{"id":30063,"name":"Distant Def 3","mods":[0,0,0,0,0]}
-{"id":30064,"name":"Earth Boost 1","mods":[0,0,0,0,0]}
-{"id":30065,"name":"Earth Boost 2","mods":[0,0,0,0,0]}
-{"id":30066,"name":"Earth Boost 3","mods":[0,0,0,0,0]}
-{"id":30067,"name":"Attack/Res +1","mods":[0,1,0,0,1]}
-{"id":30068,"name":"Attack/Res +2","mods":[0,2,0,0,2]}
-{"id":30069,"name":"Wind Boost 1","mods":[0,0,0,0,0]}
-{"id":30070,"name":"Wind Boost 2","mods":[0,0,0,0,0]}
-{"id":30071,"name":"Wind Boost 3","mods":[0,0,0,0,0]}
-{"id":30072,"name":"Grani's Shield","mods":[0,0,0,0,0]}
-{"id":30073,"name":"Attack Def +1","mods":[0,1,0,1,0]}
-{"id":30074,"name":"Swift sparrow 1","mods":[0,0,0,0,0]}
+{"id":30001,"name":"Armored Blow 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30002,"name":"Armored Blow 2","mods":[0,0,0,0,0],"parents":[30001]}
+{"id":30003,"name":"Armored Blow 3","mods":[0,0,0,0,0],"parents":[30002]}
+{"id":30004,"name":"Attack +1","mods":[0,1,0,0,0],"parents":[]}
+{"id":30005,"name":"Attack +2","mods":[0,2,0,0,0],"parents":[30004]}
+{"id":30006,"name":"Attack +3","mods":[0,3,0,0,0],"parents":[30005]}
+{"id":30007,"name":"Close Counter","mods":[0,0,0,0,0],"parents":[]}
+{"id":30008,"name":"Darting Blow 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30009,"name":"Darting Blow 2","mods":[0,0,0,0,0],"parents":[30008]}
+{"id":30010,"name":"Darting Blow 3","mods":[0,0,0,0,0],"parents":[30009]}
+{"id":30011,"name":"Death Blow 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30012,"name":"Death Blow 2","mods":[0,0,0,0,0],"parents":[30011]}
+{"id":30013,"name":"Death Blow 3","mods":[0,0,0,0,0],"parents":[30012]}
+{"id":30014,"name":"Defense +1","mods":[0,0,0,1,0],"parents":[]}
+{"id":30015,"name":"Defense +2","mods":[0,0,0,2,0],"parents":[30014]}
+{"id":30016,"name":"Defense +3","mods":[0,0,0,3,0],"parents":[30015]}
+{"id":30017,"name":"Defiant Atk 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30018,"name":"Defiant Atk 2","mods":[0,0,0,0,0],"parents":[30017]}
+{"id":30019,"name":"Defiant Atk 3","mods":[0,0,0,0,0],"parents":[30018]}
+{"id":30020,"name":"Defiant Def 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30021,"name":"Defiant Def 2","mods":[0,0,0,0,0],"parents":[30020]}
+{"id":30022,"name":"Defiant Def 3","mods":[0,0,0,0,0],"parents":[30021]}
+{"id":30023,"name":"Defiant Res 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30024,"name":"Defiant Res 2","mods":[0,0,0,0,0],"parents":[30023]}
+{"id":30025,"name":"Defiant Res 3","mods":[0,0,0,0,0],"parents":[30024]}
+{"id":30026,"name":"Defiant Spd 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30027,"name":"Defiant Spd 2","mods":[0,0,0,0,0],"parents":[30026]}
+{"id":30028,"name":"Defiant Spd 3","mods":[0,0,0,0,0],"parents":[30027]}
+{"id":30029,"name":"Distant Counter","mods":[0,0,0,0,0],"parents":[]}
+{"id":30030,"name":"Fury 1","mods":[0,1,1,1,1],"parents":[]}
+{"id":30031,"name":"Fury 2","mods":[0,2,2,2,2],"parents":[30030]}
+{"id":30032,"name":"Fury 3","mods":[0,3,3,3,3],"parents":[30031]}
+{"id":30033,"name":"HP +3","mods":[3,0,0,0,0],"parents":[]}
+{"id":30034,"name":"HP +4","mods":[4,0,0,0,0],"parents":[30033]}
+{"id":30035,"name":"HP +5","mods":[5,0,0,0,0],"parents":[30034]}
+{"id":30036,"name":"Life and Death 1","mods":[0,3,3,-3,-3],"parents":[]}
+{"id":30037,"name":"Life and Death 2","mods":[0,4,4,-4,-4],"parents":[30036]}
+{"id":30038,"name":"Life and Death 3","mods":[0,5,5,-5,-5],"parents":[30037]}
+{"id":30039,"name":"Resistance +1","mods":[0,0,0,0,1],"parents":[]}
+{"id":30040,"name":"Resistance +2","mods":[0,0,0,0,2],"parents":[30039]}
+{"id":30041,"name":"Resistance +3","mods":[0,0,0,0,3],"parents":[30040]}
+{"id":30042,"name":"Speed +1","mods":[0,0,1,0,0],"parents":[]}
+{"id":30043,"name":"Speed +2","mods":[0,0,2,0,0],"parents":[30042]}
+{"id":30044,"name":"Speed +3","mods":[0,0,3,0,0],"parents":[30043]}
+{"id":30045,"name":"Svalinn Shield","mods":[0,0,0,0,0],"parents":[]}
+{"id":30046,"name":"Triangle Adept 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30047,"name":"Triangle Adept 2","mods":[0,0,0,0,0],"parents":[30046]}
+{"id":30048,"name":"Triangle Adept 3","mods":[0,0,0,0,0],"parents":[30047]}
+{"id":30049,"name":"Warding Blow 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30050,"name":"Warding Blow 2","mods":[0,0,0,0,0],"parents":[30049]}
+{"id":30051,"name":"Warding Blow 3","mods":[0,0,0,0,0],"parents":[30050]}
+{"id":30052,"name":"Iote's Shield","mods":[0,0,0,0,0],"parents":[]}
+{"id":30053,"name":"Attack/Def +2","mods":[0,2,0,2,0],"parents":[30073]}
+{"id":30054,"name":"Swift sparrow 2","mods":[0,0,0,0,0],"parents":[30074]}
+{"id":30055,"name":"Fortress Def 1","mods":[0,-3,0,3,0],"parents":[]}
+{"id":30056,"name":"Fortress Def 2","mods":[0,-3,0,4,0],"parents":[30055]}
+{"id":30057,"name":"Fortress Def 3","mods":[0,-3,0,5,0],"parents":[30056]}
+{"id":30058,"name":"Heavy Blade 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30059,"name":"Heavy Blade 2","mods":[0,0,0,0,0],"parents":[30058]}
+{"id":30060,"name":"Heavy Blade 3","mods":[0,0,0,0,0],"parents":[30059]}
+{"id":30061,"name":"Distant Def 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30062,"name":"Distant Def 2","mods":[0,0,0,0,0],"parents":[30061]}
+{"id":30063,"name":"Distant Def 3","mods":[0,0,0,0,0],"parents":[30062]}
+{"id":30064,"name":"Earth Boost 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30065,"name":"Earth Boost 2","mods":[0,0,0,0,0],"parents":[30064]}
+{"id":30066,"name":"Earth Boost 3","mods":[0,0,0,0,0],"parents":[30065]}
+{"id":30067,"name":"Attack/Res +1","mods":[0,1,0,0,1],"parents":[30004,30039]}
+{"id":30068,"name":"Attack/Res +2","mods":[0,2,0,0,2],"parents":[30067]}
+{"id":30069,"name":"Wind Boost 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":30070,"name":"Wind Boost 2","mods":[0,0,0,0,0],"parents":[30069]}
+{"id":30071,"name":"Wind Boost 3","mods":[0,0,0,0,0],"parents":[30070]}
+{"id":30072,"name":"Grani's Shield","mods":[0,0,0,0,0],"parents":[]}
+{"id":30073,"name":"Attack Def +1","mods":[0,1,0,1,0],"parents":[30004,30014]}
+{"id":30074,"name":"Swift sparrow 1","mods":[0,0,0,0,0],"parents":[30008,30011]}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0]}
