@@ -204,7 +204,7 @@
 {"id":10020,"name":"Smite","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Swap","mods":[0,0,0,0,0]}
 {"id":10022,"name":"Rally Atk/Spd","mods":[0,0,0,0,0]}
-{"id":10022,"name":"Rally Def/Res","mods":[0,0,0,0,0]}
+{"id":10023,"name":"Rally Def/Res","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
