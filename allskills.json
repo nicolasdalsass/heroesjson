@@ -152,6 +152,31 @@
 {"id":158,"name":"Cupid Arrow+","mods":[0,12,0,0,0]}
 {"id":159,"name":"Candlelight","mods":[0,7,0,0,0]}
 {"id":160,"name":"Gradivus","mods":[0,16,0,0,0]}
+{"id":161,"name":"Blessed Bouquet","mods":[0,9,0,0,0]}
+{"id":162,"name":"First Bite","mods":[0,10,0,0,0]}
+{"id":163,"name":"Cupid Arrow","mods":[0,8,0,0,0]}
+{"id":164,"name":"Carrot Axe","mods":[0,9,0,0,0]}
+{"id":165,"name":"Carrot Lance","mods":[0,9,0,0,0]}
+{"id":166,"name":"Green Egg","mods":[0,7,0,0,0]}
+{"id":167,"name":"Blue Egg","mods":[0,7,0,0,0]}
+{"id":168,"name":"Fire Breath","mods":[0,6,0,0,0]}
+{"id":169,"name":"Fire Breath+","mods":[0,8,0,0,0]}
+{"id":170,"name":"Fire Breath","mods":[0,6,0,0,0]}
+{"id":171,"name":"Fire Breath+","mods":[0,8,0,0,0]}
+{"id":172,"name":"Dark Breath","mods":[0,9,0,0,0]}
+{"id":173,"name":"Dark Breath+","mods":[0,13,0,0,0]}
+{"id":174,"name":"Dark Breath","mods":[0,9,0,0,0]}
+{"id":175,"name":"Dark Breath+","mods":[0,13,0,0,0]}
+{"id":176,"name":"Flametongue","mods":[0,11,0,0,0]}
+{"id":177,"name":"Flametongue+","mods":[0,15,0,0,0]}
+{"id":178,"name":"Flametongue","mods":[0,11,0,0,0]}
+{"id":179,"name":"Flametongue+","mods":[0,15,0,0,0]}
+{"id":180,"name":"Light Breath","mods":[0,9,0,0,0]}
+{"id":181,"name":"Light Breath+","mods":[0,13,0,0,0]}
+{"id":182,"name":"Light Breath","mods":[0,9,0,0,0]}
+{"id":183,"name":"Light Breath+","mods":[0,13,0,0,0]}
+{"id":184,"name":"Lightning Breath","mods":[0,7,0,0,0]}
+{"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0]}
@@ -175,7 +200,7 @@
 {"id":10019,"name":"Sing","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Smite","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Swap","mods":[0,0,0,0,0]}
-{"id":10022,"name":"Rally Atq/Spd","mods":[0,0,0,0,0]}
+{"id":10022,"name":"Rally Atk/Spd","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0]}
@@ -299,6 +324,8 @@
 {"id":30070,"name":"Wind Boost 2","mods":[0,0,0,0,0]}
 {"id":30071,"name":"Wind Boost 3","mods":[0,0,0,0,0]}
 {"id":30072,"name":"Grani's Shield","mods":[0,0,0,0,0]}
+{"id":30073,"name":"Attack Def +1","mods":[0,1,0,1,0]}
+{"id":30074,"name":"Swift sparrow 1","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0]}
@@ -459,3 +486,5 @@
 {"id":50063,"name":"B Tome Exp. 1","mods":[0,0,0,0,0]}
 {"id":50064,"name":"B Tome Exp. 2","mods":[0,0,0,0,0]}
 {"id":50065,"name":"B Tome Exp. 3","mods":[0,0,0,0,0]}
+{"id":50066,"name":"Axe Experience 1","mods":[0,0,0,0,0]}
+{"id":50067,"name":"Axe Experience 2","mods":[0,0,0,0,0]}
