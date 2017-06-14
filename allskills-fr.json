@@ -177,6 +177,10 @@
 {"id":183,"name":"S. lumineux +","mods":[0,13,0,0,0]}
 {"id":184,"name":"Souffle électrique","mods":[0,7,0,0,0]}
 {"id":185,"name":"S. électrique +","mods":[0,11,0,0,0]}
+{"id":186,"name":"Ailes Rubis +","mods":[0,10,0,0,0]}
+{"id":187,"name":"L. enflammée +","mods":[0,15,0,0,0]}
+{"id":186,"name":"Ailes Rubis","mods":[0,6,0,0,0]}
+{"id":187,"name":"L. enflammée","mods":[0,11,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -201,6 +205,7 @@
 {"id":10020,"name":"Charge","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Inversion","mods":[0,0,0,0,0]}
 {"id":10022,"name":"Ralliem: Atq/Vit","mods":[0,0,0,0,0]}
+{"id":10023,"name":"Rall. : Déf/Rés","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Égide","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Éther","mods":[0,0,0,0,0]}
@@ -326,6 +331,11 @@
 {"id":30072,"name":"Écu de Grani","mods":[0,0,0,0,0]}
 {"id":30073,"name":"Atq/Déf +1","mods":[0,1,0,1,0]}
 {"id":30074,"name":"Hirondelle rapide 1","mods":[0,0,0,0,0]}
+{"id":30075,"name":"Coup robuste 1","mods":[0,0,0,0,0]}
+{"id":30076,"name":"Coup robuste 2","mods":[0,0,0,0,0]}
+{"id":30077,"name":"Boost ardent 1","mods":[0,0,0,0,0]}
+{"id":30078,"name":"Boost ardent 2","mods":[0,0,0,0,0]}
+{"id":30079,"name":"Boost ardent 3","mods":[0,0,0,0,0]}
 
 {"id":40001,"name":"Anti-hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-hache 2","mods":[0,0,0,0,0]}
@@ -488,3 +498,14 @@
 {"id":50065,"name":"Exp. tome bleu 3","mods":[0,0,0,0,0]}
 {"id":50066,"name":"Expérience hache 1","mods":[0,0,0,0,0]}
 {"id":50067,"name":"Expérience hache 2","mods":[0,0,0,0,0]}
+{"id":50068,"name":"Ruse Atq 1","mods":[0,0,0,0,0]}
+{"id":50069,"name":"Ruse Atq 2","mods":[0,0,0,0,0]}
+{"id":50070,"name":"Ruse Atq 3","mods":[0,0,0,0,0]}
+{"id":50071,"name":"Stimulant Déf 1","mods":[0,0,0,0,0]}
+{"id":50072,"name":"Stimulant Déf 2","mods":[0,0,0,0,0]}
+{"id":50073,"name":"Exp. épée 1","mods":[0,0,0,0,0]}
+{"id":50074,"name":"Exp. épée 2","mods":[0,0,0,0,0]}
+{"id":50075,"name":"Exp. épée 3","mods":[0,0,0,0,0]}
+{"id":50076,"name":"Ruse Panique 1","mods":[0,0,0,0,0]}
+{"id":50077,"name":"Ruse Panique 2","mods":[0,0,0,0,0]}
+{"id":50078,"name":"Ruse Panique 3","mods":[0,0,0,0,0]}

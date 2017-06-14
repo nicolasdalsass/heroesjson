@@ -89,11 +89,11 @@
 {"id":95,"name":"Poison Dagger","mods":[0,2,0,0,0],"parents":[130],"inheritance":"dagger"}
 {"id":96,"name":"Poison Dagger+","mods":[0,5,0,0,0],"parents":[95],"inheritance":"dagger"}
 {"id":97,"name":"Raijinto","mods":[0,16,0,0,0],"parents":[122],"inheritance":"not_inheritable"}
-{"id":98,"name":"Rauðrblade","mods":[0,9,0,0,0],"parents":[16,109],"inheritance":"rtome"}
+{"id":98,"name":"Rauðrblade","mods":[0,9,0,0,0],"parents":[33,109],"inheritance":"rtome"}
 {"id":99,"name":"Rauðrblade+","mods":[0,13,0,0,0],"parents":[98],"inheritance":"rtome"}
-{"id":100,"name":"Rauðrraven","mods":[0,7,0,0,0],"parents":[16,109],"inheritance":"rtome"}
+{"id":100,"name":"Rauðrraven","mods":[0,7,0,0,0],"parents":[33,109],"inheritance":"rtome"}
 {"id":101,"name":"Rauðrraven+","mods":[0,11,0,0,0],"parents":[100],"inheritance":"rtome"}
-{"id":102,"name":"Rauðrwolf","mods":[0,6,0,0,0],"parents":[16,109],"inheritance":"rtome"}
+{"id":102,"name":"Rauðrwolf","mods":[0,6,0,0,0],"parents":[33,109],"inheritance":"rtome"}
 {"id":103,"name":"Rauðrwolf+","mods":[0,10,0,0,0],"parents":[102],"inheritance":"rtome"}
 {"id":104,"name":"Rexcalibur","mods":[0,9,0,0,0],"parents":[35],"inheritance":"gtome"}
 {"id":105,"name":"Rogue Dagger","mods":[0,4,0,0,0],"parents":[130],"inheritance":"dagger"}
@@ -177,6 +177,10 @@
 {"id":183,"name":"Light Breath+","mods":[0,13,0,0,0],"parents":[182],"inheritance":"dragon"}
 {"id":184,"name":"Lightning Breath","mods":[0,7,0,0,0],"parents":[171],"inheritance":"dragon"}
 {"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0],"parents":[184],"inheritance":"dragon"}
+{"id":186,"name":"Rauðrowl+","mods":[0,10,0,0,0],"parents":[186],"inheritance":"rtome"}
+{"id":187,"name":"Firesweep L+","mods":[0,15,0,0,0],"parents":[187],"inheritance":"lance"}
+{"id":186,"name":"Rauðrowl","mods":[0,6,0,0,0],"parents":[33,109],"inheritance":"rtome"}
+{"id":187,"name":"Firesweep L","mods":[0,11,0,0,0],"parents":[131],"inheritance":"lance"}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0],"parents":[],"inheritance":"not_staff"}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0],"parents":[],"inheritance":"not_inheritable"}
@@ -201,6 +205,7 @@
 {"id":10020,"name":"Smite","mods":[0,0,0,0,0],"parents":[],"inheritance":"not_staff"}
 {"id":10021,"name":"Swap","mods":[0,0,0,0,0],"parents":[],"inheritance":"not_staff"}
 {"id":10022,"name":"Rally Atk/Spd","mods":[0,0,0,0,0],"parents":[10009,10012],"inheritance":"not_staff"}
+{"id":10023,"name":"Rally Def/Res","mods":[0,0,0,0,0],"parents":[10009,10012],"inheritance":"not_staff"}
 
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0],"parents":[20025],"inheritance":"melee"}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0],"parents":[20030,20044],"inheritance":"not_staff"}
@@ -325,6 +330,11 @@
 {"id":30072,"name":"Grani's Shield","mods":[0,0,0,0,0],"parents":[],"inheritance":"cavalry"}
 {"id":30073,"name":"Attack Def +1","mods":[0,1,0,1,0],"parents":[30004,30014],"inheritance":"no_restrictions"}
 {"id":30074,"name":"Swift sparrow 1","mods":[0,0,0,0,0],"parents":[30008,30011],"inheritance":"not_staff"}
+{"id":30075,"name":"Sturdy Blow 1","mods":[0,0,0,0,0],"parents":[30001,30011],"inheritance":"not_staff"}
+{"id":30076,"name":"Sturdy Blow 2","mods":[0,0,0,0,0],"parents":[30001,30011],"inheritance":"not_staff"}
+{"id":30077,"name":"Fire Boost 1","mods":[0,0,0,0,0],"parents":[],"inheritance":"no_restrictions"}
+{"id":30078,"name":"Fire Boost 2","mods":[0,0,0,0,0],"parents":[30077],"inheritance":"no_restrictions"}
+{"id":30079,"name":"Fire Boost 3","mods":[0,0,0,0,0],"parents":[30078],"inheritance":"no_restrictions"}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0],"parents":[],"inheritance":"not_blue"}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0],"parents":[40001],"inheritance":"not_blue"}
@@ -487,3 +497,14 @@
 {"id":50065,"name":"B Tome Exp. 3","mods":[0,0,0,0,0],"parents":[50064],"inheritance":"btome"}
 {"id":50066,"name":"Axe Experience 1","mods":[0,0,0,0,0],"parents":[],"inheritance":"axe"}
 {"id":50067,"name":"Axe Experience 2","mods":[0,0,0,0,0],"parents":[50066],"inheritance":"axe"}
+{"id":50068,"name":"Atk Ploy 1","mods":[0,0,0,0,0],"parents":[],"inheritance":"no_restrictions"}
+{"id":50069,"name":"Atk Ploy 2","mods":[0,0,0,0,0],"parents":[50068],"inheritance":"no_restrictions"}
+{"id":50070,"name":"Atk Ploy 3","mods":[0,0,0,0,0],"parents":[50069],"inheritance":"no_restrictions"}
+{"id":50071,"name":"Drive Def 1","mods":[0,0,0,0,0],"parents":[50032],"inheritance":"no_restrictions"}
+{"id":50072,"name":"Drive Def 2","mods":[0,0,0,0,0],"parents":[50071],"inheritance":"no_restrictions"}
+{"id":50073,"name":"Sword Exp. 1","mods":[0,0,0,0,0],"parents":[],"inheritance":"sword"}
+{"id":50074,"name":"Sword Exp. 2","mods":[0,0,0,0,0],"parents":[50073],"inheritance":"sword"}
+{"id":50075,"name":"Sword Exp. 3","mods":[0,0,0,0,0],"parents":[50074],"inheritance":"sword"}
+{"id":50076,"name":"Panic Ploy 1","mods":[0,0,0,0,0],"parents":[],"inheritance":"no_restrictions"}
+{"id":50077,"name":"Panic Ploy 2","mods":[0,0,0,0,0],"parents":[50076],"inheritance":"no_restrictions"}
+{"id":50078,"name":"Panic Ploy 3","mods":[0,0,0,0,0],"parents":[50077],"inheritance":"no_restrictions"}
