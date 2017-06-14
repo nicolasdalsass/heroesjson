@@ -326,164 +326,164 @@
 {"id":30073,"name":"Attack Def +1","mods":[0,1,0,1,0],"parents":[30004,30014]}
 {"id":30074,"name":"Swift sparrow 1","mods":[0,0,0,0,0],"parents":[30008,30011]}
 
-{"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0]}
-{"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0]}
-{"id":40003,"name":"Axebreaker 3","mods":[0,0,0,0,0]}
-{"id":40004,"name":"B Tomebreaker 1","mods":[0,0,0,0,0]}
-{"id":40005,"name":"B Tomebreaker 2","mods":[0,0,0,0,0]}
-{"id":40006,"name":"B Tomebreaker 3","mods":[0,0,0,0,0]}
-{"id":40007,"name":"Bowbreaker 1","mods":[0,0,0,0,0]}
-{"id":40008,"name":"Bowbreaker 2","mods":[0,0,0,0,0]}
-{"id":40009,"name":"Bowbreaker 3","mods":[0,0,0,0,0]}
-{"id":40010,"name":"Brash Assault 1","mods":[0,0,0,0,0]}
-{"id":40011,"name":"Brash Assault 2","mods":[0,0,0,0,0]}
-{"id":40012,"name":"Brash Assault 3","mods":[0,0,0,0,0]}
-{"id":40013,"name":"Daggerbreaker 1","mods":[0,0,0,0,0]}
-{"id":40014,"name":"Daggerbreaker 2","mods":[0,0,0,0,0]}
-{"id":40015,"name":"Daggerbreaker 3","mods":[0,0,0,0,0]}
-{"id":40016,"name":"Desperation 1","mods":[0,0,0,0,0]}
-{"id":40017,"name":"Desperation 2","mods":[0,0,0,0,0]}
-{"id":40018,"name":"Desperation 3","mods":[0,0,0,0,0]}
-{"id":40019,"name":"Drag Back","mods":[0,0,0,0,0]}
-{"id":40020,"name":"Escape Route 1","mods":[0,0,0,0,0]}
-{"id":40021,"name":"Escape Route 2","mods":[0,0,0,0,0]}
-{"id":40022,"name":"Escape Route 3","mods":[0,0,0,0,0]}
-{"id":40023,"name":"G Tomebreaker 1","mods":[0,0,0,0,0]}
-{"id":40024,"name":"G Tomebreaker 2","mods":[0,0,0,0,0]}
-{"id":40025,"name":"G Tomebreaker 3","mods":[0,0,0,0,0]}
-{"id":40026,"name":"Knock Back","mods":[0,0,0,0,0]}
-{"id":40027,"name":"Lancebreaker 1","mods":[0,0,0,0,0]}
-{"id":40028,"name":"Lancebreaker 2","mods":[0,0,0,0,0]}
-{"id":40029,"name":"Lancebreaker 3","mods":[0,0,0,0,0]}
-{"id":40030,"name":"Live to Serve 1","mods":[0,0,0,0,0]}
-{"id":40031,"name":"Live to Serve 2","mods":[0,0,0,0,0]}
-{"id":40032,"name":"Live to Serve 3","mods":[0,0,0,0,0]}
-{"id":40033,"name":"Lunge","mods":[0,0,0,0,0]}
-{"id":40034,"name":"Obstruct 1","mods":[0,0,0,0,0]}
-{"id":40035,"name":"Obstruct 2","mods":[0,0,0,0,0]}
-{"id":40036,"name":"Obstruct 3","mods":[0,0,0,0,0]}
-{"id":40037,"name":"Pass 1","mods":[0,0,0,0,0]}
-{"id":40038,"name":"Pass 2","mods":[0,0,0,0,0]}
-{"id":40039,"name":"Pass 3","mods":[0,0,0,0,0]}
-{"id":40040,"name":"Poison Strike 1","mods":[0,0,0,0,0]}
-{"id":40041,"name":"Poison Strike 2","mods":[0,0,0,0,0]}
-{"id":40042,"name":"Poison Strike 3","mods":[0,0,0,0,0]}
-{"id":40043,"name":"Quick Riposte 1","mods":[0,0,0,0,0]}
-{"id":40044,"name":"Quick Riposte 2","mods":[0,0,0,0,0]}
-{"id":40045,"name":"Quick Riposte 3","mods":[0,0,0,0,0]}
-{"id":40046,"name":"R Tomebreaker 1","mods":[0,0,0,0,0]}
-{"id":40047,"name":"R Tomebreaker 2","mods":[0,0,0,0,0]}
-{"id":40048,"name":"R Tomebreaker 3","mods":[0,0,0,0,0]}
-{"id":40049,"name":"Renewal 1","mods":[0,0,0,0,0]}
-{"id":40050,"name":"Renewal 2","mods":[0,0,0,0,0]}
-{"id":40051,"name":"Renewal 3","mods":[0,0,0,0,0]}
-{"id":40052,"name":"Seal Atk 1","mods":[0,0,0,0,0]}
-{"id":40053,"name":"Seal Atk 2","mods":[0,0,0,0,0]}
-{"id":40054,"name":"Seal Atk 3","mods":[0,0,0,0,0]}
-{"id":40055,"name":"Seal Def 1","mods":[0,0,0,0,0]}
-{"id":40056,"name":"Seal Def 2","mods":[0,0,0,0,0]}
-{"id":40057,"name":"Seal Def 3","mods":[0,0,0,0,0]}
-{"id":40058,"name":"Seal Res 1","mods":[0,0,0,0,0]}
-{"id":40059,"name":"Seal Res 2","mods":[0,0,0,0,0]}
-{"id":40060,"name":"Seal Res 3","mods":[0,0,0,0,0]}
-{"id":40061,"name":"Seal Spd 1","mods":[0,0,0,0,0]}
-{"id":40062,"name":"Seal Spd 2","mods":[0,0,0,0,0]}
-{"id":40063,"name":"Seal Spd 3","mods":[0,0,0,0,0]}
-{"id":40064,"name":"Swordbreaker 1","mods":[0,0,0,0,0]}
-{"id":40065,"name":"Swordbreaker 2","mods":[0,0,0,0,0]}
-{"id":40066,"name":"Swordbreaker 3","mods":[0,0,0,0,0]}
-{"id":40067,"name":"Vantage 1","mods":[0,0,0,0,0]}
-{"id":40068,"name":"Vantage 2","mods":[0,0,0,0,0]}
-{"id":40069,"name":"Vantage 3","mods":[0,0,0,0,0]}
-{"id":40070,"name":"Wary Fighter 1","mods":[0,0,0,0,0]}
-{"id":40071,"name":"Wary Fighter 2","mods":[0,0,0,0,0]}
-{"id":40072,"name":"Wary Fighter 3","mods":[0,0,0,0,0]}
-{"id":40073,"name":"Wings of Mercy 1","mods":[0,0,0,0,0]}
-{"id":40074,"name":"Wings of Mercy 2","mods":[0,0,0,0,0]}
-{"id":40075,"name":"Wings of Mercy 3","mods":[0,0,0,0,0]}
-{"id":40076,"name":"Live for Honor","mods":[0,0,0,0,0]}
-{"id":40077,"name":"Live for Bounty","mods":[0,0,0,0,0]}
-{"id":40078,"name":"Windsweep 1","mods":[0,0,0,0,0]}
-{"id":40079,"name":"Windsweep 2","mods":[0,0,0,0,0]}
-{"id":40080,"name":"Windsweep 3","mods":[0,0,0,0,0]}
-{"id":40081,"name":"Hit and run","mods":[0,0,0,0,0]}
-{"id":40082,"name":"Watersweep 1","mods":[0,0,0,0,0]}
-{"id":40083,"name":"Watersweep 2","mods":[0,0,0,0,0]}
-{"id":40084,"name":"Watersweep 3","mods":[0,0,0,0,0]}
-{"id":40085,"name":"Guard 1","mods":[0,0,0,0,0]}
-{"id":40086,"name":"Guard 2","mods":[0,0,0,0,0]}
-{"id":40087,"name":"Guard 3","mods":[0,0,0,0,0]}
-{"id":40088,"name":"Wrathful Staff 1","mods":[0,0,0,0,0]}
-{"id":40089,"name":"Wrathful Staff 2","mods":[0,0,0,0,0]}
-{"id":40090,"name":"Wrathful Staff 3","mods":[0,0,0,0,0]}
-{"id":40091,"name":"Dazzling Staff 1","mods":[0,0,0,0,0]}
-{"id":40092,"name":"Dazzling Staff 2","mods":[0,0,0,0,0]}
-{"id":40093,"name":"Dazzling Staff 3","mods":[0,0,0,0,0]}
+{"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0],"parents":[40001]}
+{"id":40003,"name":"Axebreaker 3","mods":[0,0,0,0,0],"parents":[40002]}
+{"id":40004,"name":"B Tomebreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40005,"name":"B Tomebreaker 2","mods":[0,0,0,0,0],"parents":[40004]}
+{"id":40006,"name":"B Tomebreaker 3","mods":[0,0,0,0,0],"parents":[40005]}
+{"id":40007,"name":"Bowbreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40008,"name":"Bowbreaker 2","mods":[0,0,0,0,0],"parents":[40007]}
+{"id":40009,"name":"Bowbreaker 3","mods":[0,0,0,0,0],"parents":[40008]}
+{"id":40010,"name":"Brash Assault 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40011,"name":"Brash Assault 2","mods":[0,0,0,0,0],"parents":[40010]}
+{"id":40012,"name":"Brash Assault 3","mods":[0,0,0,0,0],"parents":[40011]}
+{"id":40013,"name":"Daggerbreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40014,"name":"Daggerbreaker 2","mods":[0,0,0,0,0],"parents":[40013]}
+{"id":40015,"name":"Daggerbreaker 3","mods":[0,0,0,0,0],"parents":[40014]}
+{"id":40016,"name":"Desperation 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40017,"name":"Desperation 2","mods":[0,0,0,0,0],"parents":[40016]}
+{"id":40018,"name":"Desperation 3","mods":[0,0,0,0,0],"parents":[40017]}
+{"id":40019,"name":"Drag Back","mods":[0,0,0,0,0],"parents":[]}
+{"id":40020,"name":"Escape Route 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40021,"name":"Escape Route 2","mods":[0,0,0,0,0],"parents":[40020]}
+{"id":40022,"name":"Escape Route 3","mods":[0,0,0,0,0],"parents":[40021]}
+{"id":40023,"name":"G Tomebreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40024,"name":"G Tomebreaker 2","mods":[0,0,0,0,0],"parents":[40023]}
+{"id":40025,"name":"G Tomebreaker 3","mods":[0,0,0,0,0],"parents":[40024]}
+{"id":40026,"name":"Knock Back","mods":[0,0,0,0,0],"parents":[]}
+{"id":40027,"name":"Lancebreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40028,"name":"Lancebreaker 2","mods":[0,0,0,0,0],"parents":[40027]}
+{"id":40029,"name":"Lancebreaker 3","mods":[0,0,0,0,0],"parents":[40028]}
+{"id":40030,"name":"Live to Serve 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40031,"name":"Live to Serve 2","mods":[0,0,0,0,0],"parents":[40030]}
+{"id":40032,"name":"Live to Serve 3","mods":[0,0,0,0,0],"parents":[40031]}
+{"id":40033,"name":"Lunge","mods":[0,0,0,0,0],"parents":[]}
+{"id":40034,"name":"Obstruct 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40035,"name":"Obstruct 2","mods":[0,0,0,0,0],"parents":[40034]}
+{"id":40036,"name":"Obstruct 3","mods":[0,0,0,0,0],"parents":[40035]}
+{"id":40037,"name":"Pass 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40038,"name":"Pass 2","mods":[0,0,0,0,0],"parents":[40037]}
+{"id":40039,"name":"Pass 3","mods":[0,0,0,0,0],"parents":[40038]}
+{"id":40040,"name":"Poison Strike 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40041,"name":"Poison Strike 2","mods":[0,0,0,0,0],"parents":[40040]}
+{"id":40042,"name":"Poison Strike 3","mods":[0,0,0,0,0],"parents":[40041]}
+{"id":40043,"name":"Quick Riposte 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40044,"name":"Quick Riposte 2","mods":[0,0,0,0,0],"parents":[40043]}
+{"id":40045,"name":"Quick Riposte 3","mods":[0,0,0,0,0],"parents":[40044]}
+{"id":40046,"name":"R Tomebreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40047,"name":"R Tomebreaker 2","mods":[0,0,0,0,0],"parents":[40046]}
+{"id":40048,"name":"R Tomebreaker 3","mods":[0,0,0,0,0],"parents":[40047]}
+{"id":40049,"name":"Renewal 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40050,"name":"Renewal 2","mods":[0,0,0,0,0],"parents":[40049]}
+{"id":40051,"name":"Renewal 3","mods":[0,0,0,0,0],"parents":[40050]}
+{"id":40052,"name":"Seal Atk 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40053,"name":"Seal Atk 2","mods":[0,0,0,0,0],"parents":[40052]}
+{"id":40054,"name":"Seal Atk 3","mods":[0,0,0,0,0],"parents":[40053]}
+{"id":40055,"name":"Seal Def 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40056,"name":"Seal Def 2","mods":[0,0,0,0,0],"parents":[40055]}
+{"id":40057,"name":"Seal Def 3","mods":[0,0,0,0,0],"parents":[40056]}
+{"id":40058,"name":"Seal Res 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40059,"name":"Seal Res 2","mods":[0,0,0,0,0],"parents":[40058]}
+{"id":40060,"name":"Seal Res 3","mods":[0,0,0,0,0],"parents":[40059]}
+{"id":40061,"name":"Seal Spd 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40062,"name":"Seal Spd 2","mods":[0,0,0,0,0],"parents":[40061]}
+{"id":40063,"name":"Seal Spd 3","mods":[0,0,0,0,0],"parents":[40062]}
+{"id":40064,"name":"Swordbreaker 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40065,"name":"Swordbreaker 2","mods":[0,0,0,0,0],"parents":[40064]}
+{"id":40066,"name":"Swordbreaker 3","mods":[0,0,0,0,0],"parents":[40065]}
+{"id":40067,"name":"Vantage 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40068,"name":"Vantage 2","mods":[0,0,0,0,0],"parents":[40067]}
+{"id":40069,"name":"Vantage 3","mods":[0,0,0,0,0],"parents":[40068]}
+{"id":40070,"name":"Wary Fighter 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40071,"name":"Wary Fighter 2","mods":[0,0,0,0,0],"parents":[40070]}
+{"id":40072,"name":"Wary Fighter 3","mods":[0,0,0,0,0],"parents":[40071]}
+{"id":40073,"name":"Wings of Mercy 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40074,"name":"Wings of Mercy 2","mods":[0,0,0,0,0],"parents":[40073]}
+{"id":40075,"name":"Wings of Mercy 3","mods":[0,0,0,0,0],"parents":[40074]}
+{"id":40076,"name":"Live for Honor","mods":[0,0,0,0,0],"parents":[]}
+{"id":40077,"name":"Live for Bounty","mods":[0,0,0,0,0],"parents":[]}
+{"id":40078,"name":"Windsweep 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40079,"name":"Windsweep 2","mods":[0,0,0,0,0],"parents":[40078]}
+{"id":40080,"name":"Windsweep 3","mods":[0,0,0,0,0],"parents":[40079]}
+{"id":40081,"name":"Hit and run","mods":[0,0,0,0,0],"parents":[]}
+{"id":40082,"name":"Watersweep 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40083,"name":"Watersweep 2","mods":[0,0,0,0,0],"parents":[40082]}
+{"id":40084,"name":"Watersweep 3","mods":[0,0,0,0,0],"parents":[40083]}
+{"id":40085,"name":"Guard 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40086,"name":"Guard 2","mods":[0,0,0,0,0],"parents":[40085]}
+{"id":40087,"name":"Guard 3","mods":[0,0,0,0,0],"parents":[40086]}
+{"id":40088,"name":"Wrathful Staff 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40089,"name":"Wrathful Staff 2","mods":[0,0,0,0,0],"parents":[40088]}
+{"id":40090,"name":"Wrathful Staff 3","mods":[0,0,0,0,0],"parents":[40089]}
+{"id":40091,"name":"Dazzling Staff 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":40092,"name":"Dazzling Staff 2","mods":[0,0,0,0,0],"parents":[40091]}
+{"id":40093,"name":"Dazzling Staff 3","mods":[0,0,0,0,0],"parents":[40092]}
 
-{"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0]}
-{"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0]}
-{"id":50003,"name":"Breath of Life 3","mods":[0,0,0,0,0]}
-{"id":50004,"name":"Fortify Armor","mods":[0,0,0,0,0]}
-{"id":50005,"name":"Fortify Cavalry","mods":[0,0,0,0,0]}
-{"id":50006,"name":"Fortify Def 1","mods":[0,0,0,0,0]}
-{"id":50007,"name":"Fortify Def 2","mods":[0,0,0,0,0]}
-{"id":50008,"name":"Fortify Def 3","mods":[0,0,0,0,0]}
-{"id":50009,"name":"Fortify Dragons","mods":[0,0,0,0,0]}
-{"id":50010,"name":"Fortify Fliers","mods":[0,0,0,0,0]}
-{"id":50011,"name":"Fortify Res 1","mods":[0,0,0,0,0]}
-{"id":50012,"name":"Fortify Res 2","mods":[0,0,0,0,0]}
-{"id":50013,"name":"Fortify Res 3","mods":[0,0,0,0,0]}
-{"id":50014,"name":"Goad Armor","mods":[0,0,0,0,0]}
-{"id":50015,"name":"Goad Cavalry","mods":[0,0,0,0,0]}
-{"id":50016,"name":"Goad Fliers","mods":[0,0,0,0,0]}
-{"id":50017,"name":"Hone Armor","mods":[0,0,0,0,0]}
-{"id":50018,"name":"Hone Atk 1","mods":[0,0,0,0,0]}
-{"id":50019,"name":"Hone Atk 2","mods":[0,0,0,0,0]}
-{"id":50020,"name":"Hone Atk 3","mods":[0,0,0,0,0]}
-{"id":50021,"name":"Hone Cavalry","mods":[0,0,0,0,0]}
-{"id":50022,"name":"Hone Fliers","mods":[0,0,0,0,0]}
-{"id":50023,"name":"Hone Spd 1","mods":[0,0,0,0,0]}
-{"id":50024,"name":"Hone Spd 2","mods":[0,0,0,0,0]}
-{"id":50025,"name":"Hone Spd 3","mods":[0,0,0,0,0]}
-{"id":50026,"name":"Savage Blow 1","mods":[0,0,0,0,0]}
-{"id":50027,"name":"Savage Blow 2","mods":[0,0,0,0,0]}
-{"id":50028,"name":"Savage Blow 3","mods":[0,0,0,0,0]}
-{"id":50029,"name":"Spur Atk 1","mods":[0,0,0,0,0]}
-{"id":50030,"name":"Spur Atk 2","mods":[0,0,0,0,0]}
-{"id":50031,"name":"Spur Atk 3","mods":[0,0,0,0,0]}
-{"id":50032,"name":"Spur Def 1","mods":[0,0,0,0,0]}
-{"id":50033,"name":"Spur Def 2","mods":[0,0,0,0,0]}
-{"id":50034,"name":"Spur Def 3","mods":[0,0,0,0,0]}
-{"id":50035,"name":"Spur Res 1","mods":[0,0,0,0,0]}
-{"id":50036,"name":"Spur Res 2","mods":[0,0,0,0,0]}
-{"id":50037,"name":"Spur Res 3","mods":[0,0,0,0,0]}
-{"id":50038,"name":"Spur Spd 1","mods":[0,0,0,0,0]}
-{"id":50039,"name":"Spur Spd 2","mods":[0,0,0,0,0]}
-{"id":50040,"name":"Spur Spd 3","mods":[0,0,0,0,0]}
-{"id":50041,"name":"Threaten Atk 1","mods":[0,0,0,0,0]}
-{"id":50042,"name":"Threaten Atk 2","mods":[0,0,0,0,0]}
-{"id":50043,"name":"Threaten Atk 3","mods":[0,0,0,0,0]}
-{"id":50044,"name":"Threaten Def 1","mods":[0,0,0,0,0]}
-{"id":50045,"name":"Threaten Def 2","mods":[0,0,0,0,0]}
-{"id":50046,"name":"Threaten Def 3","mods":[0,0,0,0,0]}
-{"id":50047,"name":"Threaten Res 1","mods":[0,0,0,0,0]}
-{"id":50048,"name":"Threaten Res 2","mods":[0,0,0,0,0]}
-{"id":50049,"name":"Threaten Res 3","mods":[0,0,0,0,0]}
-{"id":50050,"name":"Threaten Spd 1","mods":[0,0,0,0,0]}
-{"id":50051,"name":"Threaten Spd 2","mods":[0,0,0,0,0]}
-{"id":50052,"name":"Threaten Spd 3","mods":[0,0,0,0,0]}
-{"id":50053,"name":"Ward Armor","mods":[0,0,0,0,0]}
-{"id":50054,"name":"Ward Cavalry","mods":[0,0,0,0,0]}
-{"id":50055,"name":"Ward Fliers","mods":[0,0,0,0,0]}
-{"id":50056,"name":"Axe Experience 3","mods":[0,0,0,0,0]}
-{"id":50057,"name":"Bow Exp 1","mods":[0,0,0,0,0]}
-{"id":50058,"name":"Bow Exp 2","mods":[0,0,0,0,0]}
-{"id":50059,"name":"Bow Exp 3","mods":[0,0,0,0,0]}
-{"id":50060,"name":"Spur Def/Res 1","mods":[0,0,0,0,0]}
-{"id":50061,"name":"Spur Def/Res 2","mods":[0,0,0,0,0]}
-{"id":50062,"name":"Spur Def/Res 3","mods":[0,0,0,0,0]}
-{"id":50063,"name":"B Tome Exp. 1","mods":[0,0,0,0,0]}
-{"id":50064,"name":"B Tome Exp. 2","mods":[0,0,0,0,0]}
-{"id":50065,"name":"B Tome Exp. 3","mods":[0,0,0,0,0]}
-{"id":50066,"name":"Axe Experience 1","mods":[0,0,0,0,0]}
-{"id":50067,"name":"Axe Experience 2","mods":[0,0,0,0,0]}
+{"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0],"parents":[50001]}
+{"id":50003,"name":"Breath of Life 3","mods":[0,0,0,0,0],"parents":[50002]}
+{"id":50004,"name":"Fortify Armor","mods":[0,0,0,0,0],"parents":[50007,50012]}
+{"id":50005,"name":"Fortify Cavalry","mods":[0,0,0,0,0],"parents":[50007,50012]}
+{"id":50006,"name":"Fortify Def 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50007,"name":"Fortify Def 2","mods":[0,0,0,0,0],"parents":[50006]}
+{"id":50008,"name":"Fortify Def 3","mods":[0,0,0,0,0],"parents":[50007]}
+{"id":50009,"name":"Fortify Dragons","mods":[0,0,0,0,0],"parents":[50007,50012]}
+{"id":50010,"name":"Fortify Fliers","mods":[0,0,0,0,0],"parents":[50007,50012]}
+{"id":50011,"name":"Fortify Res 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50012,"name":"Fortify Res 2","mods":[0,0,0,0,0],"parents":[50011]}
+{"id":50013,"name":"Fortify Res 3","mods":[0,0,0,0,0],"parents":[50012]}
+{"id":50014,"name":"Goad Armor","mods":[0,0,0,0,0],"parents":[50030,50039]}
+{"id":50015,"name":"Goad Cavalry","mods":[0,0,0,0,0],"parents":[50030,50039]}
+{"id":50016,"name":"Goad Fliers","mods":[0,0,0,0,0],"parents":[50030,50039]}
+{"id":50017,"name":"Hone Armor","mods":[0,0,0,0,0],"parents":[50019,50024]}
+{"id":50018,"name":"Hone Atk 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50019,"name":"Hone Atk 2","mods":[0,0,0,0,0],"parents":[50018]}
+{"id":50020,"name":"Hone Atk 3","mods":[0,0,0,0,0],"parents":[50019]}
+{"id":50021,"name":"Hone Cavalry","mods":[0,0,0,0,0],"parents":[50019,50024]}
+{"id":50022,"name":"Hone Fliers","mods":[0,0,0,0,0],"parents":[50019,50024]}
+{"id":50023,"name":"Hone Spd 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50024,"name":"Hone Spd 2","mods":[0,0,0,0,0],"parents":[50023]}
+{"id":50025,"name":"Hone Spd 3","mods":[0,0,0,0,0],"parents":[50024]}
+{"id":50026,"name":"Savage Blow 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50027,"name":"Savage Blow 2","mods":[0,0,0,0,0],"parents":[50026]}
+{"id":50028,"name":"Savage Blow 3","mods":[0,0,0,0,0],"parents":[50027]}
+{"id":50029,"name":"Spur Atk 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50030,"name":"Spur Atk 2","mods":[0,0,0,0,0],"parents":[50029]}
+{"id":50031,"name":"Spur Atk 3","mods":[0,0,0,0,0],"parents":[50030]}
+{"id":50032,"name":"Spur Def 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50033,"name":"Spur Def 2","mods":[0,0,0,0,0],"parents":[50032]}
+{"id":50034,"name":"Spur Def 3","mods":[0,0,0,0,0],"parents":[50033]}
+{"id":50035,"name":"Spur Res 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50036,"name":"Spur Res 2","mods":[0,0,0,0,0],"parents":[50035]}
+{"id":50037,"name":"Spur Res 3","mods":[0,0,0,0,0],"parents":[50036]}
+{"id":50038,"name":"Spur Spd 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50039,"name":"Spur Spd 2","mods":[0,0,0,0,0],"parents":[50038]}
+{"id":50040,"name":"Spur Spd 3","mods":[0,0,0,0,0],"parents":[50039]}
+{"id":50041,"name":"Threaten Atk 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50042,"name":"Threaten Atk 2","mods":[0,0,0,0,0],"parents":[50041]}
+{"id":50043,"name":"Threaten Atk 3","mods":[0,0,0,0,0],"parents":[50042]}
+{"id":50044,"name":"Threaten Def 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50045,"name":"Threaten Def 2","mods":[0,0,0,0,0],"parents":[50044]}
+{"id":50046,"name":"Threaten Def 3","mods":[0,0,0,0,0],"parents":[50045]}
+{"id":50047,"name":"Threaten Res 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50048,"name":"Threaten Res 2","mods":[0,0,0,0,0],"parents":[50047]}
+{"id":50049,"name":"Threaten Res 3","mods":[0,0,0,0,0],"parents":[50048]}
+{"id":50050,"name":"Threaten Spd 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50051,"name":"Threaten Spd 2","mods":[0,0,0,0,0],"parents":[50050]}
+{"id":50052,"name":"Threaten Spd 3","mods":[0,0,0,0,0],"parents":[50051]}
+{"id":50053,"name":"Ward Armor","mods":[0,0,0,0,0],"parents":[50033,50036]}
+{"id":50054,"name":"Ward Cavalry","mods":[0,0,0,0,0],"parents":[50033,50036]}
+{"id":50055,"name":"Ward Fliers","mods":[0,0,0,0,0],"parents":[50033,50036]}
+{"id":50056,"name":"Axe Experience 3","mods":[0,0,0,0,0],"parents":[50067]}
+{"id":50057,"name":"Bow Exp 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50058,"name":"Bow Exp 2","mods":[0,0,0,0,0],"parents":[50057]}
+{"id":50059,"name":"Bow Exp 3","mods":[0,0,0,0,0],"parents":[50058]}
+{"id":50060,"name":"Spur Def/Res 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50061,"name":"Spur Def/Res 2","mods":[0,0,0,0,0],"parents":[50060]}
+{"id":50062,"name":"Spur Def/Res 3","mods":[0,0,0,0,0],"parents":[50061]}
+{"id":50063,"name":"B Tome Exp. 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50064,"name":"B Tome Exp. 2","mods":[0,0,0,0,0],"parents":[50063]}
+{"id":50065,"name":"B Tome Exp. 3","mods":[0,0,0,0,0],"parents":[50064]}
+{"id":50066,"name":"Axe Experience 1","mods":[0,0,0,0,0],"parents":[]}
+{"id":50067,"name":"Axe Experience 2","mods":[0,0,0,0,0],"parents":[50066]}
