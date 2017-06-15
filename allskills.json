@@ -179,8 +179,8 @@
 {"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0],"parents":[184],"inheritance":"dragon"}
 {"id":186,"name":"Rauðrowl+","mods":[0,10,0,0,0],"parents":[186],"inheritance":"rtome"}
 {"id":187,"name":"Firesweep L+","mods":[0,15,0,0,0],"parents":[187],"inheritance":"lance"}
-{"id":186,"name":"Rauðrowl","mods":[0,6,0,0,0],"parents":[33,109],"inheritance":"rtome"}
-{"id":187,"name":"Firesweep L","mods":[0,11,0,0,0],"parents":[131],"inheritance":"lance"}
+{"id":188,"name":"Rauðrowl","mods":[0,6,0,0,0],"parents":[33,109],"inheritance":"rtome"}
+{"id":189,"name":"Firesweep L","mods":[0,11,0,0,0],"parents":[131],"inheritance":"lance"}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0],"parents":[],"inheritance":"not_staff"}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0],"parents":[],"inheritance":"not_inheritable"}

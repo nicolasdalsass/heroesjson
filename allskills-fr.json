@@ -179,8 +179,8 @@
 {"id":185,"name":"S. électrique +","mods":[0,11,0,0,0]}
 {"id":186,"name":"Ailes Rubis +","mods":[0,10,0,0,0]}
 {"id":187,"name":"L. enflammée +","mods":[0,15,0,0,0]}
-{"id":186,"name":"Ailes Rubis","mods":[0,6,0,0,0]}
-{"id":187,"name":"L. enflammée","mods":[0,11,0,0,0]}
+{"id":188,"name":"Ailes Rubis","mods":[0,6,0,0,0]}
+{"id":189,"name":"L. enflammée","mods":[0,11,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -204,7 +204,7 @@
 {"id":10019,"name":"Chant","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Charge","mods":[0,0,0,0,0]}
 {"id":10021,"name":"Inversion","mods":[0,0,0,0,0]}
-{"id":10022,"name":"Ralliem: Atq/Vit","mods":[0,0,0,0,0]}
+{"id":10022,"name":"Ralliem. : Atq/Vit","mods":[0,0,0,0,0]}
 {"id":10023,"name":"Rall. : Déf/Rés","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Égide","mods":[0,0,0,0,0]}
