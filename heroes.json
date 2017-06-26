@@ -73,7 +73,7 @@
 {"name":"Linde","hpGrowth":5,"atkGrowth":8,"spdGrowth":8,"defGrowth":1,"resGrowth":6,"movementType":"INFANTRY","weaponType":"BTOME"}
 {"name":"Lissa","hpGrowth":6,"atkGrowth":5,"spdGrowth":5,"defGrowth":6,"resGrowth":6,"movementType":"INFANTRY","weaponType":"STAFF"}
 {"name":"Lloyd","hpGrowth":7,"atkGrowth":7,"spdGrowth":8,"defGrowth":3,"resGrowth":6,"movementType":"INFANTRY","weaponType":"SWORD"}
-{"name":"Lon'qu","hpGrowth":8,"atkGrowth":6,"spdGrowth":9,"defGrowth":4,"resGrowth":4,"movementType":"INFANTRY","weaponType":"SWORD"}
+{"name":"Lonqu","hpGrowth":8,"atkGrowth":6,"spdGrowth":9,"defGrowth":4,"resGrowth":4,"movementType":"INFANTRY","weaponType":"SWORD"}
 {"name":"Lucina","hpGrowth":7,"atkGrowth":8,"spdGrowth":8,"defGrowth":5,"resGrowth":3,"movementType":"INFANTRY","weaponType":"SWORD"}
 {"name":"LucinaEaster","hpGrowth":5,"atkGrowth":6,"spdGrowth":8,"defGrowth":4,"resGrowth":5,"movementType":"INFANTRY","weaponType":"BTOME"}
 {"name":"Lucius","hpGrowth":5,"atkGrowth":8,"spdGrowth":6,"defGrowth":1,"resGrowth":8,"movementType":"INFANTRY","weaponType":"STAFF"}
