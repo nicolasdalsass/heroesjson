@@ -183,8 +183,8 @@
 {"id":189,"name":"Firesweep L","mods":[0,11,0,0,0],"parents":[131],"inheritanceRestriction":"LANCE"}
 {"id":190,"name":"Legion's Axe","mods":[0,10,0,0,0],"parents":[128],"inheritanceRestriction":"AXE"}
 {"id":191,"name":"Legion's Axe+","mods":[0,14,0,0,0],"parents":[190],"inheritanceRestriction":"AXE"}
-{"id":192,"name":"Clarisse Bow","mods":[0,7,0,0,0],"parents":[129],"inheritanceRestriction":"BOW"}
-{"id":193,"name":"Clarisse Bow+","mods":[0,11,0,0,0],"parents":[192],"inheritanceRestriction":"BOW"}
+{"id":192,"name":"Clarisse's Bow","mods":[0,7,0,0,0],"parents":[129],"inheritanceRestriction":"BOW"}
+{"id":193,"name":"Clarisse's Bow+","mods":[0,11,0,0,0],"parents":[192],"inheritanceRestriction":"BOW"}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_STAFF"}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_INHERITABLE"}
