@@ -10,6 +10,7 @@
 {"name":"Arthur3","skills1":[128],"skills40":[36,10021,30034,40027],"HP":18,"atk":7,"speed":6,"def":7,"res":4}
 {"name":"Arthur4","skills1":[36,10021],"skills40":[36,10021,30035,40028],"HP":18,"atk":8,"speed":6,"def":8,"res":4}
 {"name":"Arthur5","skills1":[37,10021],"skills40":[37,10021,30035,40029],"HP":19,"atk":8,"speed":7,"def":8,"res":5}
+{"name":"Athena4","skills1":[137,20033],"skills40":[137,20032,30075,50075],"HP":16,"atk":6,"speed":10,"def":8,"res":4}
 {"name":"Athena5","skills1":[138,20033],"skills40":[138,20032,30076,50075],"HP":17,"atk":7,"speed":10,"def":8,"res":5}
 {"name":"Azama3","skills1":[10014],"skills40":[7,10014,20045,50041],"HP":18,"atk":3,"speed":6,"def":7,"res":5}
 {"name":"Azama4","skills1":[10014,20045],"skills40":[7,10005,20045,50042],"HP":18,"atk":3,"speed":7,"def":8,"res":5}
@@ -244,7 +245,8 @@
 {"name":"RobinM3","skills1":[34],"skills40":[12,20019,30026,50033],"HP":17,"atk":6,"speed":6,"def":6,"res":4}
 {"name":"RobinM4","skills1":[12,20019],"skills40":[12,20008,30027,50034],"HP":17,"atk":7,"speed":7,"def":6,"res":4}
 {"name":"RobinM5","skills1":[13,20019],"skills40":[13,20008,30028,50034],"HP":18,"atk":7,"speed":7,"def":7,"res":5}
-{"name":"Roderick5","skills1":[187,10022],"skills40":[187,10022,40019,50072],"HP":18,"atk":7,"speed":8,"def":6,"res":7}
+{"name":"Roderick4","skills1":[189,10010],"skills40":[189,10022,40019,50071],"HP":17,"atk":7,"speed":8,"def":5,"res":6}
+{"name":"Roderick5","skills1":[187,10010],"skills40":[187,10022,40019,50072],"HP":18,"atk":7,"speed":8,"def":6,"res":7}
 {"name":"Roy4","skills1":[122,10018],"skills40":[122,10018,30048,40056],"HP":19,"atk":8,"speed":9,"def":5,"res":3}
 {"name":"Roy5","skills1":[9,10018],"skills40":[9,10018,30048,40057],"HP":20,"atk":8,"speed":9,"def":6,"res":4}
 {"name":"Ryoma5","skills1":[97,20034],"skills40":[97,20003,30019,50025],"HP":19,"atk":8,"speed":11,"def":5,"res":4}
