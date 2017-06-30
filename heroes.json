@@ -1,3 +1,9 @@
+
+{"name":"FrederickSummer5","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"DAGGER"}
+{"name":"GaiusSummer5","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"BOW"}
+{"name":"TikiSummer5","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"AXE"}
+{"name":"RobinFSummer5","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"LANCE"}
+{"name":"Clarisse","availability":[3,4,5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"BOW"}
 {"name":"Abel","availability":[4,5],"availability":[4,5],"hpGrowth":6,"atkGrowth":8,"spdGrowth":7,"defGrowth":4,"resGrowth":5,"movementType":"CAVALRY","weaponType":"LANCE"}
 {"name":"Alfonse","availability":[3,4,5],"availability":[4,5],"hpGrowth":7,"atkGrowth":8,"spdGrowth":5,"defGrowth":7,"resGrowth":4,"movementType":"INFANTRY","weaponType":"SWORD"}
 {"name":"Alm","availability":[5],"availability":[4,5],"hpGrowth":7,"atkGrowth":7,"spdGrowth":7,"defGrowth":6,"resGrowth":4,"movementType":"INFANTRY","weaponType":"SWORD"}
@@ -25,7 +31,6 @@
 {"name":"ChromEaster","availability":[5],"hpGrowth":7,"atkGrowth":8,"spdGrowth":7,"defGrowth":6,"resGrowth":3,"movementType":"INFANTRY","weaponType":"AXE"}
 {"name":"Clair","availability":[4,5],"hpGrowth":5,"atkGrowth":5,"spdGrowth":9,"defGrowth":5,"resGrowth":7,"movementType":"FLIER","weaponType":"LANCE"}
 {"name":"Clarine","availability":[3,4,5],"hpGrowth":5,"atkGrowth":5,"spdGrowth":7,"defGrowth":4,"resGrowth":6,"movementType":"CAVALRY","weaponType":"STAFF"}
-{"name":"Clarisse","availability":[3,4,5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"BOW"}
 {"name":"Cordelia","availability":[4,5],"hpGrowth":6,"atkGrowth":8,"spdGrowth":8,"defGrowth":4,"resGrowth":5,"movementType":"FLIER","weaponType":"LANCE"}
 {"name":"CordeliaBridal","availability":[5],"hpGrowth":5,"atkGrowth":8,"spdGrowth":8,"defGrowth":3,"resGrowth":4,"movementType":"INFANTRY","weaponType":"BOW"}
 {"name":"CorrinF","availability":[3,4,5],"hpGrowth":6,"atkGrowth":5,"spdGrowth":9,"defGrowth":8,"resGrowth":3,"movementType":"INFANTRY","weaponType":"BBREATH"}
