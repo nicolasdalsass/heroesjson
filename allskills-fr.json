@@ -185,6 +185,14 @@
 {"id":191,"name":"Hache Legion+","mods":[0,14,0,0,0]}
 {"id":192,"name":"Arc Clarisse","mods":[0,7,0,0,0]}
 {"id":193,"name":"Arc Clarisse+","mods":[0,11,0,0,0]}
+{"id":194,"name":"Coquillage","mods":[0,7,0,0,0]}
+{"id":195,"name":"Coquillage +","mods":[0,10,0,0,0]}
+{"id":196,"name":"Arc à friandises","mods":[0,8,0,0,0]}
+{"id":197,"name":"Arc à friandises +","mods":[0,12,0,0,0]}
+{"id":198,"name":"Brise-pastèque","mods":[0,10,0,0,0]}
+{"id":199,"name":"Brise-pastèque +","mods":[0,14,0,0,0]}
+{"id":200,"name":"Harpon Marin","mods":[0,10,0,0,0]}
+{"id":201,"name":"Harpon Marin +","mods":[0,14,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -339,6 +347,11 @@
 {"id":30077,"name":"Boost ardent 1","mods":[0,0,0,0,0]}
 {"id":30078,"name":"Boost ardent 2","mods":[0,0,0,0,0]}
 {"id":30079,"name":"Boost ardent 3","mods":[0,0,0,0,0]}
+{"id":30080,"name":"Déf proche 1","mods":[0,0,0,0,0]}
+{"id":30081,"name":"Déf proche 2","mods":[0,0,0,0,0]}
+{"id":30082,"name":"Déf proche 3","mods":[0,0,0,0,0]}
+{"id":30083,"name":"PV/Déf 1","mods":[3,0,0,1,0]}
+{"id":30084,"name":"PV/Déf 2","mods":[4,0,0,2,0]}
 
 {"id":40001,"name":"Anti-hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-hache 2","mods":[0,0,0,0,0]}
@@ -433,6 +446,8 @@
 {"id":40091,"name":"Bâton Brillant 1","mods":[0,0,0,0,0]}
 {"id":40092,"name":"Bâton Brillant 2","mods":[0,0,0,0,0]}
 {"id":40093,"name":"Bâton Brillant 3","mods":[0,0,0,0,0]}
+{"id":40094,"name":"Sceau Atq/Vit 1","mods":[0,0,0,0,0]}
+{"id":40095,"name":"Sceau Atq/Vit 2","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
@@ -512,3 +527,12 @@
 {"id":50076,"name":"Ruse Panique 1","mods":[0,0,0,0,0]}
 {"id":50077,"name":"Ruse Panique 2","mods":[0,0,0,0,0]}
 {"id":50078,"name":"Ruse Panique 3","mods":[0,0,0,0,0]}
+{"id":50079,"name":"Ruse Déf 1","mods":[0,0,0,0,0]}
+{"id":50080,"name":"Ruse Déf 2","mods":[0,0,0,0,0]}
+{"id":50081,"name":"Ruse Déf 3","mods":[0,0,0,0,0]}
+{"id":50083,"name":"Tech. hache 1","mods":[0,0,0,0,0]}
+{"id":50083,"name":"Tech. hache 2","mods":[0,0,0,0,0]}
+{"id":50084,"name":"Tech. hache 3","mods":[0,0,0,0,0]}
+{"id":50085,"name":"Tech. lance 1","mods":[0,0,0,0,0]}
+{"id":50086,"name":"Tech. lance 2","mods":[0,0,0,0,0]}
+{"id":50087,"name":"Tech. lance 3","mods":[0,0,0,0,0]}

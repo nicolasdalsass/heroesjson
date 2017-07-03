@@ -179,12 +179,20 @@
 {"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0],"parents":[184],"inheritanceRestriction":"DRAGON"}
 {"id":186,"name":"Rauðrowl+","mods":[0,10,0,0,0],"parents":[186],"inheritanceRestriction":"RTOME"}
 {"id":187,"name":"Firesweep L+","mods":[0,15,0,0,0],"parents":[187],"inheritanceRestriction":"LANCE"}
-{"id":188,"name":"Rauðrowl","mods":[0,6,0,0,0],"parents":[33,109],"inheritanceRestriction":"RTOME"}
+{"id":188,"name":"Rauðrowl","mods":[0,6,0,0,0],"parents":[33],"inheritanceRestriction":"RTOME"}
 {"id":189,"name":"Firesweep L","mods":[0,11,0,0,0],"parents":[131],"inheritanceRestriction":"LANCE"}
 {"id":190,"name":"Legion's Axe","mods":[0,10,0,0,0],"parents":[128],"inheritanceRestriction":"AXE"}
 {"id":191,"name":"Legion's Axe+","mods":[0,14,0,0,0],"parents":[190],"inheritanceRestriction":"AXE"}
-{"id":192,"name":"Clarisse Bow","mods":[0,7,0,0,0],"parents":[129],"inheritanceRestriction":"BOW"}
-{"id":193,"name":"Clarisse Bow+","mods":[0,11,0,0,0],"parents":[192],"inheritanceRestriction":"BOW"}
+{"id":192,"name":"Clarisse's Bow","mods":[0,7,0,0,0],"parents":[129],"inheritanceRestriction":"BOW"}
+{"id":193,"name":"Clarisse's Bow+","mods":[0,11,0,0,0],"parents":[192],"inheritanceRestriction":"BOW"}
+{"id":194,"name":"Seashell","mods":[0,7,0,0,0],"parents":[130],"inheritanceRestriction":"DAGGER"}
+{"id":195,"name":"Seashell+","mods":[0,10,0,0,0],"parents":[194],"inheritanceRestriction":"DAGGER"}
+{"id":196,"name":"Refreshing Bolt","mods":[0,8,0,0,0],"parents":[129],"inheritanceRestriction":"BOW"}
+{"id":197,"name":"Refreshing Bolt+","mods":[0,12,0,0,0],"parents":[196],"inheritanceRestriction":"BOW"}
+{"id":198,"name":"Melon Crusher","mods":[0,10,0,0,0],"parents":[128],"inheritanceRestriction":"AXE"}
+{"id":199,"name":"Melon Crusher+","mods":[0,14,0,0,0],"parents":[198],"inheritanceRestriction":"AXE"}
+{"id":200,"name":"Deft Harpoon","mods":[0,10,0,0,0],"parents":[131],"inheritanceRestriction":"LANCE"}
+{"id":201,"name":"Deft Harpoon+","mods":[0,14,0,0,0],"parents":[200],"inheritanceRestriction":"LANCE"}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_STAFF"}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_INHERITABLE"}
@@ -339,6 +347,11 @@
 {"id":30077,"name":"Fire Boost 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":30078,"name":"Fire Boost 2","mods":[0,0,0,0,0],"parents":[30077],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":30079,"name":"Fire Boost 3","mods":[0,0,0,0,0],"parents":[30078],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30080,"name":"Close Defense 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30081,"name":"Close Defense 2","mods":[0,0,0,0,0],"parents":[30080],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30082,"name":"Close Defense 3","mods":[0,0,0,0,0],"parents":[30081],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30083,"name":"HP Def 1","mods":[3,0,0,1,0],"parents":[30014,30033],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30084,"name":"HP Def 2","mods":[4,0,0,2,0],"parents":[30083],"inheritanceRestriction":"NO_RESTRICTIONS"}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_BLUE"}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0],"parents":[40001],"inheritanceRestriction":"NOT_BLUE"}
@@ -433,6 +446,8 @@
 {"id":40091,"name":"Dazzling Staff 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"STAFF"}
 {"id":40092,"name":"Dazzling Staff 2","mods":[0,0,0,0,0],"parents":[40091],"inheritanceRestriction":"STAFF"}
 {"id":40093,"name":"Dazzling Staff 3","mods":[0,0,0,0,0],"parents":[40092],"inheritanceRestriction":"STAFF"}
+{"id":40094,"name":"Seal Atk/Spd 1","mods":[0,0,0,0,0],"parents":[40052,40061],"inheritanceRestriction":"NOT_STAFF"}
+{"id":40095,"name":"Seal Atk/Spd 2","mods":[0,0,0,0,0],"parents":[40094],"inheritanceRestriction":"NOT_STAFF"}
 
 {"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0],"parents":[50001],"inheritanceRestriction":"NO_RESTRICTIONS"}
@@ -512,3 +527,12 @@
 {"id":50076,"name":"Panic Ploy 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":50077,"name":"Panic Ploy 2","mods":[0,0,0,0,0],"parents":[50076],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":50078,"name":"Panic Ploy 3","mods":[0,0,0,0,0],"parents":[50077],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":50079,"name":"Def Ploy 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":50080,"name":"Def Ploy 2","mods":[0,0,0,0,0],"parents":[50079],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":50081,"name":"Def Ploy 3","mods":[0,0,0,0,0],"parents":[50080],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":50083,"name":"Axe Valor 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"AXE"}
+{"id":50083,"name":"Axe Valor 2","mods":[0,0,0,0,0],"parents":[50082],"inheritanceRestriction":"AXE"}
+{"id":50084,"name":"Axe Valor 3","mods":[0,0,0,0,0],"parents":[50083],"inheritanceRestriction":"AXE"}
+{"id":50085,"name":"Lance Valor 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"LANCE"}
+{"id":50086,"name":"Lance Valor 2","mods":[0,0,0,0,0],"parents":[50085],"inheritanceRestriction":"LANCE"}
+{"id":50087,"name":"Lance Valor 3","mods":[0,0,0,0,0],"parents":[50086],"inheritanceRestriction":"LANCE"}
