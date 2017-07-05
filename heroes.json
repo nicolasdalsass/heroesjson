@@ -1,8 +1,8 @@
-{"name":"FrederickSummer","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"DAGGER"}
-{"name":"GaiusSummer","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"BOW"}
-{"name":"TikiSummer","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"AXE"}
-{"name":"RobinFSummer","availability":[5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"LANCE"}
-{"name":"Clarisse","availability":[3,4,5],"hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1,"movementType":"INFANTRY","weaponType":"BOW"}
+{"name":"FrederickSummer","availability":[5],"hpGrowth":6,"atkGrowth":7,"spdGrowth":7,"defGrowth":6,"resGrowth":2,"movementType":"INFANTRY","weaponType":"DAGGER"}
+{"name":"GaiusSummer","availability":[5],"hpGrowth":4,"atkGrowth":6,"spdGrowth":9,"defGrowth":3,"resGrowth":6,"movementType":"INFANTRY","weaponType":"BOW"}
+{"name":"TikiSummer","availability":[5],"hpGrowth":4,"atkGrowth":9,"spdGrowth":7,"defGrowth":7,"resGrowth":4,"movementType":"INFANTRY","weaponType":"AXE"}
+{"name":"RobinFSummer","availability":[5],"hpGrowth":4,"atkGrowth":7,"spdGrowth":8,"defGrowth":6,"resGrowth":6,"movementType":"INFANTRY","weaponType":"LANCE"}
+{"name":"Clarisse","availability":[3,4,5],"hpGrowth":5,"atkGrowth":7,"spdGrowth":8,"defGrowth":5,"resGrowth":3,"movementType":"INFANTRY","weaponType":"BOW"}
 {"name":"Abel","availability":[4,5],"availability":[4,5],"hpGrowth":6,"atkGrowth":8,"spdGrowth":7,"defGrowth":4,"resGrowth":5,"movementType":"CAVALRY","weaponType":"LANCE"}
 {"name":"Alfonse","availability":[3,4,5],"availability":[4,5],"hpGrowth":7,"atkGrowth":8,"spdGrowth":5,"defGrowth":7,"resGrowth":4,"movementType":"INFANTRY","weaponType":"SWORD"}
 {"name":"Alm","availability":[5],"availability":[4,5],"hpGrowth":7,"atkGrowth":7,"spdGrowth":7,"defGrowth":6,"resGrowth":4,"movementType":"INFANTRY","weaponType":"SWORD"}
