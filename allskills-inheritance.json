@@ -530,7 +530,7 @@
 {"id":50079,"name":"Def Ploy 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":50080,"name":"Def Ploy 2","mods":[0,0,0,0,0],"parents":[50079],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":50081,"name":"Def Ploy 3","mods":[0,0,0,0,0],"parents":[50080],"inheritanceRestriction":"NO_RESTRICTIONS"}
-{"id":50083,"name":"Axe Valor 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"AXE"}
+{"id":50082,"name":"Axe Valor 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"AXE"}
 {"id":50083,"name":"Axe Valor 2","mods":[0,0,0,0,0],"parents":[50082],"inheritanceRestriction":"AXE"}
 {"id":50084,"name":"Axe Valor 3","mods":[0,0,0,0,0],"parents":[50083],"inheritanceRestriction":"AXE"}
 {"id":50085,"name":"Lance Valor 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"LANCE"}
