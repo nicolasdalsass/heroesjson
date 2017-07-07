@@ -65,7 +65,7 @@
 {"name":"Cordelia4","skills1":[22,20034],"skills40":[22,20003,30047,40039],"HP":17,"atk":9,"speed":9,"def":4,"res":5}
 {"name":"Cordelia5","skills1":[23,20034],"skills40":[23,20016,30048,40039],"HP":18,"atk":9,"speed":9,"def":5,"res":6}
 {"name":"CordeliaBridal5","skills1":[158,10022],"skills40":[158,10022,40022,50003],"HP":17,"atk":9,"speed":9,"def":4,"res":5}
-{"name":"CorrinF3","skills1":[50],"skills40":[28,20014,40058,50019],"HP":18,"atk":7,"speed":5,"def":7,"res":5}
+{"name":"CorrinF3","skills1":[169],"skills40":[28,20014,40058,50019],"HP":18,"atk":7,"speed":5,"def":7,"res":5}
 {"name":"CorrinF4","skills1":[28,20014],"skills40":[28,20012,40059,50020],"HP":18,"atk":8,"speed":5,"def":8,"res":5}
 {"name":"CorrinF5","skills1":[29,20012],"skills40":[29,20012,40060,50020],"HP":19,"atk":8,"speed":6,"def":8,"res":6}
 {"name":"CorrinM4","skills1":[122,20014],"skills40":[122,20013,30016,40035],"HP":19,"atk":8,"speed":8,"def":5,"res":4}
