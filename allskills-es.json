@@ -25,8 +25,6 @@
 {"id":25,"name":"Espada valor+","mods":[0,8,-5,0,0]}
 {"id":26,"name":"Brynhildr","mods":[0,14,0,0,0]}
 {"id":27,"name":"Cymbeline","mods":[0,14,0,0,0]}
-{"id":28,"name":"Soplo sombrío","mods":[0,9,0,0,0]}
-{"id":29,"name":"Soplo sombrío+","mods":[0,13,0,0,0]}
 {"id":30,"name":"Daga mortal","mods":[0,11,0,0,0]}
 {"id":31,"name":"Trueno funesto","mods":[0,9,-5,0,0]}
 {"id":32,"name":"Durandal","mods":[0,16,0,0,0]}
@@ -42,10 +40,6 @@
 {"id":42,"name":"Fenrir+","mods":[0,13,0,0,0]}
 {"id":43,"name":"Fensalir","mods":[0,16,0,0,0]}
 {"id":44,"name":"Fuego","mods":[0,4,0,0,0]}
-{"id":45,"name":"Soplo de fuego","mods":[0,6,0,0,0]}
-{"id":50,"name":"Soplo de fuego+","mods":[0,8,0,0,0]}
-{"id":51,"name":"Lengua ígnea","mods":[0,11,0,0,0]}
-{"id":52,"name":"Lengua ígnea+","mods":[0,15,0,0,0]}
 {"id":53,"name":"Flux","mods":[0,4,0,0,0]}
 {"id":54,"name":"Fólkvangr","mods":[0,16,0,0,0]}
 {"id":55,"name":"Yumi Fujin","mods":[0,14,0,0,0]}
@@ -74,12 +68,6 @@
 {"id":78,"name":"Lanza letal+","mods":[0,11,0,0,0]}
 {"id":79,"name":"Espada letal","mods":[0,7,0,0,0]}
 {"id":80,"name":"Espada letal+","mods":[0,11,0,0,0]}
-{"id":82,"name":"Soplo de luz","mods":[0,9,0,0,0]}
-{"id":83,"name":"Soplo de luz+","mods":[0,13,0,0,0]}
-{"id":85,"name":"Soplo trueno","mods":[0,7,0,0,0]}
-{"id":86,"name":"Soplo trueno","mods":[0,7,0,0,0]}
-{"id":87,"name":"Soplo trueno+","mods":[0,11,0,0,0]}
-{"id":88,"name":"Soplo trueno+","mods":[0,11,0,0,0]}
 {"id":89,"name":"Mistilteinn","mods":[0,16,0,0,0]}
 {"id":90,"name":"Naga","mods":[0,14,0,0,0]}
 {"id":91,"name":"Nóatún","mods":[0,16,0,0,0]}
@@ -159,24 +147,6 @@
 {"id":165,"name":"Lanza zanahoria","mods":[0,9,0,0,0]}
 {"id":166,"name":"Huevo verde","mods":[0,7,0,0,0]}
 {"id":167,"name":"Huevo azul","mods":[0,7,0,0,0]}
-{"id":168,"name":"Soplo de fuego","mods":[0,6,0,0,0]}
-{"id":169,"name":"Soplo de fuego+","mods":[0,8,0,0,0]}
-{"id":170,"name":"Soplo de fuego","mods":[0,6,0,0,0]}
-{"id":171,"name":"Soplo de fuego+","mods":[0,8,0,0,0]}
-{"id":172,"name":"Soplo sombrío","mods":[0,9,0,0,0]}
-{"id":173,"name":"Soplo sombrío+","mods":[0,13,0,0,0]}
-{"id":174,"name":"Soplo sombrío","mods":[0,9,0,0,0]}
-{"id":175,"name":"Soplo sombrío+","mods":[0,13,0,0,0]}
-{"id":176,"name":"Lengua ígnea","mods":[0,11,0,0,0]}
-{"id":177,"name":"Lengua ígnea+","mods":[0,15,0,0,0]}
-{"id":178,"name":"Lengua ígnea","mods":[0,11,0,0,0]}
-{"id":179,"name":"Lengua ígnea+","mods":[0,15,0,0,0]}
-{"id":180,"name":"Soplo de luz","mods":[0,9,0,0,0]}
-{"id":181,"name":"Soplo de luz+","mods":[0,13,0,0,0]}
-{"id":182,"name":"Soplo de luz","mods":[0,9,0,0,0]}
-{"id":183,"name":"Soplo de luz+","mods":[0,13,0,0,0]}
-{"id":184,"name":"Soplo trueno","mods":[0,7,0,0,0]}
-{"id":185,"name":"Soplo trueno+","mods":[0,11,0,0,0]}
 {"id":186,"name":"Búho carmesí+","mods":[0,10,0,0,0]}
 {"id":187,"name":"Lanza Vulcano+","mods":[0,15,0,0,0]}
 {"id":188,"name":"Búho carmesí","mods":[0,6,0,0,0]}
@@ -185,6 +155,36 @@
 {"id":191,"name":"Hacha Legion+","mods":[0,14,0,0,0]}
 {"id":192,"name":"Arco Clarisse","mods":[0,7,0,0,0]}
 {"id":193,"name":"Arco Clarisse+","mods":[0,11,0,0,0]}
+{"id":45,"name":"Soplo de fuego","mods":[0,6,0,0,0]}
+{"id":50,"name":"Soplo de fuego+","mods":[0,8,0,0,0]}
+{"id":168,"name":"Soplo de fuego","mods":[0,6,0,0,0]}
+{"id":169,"name":"Soplo de fuego+","mods":[0,8,0,0,0]}
+{"id":170,"name":"Soplo de fuego","mods":[0,6,0,0,0]}
+{"id":171,"name":"Soplo de fuego+","mods":[0,8,0,0,0]}
+{"id":172,"name":"Soplo sombrío","mods":[0,9,0,0,0]}
+{"id":173,"name":"Soplo sombrío+","mods":[0,13,0,0,0]}
+{"id":28,"name":"Soplo sombrío","mods":[0,9,0,0,0]}
+{"id":29,"name":"Soplo sombrío+","mods":[0,13,0,0,0]}
+{"id":174,"name":"Soplo sombrío","mods":[0,9,0,0,0]}
+{"id":175,"name":"Soplo sombrío+","mods":[0,13,0,0,0]}
+{"id":51,"name":"Lengua ígnea","mods":[0,11,0,0,0]}
+{"id":52,"name":"Lengua ígnea+","mods":[0,15,0,0,0]}
+{"id":176,"name":"Lengua ígnea","mods":[0,11,0,0,0]}
+{"id":177,"name":"Lengua ígnea+","mods":[0,15,0,0,0]}
+{"id":178,"name":"Lengua ígnea","mods":[0,11,0,0,0]}
+{"id":179,"name":"Lengua ígnea+","mods":[0,15,0,0,0]}
+{"id":180,"name":"Soplo de luz","mods":[0,9,0,0,0]}
+{"id":181,"name":"Soplo de luz+","mods":[0,13,0,0,0]}
+{"id":182,"name":"Soplo de luz","mods":[0,9,0,0,0]}
+{"id":183,"name":"Soplo de luz+","mods":[0,13,0,0,0]}
+{"id":82,"name":"Soplo de luz","mods":[0,9,0,0,0]}
+{"id":83,"name":"Soplo de luz+","mods":[0,13,0,0,0]}
+{"id":86,"name":"Soplo trueno","mods":[0,7,0,0,0]}
+{"id":87,"name":"Soplo trueno+","mods":[0,11,0,0,0]}
+{"id":85,"name":"Soplo trueno","mods":[0,7,0,0,0]}
+{"id":88,"name":"Soplo trueno+","mods":[0,11,0,0,0]}
+{"id":184,"name":"Soplo trueno","mods":[0,7,0,0,0]}
+{"id":185,"name":"Soplo trueno+","mods":[0,11,0,0,0]}
 {"id":194,"name":"Concha marina","mods":[0,7,0,0,0]}
 {"id":195,"name":"Concha marina+","mods":[0,10,0,0,0]}
 {"id":196,"name":"Virote gélido","mods":[0,8,0,0,0]}

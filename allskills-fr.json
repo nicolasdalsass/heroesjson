@@ -25,8 +25,6 @@
 {"id":25,"name":"Épée héros +","mods":[0,8,-5,0,0]}
 {"id":26,"name":"Brynhildr","mods":[0,14,0,0,0]}
 {"id":27,"name":"Cymbeline","mods":[0,14,0,0,0]}
-{"id":28,"name":"Souffle sombre","mods":[0,9,0,0,0]}
-{"id":29,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
 {"id":30,"name":"Dague mortelle","mods":[0,11,0,0,0]}
 {"id":31,"name":"Tonnerre double","mods":[0,9,-5,0,0]}
 {"id":32,"name":"Durandal","mods":[0,16,0,0,0]}
@@ -42,10 +40,6 @@
 {"id":42,"name":"Fenrir +","mods":[0,13,0,0,0]}
 {"id":43,"name":"Fensalir","mods":[0,16,0,0,0]}
 {"id":44,"name":"Feu","mods":[0,4,0,0,0]}
-{"id":45,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
-{"id":50,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
-{"id":51,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
-{"id":52,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
 {"id":53,"name":"Flux","mods":[0,4,0,0,0]}
 {"id":54,"name":"Fólkvangr","mods":[0,16,0,0,0]}
 {"id":55,"name":"Yumi Fujin","mods":[0,14,0,0,0]}
@@ -74,12 +68,6 @@
 {"id":78,"name":"Lance létale +","mods":[0,11,0,0,0]}
 {"id":79,"name":"Fer létal","mods":[0,7,0,0,0]}
 {"id":80,"name":"Fer létal +","mods":[0,11,0,0,0]}
-{"id":82,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
-{"id":83,"name":"S. lumineux +","mods":[0,13,0,0,0]}
-{"id":85,"name":"Souffle électrique","mods":[0,7,0,0,0]}
-{"id":86,"name":"Souffle électrique","mods":[0,7,0,0,0]}
-{"id":87,"name":"S. électrique +","mods":[0,11,0,0,0]}
-{"id":88,"name":"S. électrique +","mods":[0,11,0,0,0]}
 {"id":89,"name":"Mistilteinn","mods":[0,16,0,0,0]}
 {"id":90,"name":"Naga","mods":[0,14,0,0,0]}
 {"id":91,"name":"Nóatún","mods":[0,16,0,0,0]}
@@ -159,24 +147,6 @@
 {"id":165,"name":"Lance Carotte","mods":[0,9,0,0,0]}
 {"id":166,"name":"Oeuf vert","mods":[0,7,0,0,0]}
 {"id":167,"name":"Oeuf bleu","mods":[0,7,0,0,0]}
-{"id":168,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
-{"id":169,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
-{"id":170,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
-{"id":171,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
-{"id":172,"name":"Souffle sombre","mods":[0,9,0,0,0]}
-{"id":173,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
-{"id":174,"name":"Souffle sombre","mods":[0,9,0,0,0]}
-{"id":175,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
-{"id":176,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
-{"id":177,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
-{"id":178,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
-{"id":179,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
-{"id":180,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
-{"id":181,"name":"S. lumineux +","mods":[0,13,0,0,0]}
-{"id":182,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
-{"id":183,"name":"S. lumineux +","mods":[0,13,0,0,0]}
-{"id":184,"name":"Souffle électrique","mods":[0,7,0,0,0]}
-{"id":185,"name":"S. électrique +","mods":[0,11,0,0,0]}
 {"id":186,"name":"Ailes Rubis +","mods":[0,10,0,0,0]}
 {"id":187,"name":"L. enflammée +","mods":[0,15,0,0,0]}
 {"id":188,"name":"Ailes Rubis","mods":[0,6,0,0,0]}
@@ -185,6 +155,36 @@
 {"id":191,"name":"Hache Legion+","mods":[0,14,0,0,0]}
 {"id":192,"name":"Arc Clarisse","mods":[0,7,0,0,0]}
 {"id":193,"name":"Arc Clarisse+","mods":[0,11,0,0,0]}
+{"id":45,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
+{"id":50,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
+{"id":168,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
+{"id":169,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
+{"id":170,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
+{"id":171,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
+{"id":172,"name":"Souffle sombre","mods":[0,9,0,0,0]}
+{"id":173,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
+{"id":28,"name":"Souffle sombre","mods":[0,9,0,0,0]}
+{"id":29,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
+{"id":174,"name":"Souffle sombre","mods":[0,9,0,0,0]}
+{"id":175,"name":"Souffle sombre +","mods":[0,13,0,0,0]}
+{"id":51,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
+{"id":52,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
+{"id":176,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
+{"id":177,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
+{"id":178,"name":"Pyrosouffle","mods":[0,11,0,0,0]}
+{"id":179,"name":"Pyrosouffle +","mods":[0,15,0,0,0]}
+{"id":182,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
+{"id":183,"name":"S. lumineux +","mods":[0,13,0,0,0]}
+{"id":180,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
+{"id":181,"name":"S. lumineux +","mods":[0,13,0,0,0]}
+{"id":82,"name":"Souffle lumineux","mods":[0,9,0,0,0]}
+{"id":83,"name":"S. lumineux +","mods":[0,13,0,0,0]}
+{"id":86,"name":"Souffle électrique","mods":[0,7,0,0,0]}
+{"id":87,"name":"S. électrique +","mods":[0,11,0,0,0]}
+{"id":85,"name":"Souffle électrique","mods":[0,7,0,0,0]}
+{"id":88,"name":"S. électrique +","mods":[0,11,0,0,0]}
+{"id":184,"name":"Souffle électrique","mods":[0,7,0,0,0]}
+{"id":185,"name":"S. électrique +","mods":[0,11,0,0,0]}
 {"id":194,"name":"Coquillage","mods":[0,7,0,0,0]}
 {"id":195,"name":"Coquillage +","mods":[0,10,0,0,0]}
 {"id":196,"name":"Arc à friandises","mods":[0,8,0,0,0]}
