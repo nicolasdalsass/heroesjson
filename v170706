@@ -3,7 +3,7 @@
 {"name":"Abel4","skills1":[22,20001],"skills40":[22,20025,30034,40066],"HP":16,"atk":6,"speed":8,"def":8,"res":5}
 {"name":"Abel5","skills1":[23,20001],"skills40":[23,20025,30035,40066],"HP":17,"atk":7,"speed":8,"def":8,"res":6}
 {"name":"Alfonse3","skills1":[132],"skills40":[122,20011,30012,50030],"HP":18,"atk":8,"speed":5,"def":7,"res":4}
-{"name":"Alfonse4","skills1":[122,20011],"skills40":[122,20044,30013,50031],"HP":18,"atk":9,"speed":5,"def":8,"res":4}
+{"name":"Alfonse4","skills1":[122,20011],"skills40":[122,20044,30013,50030],"HP":18,"atk":9,"speed":5,"def":8,"res":4}
 {"name":"Alfonse5","skills1":[54,20011],"skills40":[54,20044,30013,50031],"HP":19,"atk":9,"speed":6,"def":8,"res":5}
 {"name":"Alm5","skills1":[39,20014],"skills40":[39,20012,30006,40080],"HP":21,"atk":9,"speed":6,"def":6,"res":5}
 {"name":"Anna3","skills1":[128],"skills40":[114,20034,40067,50036],"HP":18,"atk":6,"speed":9,"def":4,"res":5}
