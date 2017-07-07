@@ -194,7 +194,7 @@
 {"name":"Michalis4","skills1":[114,20041],"skills40":[114,20022,30052,50046],"HP":18,"atk":8,"speed":6,"def":9,"res":3}
 {"name":"Michalis5","skills1":[65,20041],"skills40":[65,20022,30052,50046],"HP":19,"atk":8,"speed":7,"def":9,"res":4}
 {"name":"Minerva5","skills1":[65,20025],"skills40":[65,20043,30038,50055],"HP":18,"atk":7,"speed":9,"def":8,"res":5}
-{"name":"Mist5","skills1":[124,10014],"skills40":[124,10015,20028,50062],"HP":17,"atk":8,"speed":6,"def":5,"res":8}
+{"name":"Mist5","skills1":[124,10014],"skills40":[124,10015,20028,50061],"HP":17,"atk":8,"speed":6,"def":5,"res":8}
 {"name":"Narcian3","skills1":[128],"skills40":[36,20038,40028,50026],"HP":17,"atk":14,"speed":6,"def":7,"res":6}
 {"name":"Narcian4","skills1":[36,20038],"skills40":[36,20048,40029,50027],"HP":17,"atk":15,"speed":6,"def":8,"res":6}
 {"name":"Narcian5","skills1":[37,20038],"skills40":[37,20048,40029,50028],"HP":18,"atk":15,"speed":7,"def":8,"res":7}
