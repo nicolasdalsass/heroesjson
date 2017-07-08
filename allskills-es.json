@@ -281,7 +281,7 @@
 {"id":30011,"name":"Golpe mortal 1","mods":[0,0,0,0,0]}
 {"id":30012,"name":"Golpe mortal 2","mods":[0,0,0,0,0]}
 {"id":30013,"name":"Golpe mortal 3","mods":[0,0,0,0,0]}
-{"id":30014,"name":"Defense +1","mods":[0,0,0,1,0]}
+{"id":30014,"name":"Defensa +1","mods":[0,0,0,1,0]}
 {"id":30015,"name":"Defensa +2","mods":[0,0,0,2,0]}
 {"id":30016,"name":"Defensa +3","mods":[0,0,0,3,0]}
 {"id":30017,"name":"Bravata Atq. 1","mods":[0,0,0,0,0]}
@@ -470,9 +470,9 @@
 {"id":50019,"name":"Impulso Atq. 2","mods":[0,0,0,0,0]}
 {"id":50020,"name":"Impulso Atq. 3","mods":[0,0,0,0,0]}
 {"id":50021,"name":"Oleada caball.","mods":[0,0,0,0,0]}
-{"id":50022,"name":"Oleada aérea ","mods":[0,0,0,0,0]}
-{"id":50023,"name":"Impulso Vel.","mods":[0,0,0,0,0]}
-{"id":50024,"name":"Impulso Vel.","mods":[0,0,0,0,0]}
+{"id":50022,"name":"Oleada aérea","mods":[0,0,0,0,0]}
+{"id":50023,"name":"Impulso Vel. 1","mods":[0,0,0,0,0]}
+{"id":50024,"name":"Impulso Vel. 2","mods":[0,0,0,0,0]}
 {"id":50025,"name":"Impulso Vel. 3","mods":[0,0,0,0,0]}
 {"id":50026,"name":"Golpe salvaje 1","mods":[0,0,0,0,0]}
 {"id":50027,"name":"Golpe salvaje 2","mods":[0,0,0,0,0]}
