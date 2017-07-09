@@ -119,6 +119,10 @@
 {"id":137,"name":"Wo Dao","mods":[0,9,0,0,0]}
 {"id":138,"name":"Wo Dao +","mods":[0,13,0,0,0]}
 {"id":139,"name":"Yato","mods":[0,16,0,0,0]}
+{"id":164,"name":"Hache Carotte","mods":[0,9,0,0,0]}
+{"id":165,"name":"Lance Carotte","mods":[0,9,0,0,0]}
+{"id":166,"name":"Oeuf vert","mods":[0,7,0,0,0]}
+{"id":167,"name":"Oeuf bleu","mods":[0,7,0,0,0]}
 {"id":140,"name":"Hache Carotte +","mods":[0,13,0,0,0]}
 {"id":141,"name":"Lance Carotte +","mods":[0,13,0,0,0]}
 {"id":142,"name":"Oeuf vert +","mods":[0,11,0,0,0]}
@@ -143,10 +147,6 @@
 {"id":161,"name":"Bouquet béni","mods":[0,9,0,0,0]}
 {"id":162,"name":"1re bouchée","mods":[0,10,0,0,0]}
 {"id":163,"name":"Flèche Cupidon","mods":[0,8,0,0,0]}
-{"id":164,"name":"Hache Carotte","mods":[0,9,0,0,0]}
-{"id":165,"name":"Lance Carotte","mods":[0,9,0,0,0]}
-{"id":166,"name":"Oeuf vert","mods":[0,7,0,0,0]}
-{"id":167,"name":"Oeuf bleu","mods":[0,7,0,0,0]}
 {"id":186,"name":"Ailes Rubis +","mods":[0,10,0,0,0]}
 {"id":187,"name":"L. enflammée +","mods":[0,15,0,0,0]}
 {"id":188,"name":"Ailes Rubis","mods":[0,6,0,0,0]}
@@ -504,6 +504,8 @@
 {"id":50053,"name":"Vigilance (Cuira.)","mods":[0,0,0,0,0]}
 {"id":50054,"name":"Vigilance (Cav.)","mods":[0,0,0,0,0]}
 {"id":50055,"name":"Vigilance (Vol)","mods":[0,0,0,0,0]}
+{"id":50066,"name":"Expérience hache 1","mods":[0,0,0,0,0]}
+{"id":50067,"name":"Expérience hache 2","mods":[0,0,0,0,0]}
 {"id":50056,"name":"Expérience hache 3","mods":[0,0,0,0,0]}
 {"id":50057,"name":"Exp. arc 1","mods":[0,0,0,0,0]}
 {"id":50058,"name":"Exp. arc 2","mods":[0,0,0,0,0]}
@@ -513,8 +515,6 @@
 {"id":50063,"name":"Exp. tome bleu 1","mods":[0,0,0,0,0]}
 {"id":50064,"name":"Exp. tome bleu 2","mods":[0,0,0,0,0]}
 {"id":50065,"name":"Exp. tome bleu 3","mods":[0,0,0,0,0]}
-{"id":50066,"name":"Expérience hache 1","mods":[0,0,0,0,0]}
-{"id":50067,"name":"Expérience hache 2","mods":[0,0,0,0,0]}
 {"id":50068,"name":"Ruse Atq 1","mods":[0,0,0,0,0]}
 {"id":50069,"name":"Ruse Atq 2","mods":[0,0,0,0,0]}
 {"id":50070,"name":"Ruse Atq 3","mods":[0,0,0,0,0]}

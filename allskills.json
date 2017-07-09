@@ -119,6 +119,10 @@
 {"id":137,"name":"Wo Dao","mods":[0,9,0,0,0]}
 {"id":138,"name":"Wo Dao+","mods":[0,13,0,0,0]}
 {"id":139,"name":"Yato","mods":[0,16,0,0,0]}
+{"id":164,"name":"Carrot Axe","mods":[0,9,0,0,0]}
+{"id":165,"name":"Carrot Lance","mods":[0,9,0,0,0]}
+{"id":166,"name":"Green Egg","mods":[0,7,0,0,0]}
+{"id":167,"name":"Blue Egg","mods":[0,7,0,0,0]}
 {"id":140,"name":"Carrot Axe+","mods":[0,13,0,0,0]}
 {"id":141,"name":"Carrot Lance+","mods":[0,13,0,0,0]}
 {"id":142,"name":"Green Egg+","mods":[0,11,0,0,0]}
@@ -143,10 +147,6 @@
 {"id":161,"name":"Blessed Bouquet","mods":[0,9,0,0,0]}
 {"id":162,"name":"First Bite","mods":[0,10,0,0,0]}
 {"id":163,"name":"Cupid Arrow","mods":[0,8,0,0,0]}
-{"id":164,"name":"Carrot Axe","mods":[0,9,0,0,0]}
-{"id":165,"name":"Carrot Lance","mods":[0,9,0,0,0]}
-{"id":166,"name":"Green Egg","mods":[0,7,0,0,0]}
-{"id":167,"name":"Blue Egg","mods":[0,7,0,0,0]}
 {"id":186,"name":"Raudrowl+","mods":[0,10,0,0,0]}
 {"id":187,"name":"Firesweep L+","mods":[0,15,0,0,0]}
 {"id":188,"name":"Raudrowl","mods":[0,6,0,0,0]}
@@ -504,6 +504,8 @@
 {"id":50053,"name":"Ward Armor","mods":[0,0,0,0,0]}
 {"id":50054,"name":"Ward Cavalry","mods":[0,0,0,0,0]}
 {"id":50055,"name":"Ward Fliers","mods":[0,0,0,0,0]}
+{"id":50066,"name":"Axe Experience 1","mods":[0,0,0,0,0]}
+{"id":50067,"name":"Axe Experience 2","mods":[0,0,0,0,0]}
 {"id":50056,"name":"Axe Experience 3","mods":[0,0,0,0,0]}
 {"id":50057,"name":"Bow Exp 1","mods":[0,0,0,0,0]}
 {"id":50058,"name":"Bow Exp 2","mods":[0,0,0,0,0]}
@@ -513,8 +515,6 @@
 {"id":50063,"name":"B Tome Exp. 1","mods":[0,0,0,0,0]}
 {"id":50064,"name":"B Tome Exp. 2","mods":[0,0,0,0,0]}
 {"id":50065,"name":"B Tome Exp. 3","mods":[0,0,0,0,0]}
-{"id":50066,"name":"Axe Experience 1","mods":[0,0,0,0,0]}
-{"id":50067,"name":"Axe Experience 2","mods":[0,0,0,0,0]}
 {"id":50068,"name":"Atk Ploy 1","mods":[0,0,0,0,0]}
 {"id":50069,"name":"Atk Ploy 2","mods":[0,0,0,0,0]}
 {"id":50070,"name":"Atk Ploy 3","mods":[0,0,0,0,0]}
