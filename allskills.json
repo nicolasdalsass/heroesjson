@@ -25,8 +25,6 @@
 {"id":25,"name":"Brave Sword+","mods":[0,8,-5,0,0]}
 {"id":26,"name":"Brynhildr","mods":[0,14,0,0,0]}
 {"id":27,"name":"Cymbeline","mods":[0,14,0,0,0]}
-{"id":28,"name":"Dark Breath","mods":[0,9,0,0,0]}
-{"id":29,"name":"Dark Breath+","mods":[0,13,0,0,0]}
 {"id":30,"name":"Deathly Dagger","mods":[0,11,0,0,0]}
 {"id":31,"name":"Dire Thunder","mods":[0,9,-5,0,0]}
 {"id":32,"name":"Durandal","mods":[0,16,0,0,0]}
@@ -42,10 +40,6 @@
 {"id":42,"name":"Fenrir+","mods":[0,13,0,0,0]}
 {"id":43,"name":"Fensalir","mods":[0,16,0,0,0]}
 {"id":44,"name":"Fire","mods":[0,4,0,0,0]}
-{"id":45,"name":"Fire Breath","mods":[0,6,0,0,0]}
-{"id":50,"name":"Fire Breath+","mods":[0,8,0,0,0]}
-{"id":51,"name":"Flametongue","mods":[0,11,0,0,0]}
-{"id":52,"name":"Flametongue+","mods":[0,15,0,0,0]}
 {"id":53,"name":"Flux","mods":[0,4,0,0,0]}
 {"id":54,"name":"Fólkvangr","mods":[0,16,0,0,0]}
 {"id":55,"name":"FujinYumi","mods":[0,14,0,0,0]}
@@ -74,12 +68,6 @@
 {"id":78,"name":"Killer Lance+","mods":[0,11,0,0,0]}
 {"id":79,"name":"Killing Edge","mods":[0,7,0,0,0]}
 {"id":80,"name":"Killing Edge+","mods":[0,11,0,0,0]}
-{"id":82,"name":"Light Breath","mods":[0,9,0,0,0]}
-{"id":83,"name":"Light Breath+","mods":[0,13,0,0,0]}
-{"id":85,"name":"Lightning Breath","mods":[0,7,0,0,0]}
-{"id":86,"name":"Lightning Breath","mods":[0,7,0,0,0]}
-{"id":87,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
-{"id":88,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
 {"id":89,"name":"Mystletainn","mods":[0,16,0,0,0]}
 {"id":90,"name":"Naga","mods":[0,14,0,0,0]}
 {"id":91,"name":"Nóatún","mods":[0,16,0,0,0]}
@@ -159,24 +147,6 @@
 {"id":165,"name":"Carrot Lance","mods":[0,9,0,0,0]}
 {"id":166,"name":"Green Egg","mods":[0,7,0,0,0]}
 {"id":167,"name":"Blue Egg","mods":[0,7,0,0,0]}
-{"id":168,"name":"Fire Breath","mods":[0,6,0,0,0]}
-{"id":169,"name":"Fire Breath+","mods":[0,8,0,0,0]}
-{"id":170,"name":"Fire Breath","mods":[0,6,0,0,0]}
-{"id":171,"name":"Fire Breath+","mods":[0,8,0,0,0]}
-{"id":172,"name":"Dark Breath","mods":[0,9,0,0,0]}
-{"id":173,"name":"Dark Breath+","mods":[0,13,0,0,0]}
-{"id":174,"name":"Dark Breath","mods":[0,9,0,0,0]}
-{"id":175,"name":"Dark Breath+","mods":[0,13,0,0,0]}
-{"id":176,"name":"Flametongue","mods":[0,11,0,0,0]}
-{"id":177,"name":"Flametongue+","mods":[0,15,0,0,0]}
-{"id":178,"name":"Flametongue","mods":[0,11,0,0,0]}
-{"id":179,"name":"Flametongue+","mods":[0,15,0,0,0]}
-{"id":180,"name":"Light Breath","mods":[0,9,0,0,0]}
-{"id":181,"name":"Light Breath+","mods":[0,13,0,0,0]}
-{"id":182,"name":"Light Breath","mods":[0,9,0,0,0]}
-{"id":183,"name":"Light Breath+","mods":[0,13,0,0,0]}
-{"id":184,"name":"Lightning Breath","mods":[0,7,0,0,0]}
-{"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
 {"id":186,"name":"Raudrowl+","mods":[0,10,0,0,0]}
 {"id":187,"name":"Firesweep L+","mods":[0,15,0,0,0]}
 {"id":188,"name":"Raudrowl","mods":[0,6,0,0,0]}
@@ -185,6 +155,36 @@
 {"id":191,"name":"Legion's Axe+","mods":[0,14,0,0,0]}
 {"id":192,"name":"Clarisse's Bow","mods":[0,7,0,0,0]}
 {"id":193,"name":"Clarisse's Bow+","mods":[0,11,0,0,0]}
+{"id":45,"name":"Fire Breath","mods":[0,6,0,0,0]}
+{"id":50,"name":"Fire Breath+","mods":[0,8,0,0,0]}
+{"id":168,"name":"Fire Breath","mods":[0,6,0,0,0]}
+{"id":169,"name":"Fire Breath+","mods":[0,8,0,0,0]}
+{"id":170,"name":"Fire Breath","mods":[0,6,0,0,0]}
+{"id":171,"name":"Fire Breath+","mods":[0,8,0,0,0]}
+{"id":172,"name":"Dark Breath","mods":[0,9,0,0,0]}
+{"id":173,"name":"Dark Breath+","mods":[0,13,0,0,0]}
+{"id":28,"name":"Dark Breath","mods":[0,9,0,0,0]}
+{"id":29,"name":"Dark Breath+","mods":[0,13,0,0,0]}
+{"id":174,"name":"Dark Breath","mods":[0,9,0,0,0]}
+{"id":175,"name":"Dark Breath+","mods":[0,13,0,0,0]}
+{"id":51,"name":"Flametongue","mods":[0,11,0,0,0]}
+{"id":52,"name":"Flametongue+","mods":[0,15,0,0,0]}
+{"id":176,"name":"Flametongue","mods":[0,11,0,0,0]}
+{"id":177,"name":"Flametongue+","mods":[0,15,0,0,0]}
+{"id":178,"name":"Flametongue","mods":[0,11,0,0,0]}
+{"id":179,"name":"Flametongue+","mods":[0,15,0,0,0]}
+{"id":182,"name":"Light Breath","mods":[0,9,0,0,0]}
+{"id":183,"name":"Light Breath+","mods":[0,13,0,0,0]}
+{"id":180,"name":"Light Breath","mods":[0,9,0,0,0]}
+{"id":181,"name":"Light Breath+","mods":[0,13,0,0,0]}
+{"id":82,"name":"Light Breath","mods":[0,9,0,0,0]}
+{"id":83,"name":"Light Breath+","mods":[0,13,0,0,0]}
+{"id":86,"name":"Lightning Breath","mods":[0,7,0,0,0]}
+{"id":87,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
+{"id":85,"name":"Lightning Breath","mods":[0,7,0,0,0]}
+{"id":88,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
+{"id":184,"name":"Lightning Breath","mods":[0,7,0,0,0]}
+{"id":185,"name":"Lightning Breath+","mods":[0,11,0,0,0]}
 {"id":194,"name":"Seashell","mods":[0,7,0,0,0]}
 {"id":195,"name":"Seashell+","mods":[0,10,0,0,0]}
 {"id":196,"name":"Refreshing Bolt","mods":[0,8,0,0,0]}
@@ -510,7 +510,6 @@
 {"id":50059,"name":"Bow Exp 3","mods":[0,0,0,0,0]}
 {"id":50060,"name":"Spur Def/Res 1","mods":[0,0,0,0,0]}
 {"id":50061,"name":"Spur Def/Res 2","mods":[0,0,0,0,0]}
-{"id":50062,"name":"Spur Def/Res 3","mods":[0,0,0,0,0]}
 {"id":50063,"name":"B Tome Exp. 1","mods":[0,0,0,0,0]}
 {"id":50064,"name":"B Tome Exp. 2","mods":[0,0,0,0,0]}
 {"id":50065,"name":"B Tome Exp. 3","mods":[0,0,0,0,0]}

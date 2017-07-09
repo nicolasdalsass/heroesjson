@@ -152,9 +152,9 @@
 {"id":188,"name":"Ailes Rubis","mods":[0,6,0,0,0]}
 {"id":189,"name":"L. enflammée","mods":[0,11,0,0,0]}
 {"id":190,"name":"Hache Legion","mods":[0,10,0,0,0]}
-{"id":191,"name":"Hache Legion+","mods":[0,14,0,0,0]}
+{"id":191,"name":"Hache Legion +","mods":[0,14,0,0,0]}
 {"id":192,"name":"Arc Clarisse","mods":[0,7,0,0,0]}
-{"id":193,"name":"Arc Clarisse+","mods":[0,11,0,0,0]}
+{"id":193,"name":"Arc Clarisse +","mods":[0,11,0,0,0]}
 {"id":45,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
 {"id":50,"name":"Souffle brûlant +","mods":[0,8,0,0,0]}
 {"id":168,"name":"Souffle brûlant","mods":[0,6,0,0,0]}
@@ -202,7 +202,7 @@
 {"id":10005,"name":"Cicatrisation","mods":[0,0,0,0,0]}
 {"id":10006,"name":"Cure","mods":[0,0,0,0,0]}
 {"id":10007,"name":"Remède","mods":[0,0,0,0,0]}
-{"id":10008,"name":"Pivot","mods":[0,0,0,0,0]}
+{"id":10008,"name":"Traversée","mods":[0,0,0,0,0]}
 {"id":10009,"name":"Ralliement: Atq.","mods":[0,0,0,0,0]}
 {"id":10010,"name":"Ralliement: Def.","mods":[0,0,0,0,0]}
 {"id":10011,"name":"Ralliement: Rés.","mods":[0,0,0,0,0]}
@@ -211,7 +211,7 @@
 {"id":10014,"name":"Cercle vertueux","mods":[0,0,0,0,0]}
 {"id":10015,"name":"Restitution","mods":[0,0,0,0,0]}
 {"id":10016,"name":"Rétablissement","mods":[0,0,0,0,0]}
-{"id":10017,"name":"Reposition","mods":[0,0,0,0,0]}
+{"id":10017,"name":"Pivot","mods":[0,0,0,0,0]}
 {"id":10018,"name":"Bousculade","mods":[0,0,0,0,0]}
 {"id":10019,"name":"Chant","mods":[0,0,0,0,0]}
 {"id":10020,"name":"Charge","mods":[0,0,0,0,0]}
@@ -510,7 +510,6 @@
 {"id":50059,"name":"Exp. arc 3","mods":[0,0,0,0,0]}
 {"id":50060,"name":"Encens Def/Res 1","mods":[0,0,0,0,0]}
 {"id":50061,"name":"Encens Def/Res 2","mods":[0,0,0,0,0]}
-{"id":50062,"name":"Encens Def/Res 3","mods":[0,0,0,0,0]}
 {"id":50063,"name":"Exp. tome bleu 1","mods":[0,0,0,0,0]}
 {"id":50064,"name":"Exp. tome bleu 2","mods":[0,0,0,0,0]}
 {"id":50065,"name":"Exp. tome bleu 3","mods":[0,0,0,0,0]}
