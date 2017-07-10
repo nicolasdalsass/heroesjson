@@ -119,6 +119,10 @@
 {"id":137,"name":"Wo Dao","mods":[0,9,0,0,0]}
 {"id":138,"name":"Wo Dao+","mods":[0,13,0,0,0]}
 {"id":139,"name":"Yato","mods":[0,16,0,0,0]}
+{"id":164,"name":"Hacha zanahoria","mods":[0,9,0,0,0]}
+{"id":165,"name":"Lanza zanahoria","mods":[0,9,0,0,0]}
+{"id":166,"name":"Huevo verde","mods":[0,7,0,0,0]}
+{"id":167,"name":"Huevo azul","mods":[0,7,0,0,0]}
 {"id":140,"name":"Hacha zanahoria+","mods":[0,13,0,0,0]}
 {"id":141,"name":"Lanza zanahoria+","mods":[0,13,0,0,0]}
 {"id":142,"name":"Huevo verde+","mods":[0,11,0,0,0]}
@@ -143,10 +147,6 @@
 {"id":161,"name":"Ramo bendito","mods":[0,9,0,0,0]}
 {"id":162,"name":"Primer mordisco","mods":[0,10,0,0,0]}
 {"id":163,"name":"Flecha Cupido","mods":[0,8,0,0,0]}
-{"id":164,"name":"Hacha zanahoria","mods":[0,9,0,0,0]}
-{"id":165,"name":"Lanza zanahoria","mods":[0,9,0,0,0]}
-{"id":166,"name":"Huevo verde","mods":[0,7,0,0,0]}
-{"id":167,"name":"Huevo azul","mods":[0,7,0,0,0]}
 {"id":186,"name":"Búho carmesí+","mods":[0,10,0,0,0]}
 {"id":187,"name":"Lanza Vulcano+","mods":[0,15,0,0,0]}
 {"id":188,"name":"Búho carmesí","mods":[0,6,0,0,0]}
@@ -504,6 +504,8 @@
 {"id":50053,"name":"Muro corazas","mods":[0,0,0,0,0]}
 {"id":50054,"name":"Muro equino","mods":[0,0,0,0,0]}
 {"id":50055,"name":"Muro aéreo","mods":[0,0,0,0,0]}
+{"id":50066,"name":"Exp. con hacha 1","mods":[0,0,0,0,0]}
+{"id":50067,"name":"Exp. con hacha 2","mods":[0,0,0,0,0]}
 {"id":50056,"name":"Exp. con hacha 3","mods":[0,0,0,0,0]}
 {"id":50057,"name":"Exp. con arco 1","mods":[0,0,0,0,0]}
 {"id":50058,"name":"Exp. con arco 2","mods":[0,0,0,0,0]}
@@ -513,8 +515,6 @@
 {"id":50063,"name":"Exp. gr. azul 1","mods":[0,0,0,0,0]}
 {"id":50064,"name":"Exp. gr. azul 2","mods":[0,0,0,0,0]}
 {"id":50065,"name":"Exp. gr. azul 3","mods":[0,0,0,0,0]}
-{"id":50066,"name":"Exp. con hacha 1","mods":[0,0,0,0,0]}
-{"id":50067,"name":"Exp. con hacha 2","mods":[0,0,0,0,0]}
 {"id":50068,"name":"Ardid Atq. 1","mods":[0,0,0,0,0]}
 {"id":50069,"name":"Ardid Atq. 2","mods":[0,0,0,0,0]}
 {"id":50070,"name":"Ardid Atq. 3","mods":[0,0,0,0,0]}
