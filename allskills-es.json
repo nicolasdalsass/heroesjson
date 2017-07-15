@@ -193,6 +193,16 @@
 {"id":199,"name":"Partesandías+","mods":[0,14,0,0,0]}
 {"id":200,"name":"Arpón certero","mods":[0,10,0,0,0]}
 {"id":201,"name":"Arpón certero+","mods":[0,14,0,0,0]}
+{"id":202,"name":"Zanbato","mods":[0,10,0,0,0]}
+{"id":203,"name":"Zanbato+","mods":[0,14,0,0,0]}
+{"id":204,"name":"Ridersbane","mods":[0,10,0,0,0]}
+{"id":205,"name":"Ridersbane+","mods":[0,14,0,0,0]}
+{"id":206,"name":"Dark Aura","mods":[0,14,0,0,0]}
+{"id":207,"name":"Slaying Bow","mods":[0,8,0,0,0]}
+{"id":208,"name":"Slaying Bow+","mods":[0,12,0,0,0]}
+{"id":209,"name":"Slaying Edge","mods":[0,10,0,0,0]}
+{"id":210,"name":"Slaying Edge+","mods":[0,14,0,0,0]}
+{"id":211,"name":"Dark Excalibur","mods":[0,14,0,0,0]}
 
 {"id":10000,"name":"Fervor absoluto","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Bailar","mods":[0,0,0,0,0]}
@@ -352,6 +362,10 @@
 {"id":30082,"name":"Def. contigua 3","mods":[0,0,0,0,0]}
 {"id":30083,"name":"PV/Def. 1","mods":[3,0,0,1,0]}
 {"id":30084,"name":"PV/Def. 2","mods":[4,0,0,2,0]}
+{"id":30085,"name":"Mirror Strike 1","mods":[0,0,0,0,0]}
+{"id":30086,"name":"Mirror Strike 2","mods":[0,0,0,0,0]}
+{"id":30087,"name":"HP Spd 1","mods":[3,0,1,0,0]}
+{"id":30088,"name":"HP Spd 2","mods":[4,0,2,0,0]}
 
 {"id":40001,"name":"Rompehachas 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Rompehachas 2","mods":[0,0,0,0,0]}
@@ -448,6 +462,12 @@
 {"id":40093,"name":"Bastón brillante 3","mods":[0,0,0,0,0]}
 {"id":40094,"name":"Sellar Atq./Vel. 1","mods":[0,0,0,0,0]}
 {"id":40095,"name":"Sellar Atq./Vel. 2","mods":[0,0,0,0,0]}
+{"id":40096,"name":"Cancel Affinity 1","mods":[0,0,0,0,0]}
+{"id":40097,"name":"Cancel Affinity 2","mods":[0,0,0,0,0]}
+{"id":40098,"name":"Cancel Affinity 3","mods":[0,0,0,0,0]}
+{"id":40099,"name":"Shield Pulse 1","mods":[0,0,0,0,0]}
+{"id":40100,"name":"Shield Pulse 2","mods":[0,0,0,0,0]}
+{"id":40101,"name":"Shield Pulse 3","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Soplo de vida 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Soplo de vida 2","mods":[0,0,0,0,0]}
@@ -535,3 +555,11 @@
 {"id":50085,"name":"Lanza heroica 1","mods":[0,0,0,0,0]}
 {"id":50086,"name":"Lanza heroica 2","mods":[0,0,0,0,0]}
 {"id":50087,"name":"Lanza heroica 3","mods":[0,0,0,0,0]}
+{"id":50088,"name":"Sword Valor 1","mods":[0,0,0,0,0]}
+{"id":50089,"name":"Sword Valor 2","mods":[0,0,0,0,0]}
+{"id":50090,"name":"Sword Valor 3","mods":[0,0,0,0,0]}
+{"id":50091,"name":"Drive Atk 1","mods":[0,0,0,0,0]}
+{"id":50092,"name":"Drive Atk 2","mods":[0,0,0,0,0]}
+{"id":50093,"name":"Res Ploy 1","mods":[0,0,0,0,0]}
+{"id":50094,"name":"Res Ploy 2","mods":[0,0,0,0,0]}
+{"id":50095,"name":"Res Ploy 3","mods":[0,0,0,0,0]}

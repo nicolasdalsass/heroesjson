@@ -193,6 +193,16 @@
 {"id":199,"name":"Brise-pastèque +","mods":[0,14,0,0,0]}
 {"id":200,"name":"Harpon Marin","mods":[0,10,0,0,0]}
 {"id":201,"name":"Harpon Marin +","mods":[0,14,0,0,0]}
+{"id":202,"name":"Zambato","mods":[0,10,0,0,0]}
+{"id":203,"name":"Zambato +","mods":[0,14,0,0,0]}
+{"id":204,"name":"Caballucide","mods":[0,10,0,0,0]}
+{"id":205,"name":"Caballucide +","mods":[0,14,0,0,0]}
+{"id":206,"name":"Aura sombre","mods":[0,14,0,0,0]}
+{"id":207,"name":"Arc meurtrier","mods":[0,8,0,0,0]}
+{"id":208,"name":"Arc meurtrier +","mods":[0,12,0,0,0]}
+{"id":209,"name":"Fer meurtrier","mods":[0,10,0,0,0]}
+{"id":210,"name":"Fer meurtrier +","mods":[0,14,0,0,0]}
+{"id":211,"name":"Excalibur sombre","mods":[0,14,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -352,6 +362,10 @@
 {"id":30082,"name":"Déf proche 3","mods":[0,0,0,0,0]}
 {"id":30083,"name":"PV/Déf 1","mods":[3,0,0,1,0]}
 {"id":30084,"name":"PV/Déf 2","mods":[4,0,0,2,0]}
+{"id":30085,"name":"Coup résolu 1","mods":[0,0,0,0,0]}
+{"id":30086,"name":"Coup résolu 2","mods":[0,0,0,0,0]}
+{"id":30087,"name":"PV/Vit 1","mods":[3,0,1,0,0]}
+{"id":30088,"name":"PV/Vit 2","mods":[4,0,2,0,0]}
 
 {"id":40001,"name":"Anti-hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-hache 2","mods":[0,0,0,0,0]}
@@ -448,6 +462,12 @@
 {"id":40093,"name":"Bâton Brillant 3","mods":[0,0,0,0,0]}
 {"id":40094,"name":"Sceau Atq/Vit 1","mods":[0,0,0,0,0]}
 {"id":40095,"name":"Sceau Atq/Vit 2","mods":[0,0,0,0,0]}
+{"id":40096,"name":"Anti-avantage 1","mods":[0,0,0,0,0]}
+{"id":40097,"name":"Anti-avantage 2","mods":[0,0,0,0,0]}
+{"id":40098,"name":"Anti-avantage 3","mods":[0,0,0,0,0]}
+{"id":40099,"name":"Influx écu 1","mods":[0,0,0,0,0]}
+{"id":40100,"name":"Influx écu 2","mods":[0,0,0,0,0]}
+{"id":40101,"name":"Influx écu 3","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
@@ -535,3 +555,11 @@
 {"id":50085,"name":"Tech. lance 1","mods":[0,0,0,0,0]}
 {"id":50086,"name":"Tech. lance 2","mods":[0,0,0,0,0]}
 {"id":50087,"name":"Tech. lance 3","mods":[0,0,0,0,0]}
+{"id":50088,"name":"Tech. épée 1","mods":[0,0,0,0,0]}
+{"id":50089,"name":"Tech. épée 2","mods":[0,0,0,0,0]}
+{"id":50090,"name":"Tech. épée 3","mods":[0,0,0,0,0]}
+{"id":50091,"name":"Stimulant Atq 1","mods":[0,0,0,0,0]}
+{"id":50092,"name":"Stimulant Atq 2","mods":[0,0,0,0,0]}
+{"id":50093,"name":"Ruse Rés 1","mods":[0,0,0,0,0]}
+{"id":50094,"name":"Ruse Rés 2","mods":[0,0,0,0,0]}
+{"id":50095,"name":"Ruse Rés 3","mods":[0,0,0,0,0]}
