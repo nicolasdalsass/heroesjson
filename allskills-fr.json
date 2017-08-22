@@ -203,6 +203,21 @@
 {"id":209,"name":"Fer meurtrier","mods":[0,10,0,0,0]}
 {"id":210,"name":"Fer meurtrier +","mods":[0,14,0,0,0]}
 {"id":211,"name":"Excalibur sombre","mods":[0,14,0,0,0]}
+{"id":212,"name":"Lance Berkut","mods":[0,10,0,0,0]}
+{"id":213,"name":"Lance Berkut +","mods":[0,14,0,0,0]}
+{"id":214,"name":"Tome tropical","mods":[0,8,0,0,0]}
+{"id":215,"name":"Tome tropical +","mods":[0,12,0,0,0]}
+{"id":216,"name":"Tome hibiscus","mods":[0,8,0,0,0]}
+{"id":217,"name":"Tome hibiscus +","mods":[0,12,0,0,0]}
+{"id":218,"name":"Tome tomate","mods":[0,8,0,0,0]}
+{"id":219,"name":"Tome tomate +","mods":[0,12,0,0,0]}
+{"id":220,"name":"Bouée Lilith","mods":[0,10,0,0,0]}
+{"id":221,"name":"Bouée Lilith +","mods":[0,14,0,0,0]}
+{"id":222,"name":"Lance maudite","mods":[0,16,0,0,0]}
+{"id":223,"name":"Hache meurtr.","mods":[0,10,0,0,0]}
+{"id":224,"name":"Hache meurtr. +","mods":[0,14,0,0,0]}
+{"id":225,"name":"Nidhogg","mods":[0,14,0,0,0]}
+{"id":226,"name":"Vidofnir","mods":[0,16,0,0,0]}
 
 {"id":10000,"name":"Abnégation","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Danse","mods":[0,0,0,0,0]}
@@ -228,6 +243,7 @@
 {"id":10021,"name":"Inversion","mods":[0,0,0,0,0]}
 {"id":10022,"name":"Ralliem. : Atq/Vit","mods":[0,0,0,0,0]}
 {"id":10023,"name":"Rall. : Déf/Rés","mods":[0,0,0,0,0]}
+{"id":10023,"name":"Rall. : Atq/Rés","mods":[0,0,0,0,0]}
 
 {"id":20001,"name":"Égide","mods":[0,0,0,0,0]}
 {"id":20002,"name":"Éther","mods":[0,0,0,0,0]}
@@ -366,6 +382,18 @@
 {"id":30086,"name":"Coup résolu 2","mods":[0,0,0,0,0]}
 {"id":30087,"name":"PV/Vit 1","mods":[3,0,1,0,0]}
 {"id":30088,"name":"PV/Vit 2","mods":[4,0,2,0,0]}
+{"id":30089,"name":"Boost apaisant 1","mods":[0,0,0,0,0]}
+{"id":30090,"name":"Boost apaisant 2","mods":[0,0,0,0,0]}
+{"id":30091,"name":"Boost apaisant 3","mods":[0,0,0,0,0]}
+{"id":30092,"name":"Vit/Rés 1","mods":[0,0,1,0,1]}
+{"id":30093,"name":"Vit/Rés 2","mods":[0,0,2,0,2]}
+{"id":30094,"name":"Coup alerte 1","mods":[0,0,0,0,0]}
+{"id":30095,"name":"Coup alerte 2","mods":[0,0,0,0,0]}
+{"id":30096,"name":"Forteresse rés 1","mods":[0,0,0,0,0]}
+{"id":30097,"name":"Forteresse rés 2","mods":[0,0,0,0,0]}
+{"id":30098,"name":"Forteresse rés 3","mods":[0,0,0,0,0]}
+{"id":30099,"name":"Vit/Déf 1","mods":[0,0,1,1,0]}
+{"id":30100,"name":"Vit/Déf 2","mods":[0,0,2,2,0]}
 
 {"id":40001,"name":"Anti-hache 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Anti-hache 2","mods":[0,0,0,0,0]}
@@ -468,6 +496,8 @@
 {"id":40099,"name":"Influx écu 1","mods":[0,0,0,0,0]}
 {"id":40100,"name":"Influx écu 2","mods":[0,0,0,0,0]}
 {"id":40101,"name":"Influx écu 3","mods":[0,0,0,0,0]}
+{"id":40102,"name":"Sceau Atq/Déf 1","mods":[0,0,0,0,0]}
+{"id":40103,"name":"Sceau Atq/Déf 2","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Souffle vital 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Souffle vital 2","mods":[0,0,0,0,0]}
@@ -563,3 +593,15 @@
 {"id":50093,"name":"Ruse Rés 1","mods":[0,0,0,0,0]}
 {"id":50094,"name":"Ruse Rés 2","mods":[0,0,0,0,0]}
 {"id":50095,"name":"Ruse Rés 3","mods":[0,0,0,0,0]}
+{"id":50096,"name":"Tech. tome (V) 1","mods":[0,0,0,0,0]}
+{"id":50097,"name":"Tech. tome (V) 2","mods":[0,0,0,0,0]}
+{"id":50098,"name":"Tech. tome (V) 3","mods":[0,0,0,0,0]}
+{"id":50099,"name":"Influx infanterie 1","mods":[0,0,0,0,0]}
+{"id":50100,"name":"Influx infanterie 2","mods":[0,0,0,0,0]}
+{"id":50101,"name":"Influx infanterie 3","mods":[0,0,0,0,0]}
+{"id":50102,"name":"Regroupement 1","mods":[0,0,0,0,0]}
+{"id":50103,"name":"Regroupement 2","mods":[0,0,0,0,0]}
+{"id":50104,"name":"Regroupement 3","mods":[0,0,0,0,0]}
+{"id":50105,"name":"Dépl. cuirassé 1","mods":[0,0,0,0,0]}
+{"id":50106,"name":"Dépl. cuirassé 2","mods":[0,0,0,0,0]}
+{"id":50107,"name":"Dépl. cuirassé 3","mods":[0,0,0,0,0]}

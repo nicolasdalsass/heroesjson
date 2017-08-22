@@ -214,6 +214,10 @@
 {"id":220,"name":"Lilith Floatie","mods":[0,10,0,0,0]}
 {"id":221,"name":"Lilith Floatie+","mods":[0,14,0,0,0]}
 {"id":222,"name":"Cursed Lance","mods":[0,16,0,0,0]}
+{"id":223,"name":"Slaying Axe","mods":[0,10,0,0,0]}
+{"id":224,"name":"Slaying Axe+","mods":[0,14,0,0,0]}
+{"id":225,"name":"Nidhogg","mods":[0,14,0,0,0]}
+{"id":226,"name":"Vidofnir","mods":[0,16,0,0,0]}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0]}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0]}
@@ -385,6 +389,11 @@
 {"id":30093,"name":"Spd Res 2","mods":[0,0,2,0,2]}
 {"id":30094,"name":"Swift Strike 1","mods":[0,0,0,0,0]}
 {"id":30095,"name":"Swift Strike 2","mods":[0,0,0,0,0]}
+{"id":30096,"name":"Fortress Res 1","mods":[0,0,0,0,0]}
+{"id":30097,"name":"Fortress Res 2","mods":[0,0,0,0,0]}
+{"id":30098,"name":"Fortress Res 3","mods":[0,0,0,0,0]}
+{"id":30099,"name":"Spd Def 1","mods":[0,0,1,1,0]}
+{"id":30100,"name":"Spd Def 2","mods":[0,0,2,2,0]}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0]}
@@ -487,6 +496,8 @@
 {"id":40099,"name":"Shield Pulse 1","mods":[0,0,0,0,0]}
 {"id":40100,"name":"Shield Pulse 2","mods":[0,0,0,0,0]}
 {"id":40101,"name":"Shield Pulse 3","mods":[0,0,0,0,0]}
+{"id":40102,"name":"Seal Atk/Def 1","mods":[0,0,0,0,0]}
+{"id":40103,"name":"Seal Atk/Def 2","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"Breath of Life 1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"Breath of Life 2","mods":[0,0,0,0,0]}
@@ -588,3 +599,9 @@
 {"id":50099,"name":"Infantry Pulse 1","mods":[0,0,0,0,0]}
 {"id":50100,"name":"Infantry Pulse 2","mods":[0,0,0,0,0]}
 {"id":50101,"name":"Infantry Pulse 3","mods":[0,0,0,0,0]}
+{"id":50102,"name":"Guidance 1","mods":[0,0,0,0,0]}
+{"id":50103,"name":"Guidance 2","mods":[0,0,0,0,0]}
+{"id":50104,"name":"Guidance 3","mods":[0,0,0,0,0]}
+{"id":50105,"name":"Armor March 1","mods":[0,0,0,0,0]}
+{"id":50106,"name":"Armor March 2","mods":[0,0,0,0,0]}
+{"id":50107,"name":"Armor March 3","mods":[0,0,0,0,0]}

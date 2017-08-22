@@ -203,6 +203,21 @@
 {"id":209,"name":"キルソード鍛","mods":[0,10,0,0,0]}
 {"id":210,"name":"キルソード鍛+","mods":[0,14,0,0,0]}
 {"id":211,"name":"共鳴エクスカリバー","mods":[0,14,0,0,0]}
+{"id":212,"name":"Berkut's Lance","mods":[0,10,0,0,0]}
+{"id":213,"name":"Berkut's Lance+","mods":[0,14,0,0,0]}
+{"id":214,"name":"Sealife Tome","mods":[0,8,0,0,0]}
+{"id":215,"name":"Sealife Tome+","mods":[0,12,0,0,0]}
+{"id":216,"name":"Hibisus Tome","mods":[0,8,0,0,0]}
+{"id":217,"name":"Hibisus Tome+","mods":[0,12,0,0,0]}
+{"id":218,"name":"Tomato Tome","mods":[0,8,0,0,0]}
+{"id":219,"name":"Tomato Tome+","mods":[0,12,0,0,0]}
+{"id":220,"name":"Lilith Floatie","mods":[0,10,0,0,0]}
+{"id":221,"name":"Lilith Floatie+","mods":[0,14,0,0,0]}
+{"id":222,"name":"Cursed Lance","mods":[0,16,0,0,0]}
+{"id":223,"name":"Slaying Axe","mods":[0,10,0,0,0]}
+{"id":224,"name":"Slaying Axe+","mods":[0,14,0,0,0]}
+{"id":225,"name":"Nidhogg","mods":[0,14,0,0,0]}
+{"id":226,"name":"Vidofnir","mods":[0,16,0,0,0]}
 
 {"id":10000,"name":"献身","mods":[0,0,0,0,0]}
 {"id":10001,"name":"踊る","mods":[0,0,0,0,0]}
@@ -277,6 +292,7 @@
 {"id":20046,"name":"静水の祝福","mods":[0,0,0,0,0]}
 {"id":20047,"name":"疾風の祝福","mods":[0,0,0,0,0]}
 {"id":20048,"name":"復讐","mods":[0,0,0,0,0]}
+{"id":10023,"name":"Rally Atk/Res","mods":[0,0,0,0,0]}
 
 {"id":30001,"name":"金剛の一撃1","mods":[0,0,0,0,0]}
 {"id":30002,"name":"金剛の一撃2","mods":[0,0,0,0,0]}
@@ -366,6 +382,18 @@
 {"id":30086,"name":"鬼神明鏡の一撃2","mods":[0,0,0,0,0]}
 {"id":30087,"name":"HP速さ1","mods":[3,0,1,0,0]}
 {"id":30088,"name":"HP速さ2","mods":[4,0,2,0,0]}
+{"id":30089,"name":"Water Boost 1","mods":[0,0,0,0,0]}
+{"id":30090,"name":"Water Boost 2","mods":[0,0,0,0,0]}
+{"id":30091,"name":"Water Boost 3","mods":[0,0,0,0,0]}
+{"id":30092,"name":"Spd Res 1","mods":[0,0,1,0,1]}
+{"id":30093,"name":"Spd Res 2","mods":[0,0,2,0,2]}
+{"id":30094,"name":"Swift Strike 1","mods":[0,0,0,0,0]}
+{"id":30095,"name":"Swift Strike 2","mods":[0,0,0,0,0]}
+{"id":30096,"name":"Fortress Res 1","mods":[0,0,0,0,0]}
+{"id":30097,"name":"Fortress Res 2","mods":[0,0,0,0,0]}
+{"id":30098,"name":"Fortress Res 3","mods":[0,0,0,0,0]}
+{"id":30099,"name":"Spd Def 1","mods":[0,0,1,1,0]}
+{"id":30100,"name":"Spd Def 2","mods":[0,0,2,2,0]}
 
 {"id":40001,"name":"斧殺し1","mods":[0,0,0,0,0]}
 {"id":40002,"name":"斧殺し2","mods":[0,0,0,0,0]}
@@ -468,6 +496,8 @@
 {"id":40099,"name":"盾の鼓動1","mods":[0,0,0,0,0]}
 {"id":40100,"name":"盾の鼓動2","mods":[0,0,0,0,0]}
 {"id":40101,"name":"盾の鼓動3","mods":[0,0,0,0,0]}
+{"id":40102,"name":"Seal Atk/Def 1","mods":[0,0,0,0,0]}
+{"id":40103,"name":"Seal Atk/Def 2","mods":[0,0,0,0,0]}
 
 {"id":50001,"name":"生の息吹1","mods":[0,0,0,0,0]}
 {"id":50002,"name":"生の息吹2","mods":[0,0,0,0,0]}
@@ -563,3 +593,15 @@
 {"id":50093,"name":"魔防の謀策1","mods":[0,0,0,0,0]}
 {"id":50094,"name":"魔防の謀策2","mods":[0,0,0,0,0]}
 {"id":50095,"name":"魔防の謀策3","mods":[0,0,0,0,0]}
+{"id":50096,"name":"G Tome Valor 1","mods":[0,0,0,0,0]}
+{"id":50097,"name":"G Tome Valor 2","mods":[0,0,0,0,0]}
+{"id":50098,"name":"G Tome Valor 3","mods":[0,0,0,0,0]}
+{"id":50099,"name":"Infantry Pulse 1","mods":[0,0,0,0,0]}
+{"id":50100,"name":"Infantry Pulse 2","mods":[0,0,0,0,0]}
+{"id":50101,"name":"Infantry Pulse 3","mods":[0,0,0,0,0]}
+{"id":50102,"name":"Guidance 1","mods":[0,0,0,0,0]}
+{"id":50103,"name":"Guidance 2","mods":[0,0,0,0,0]}
+{"id":50104,"name":"Guidance 3","mods":[0,0,0,0,0]}
+{"id":50105,"name":"Armor March 1","mods":[0,0,0,0,0]}
+{"id":50106,"name":"Armor March 2","mods":[0,0,0,0,0]}
+{"id":50107,"name":"Armor March 3","mods":[0,0,0,0,0]}
