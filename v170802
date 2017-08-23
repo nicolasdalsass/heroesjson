@@ -327,7 +327,7 @@
 {"name":"Titania5","skills1":[37,10013],"skills40":[37,10013,30003,40087],"HP":18,"atk":6,"speed":8,"def":6,"res":8}
 {"name":"Ursula3","skills1":[34],"skills40":[14,20041,30011,50048],"HP":15,"atk":6,"speed":7,"def":3,"res":7}
 {"name":"Ursula4","skills1":[14,20041],"skills40":[14,20022,30012,50049],"HP":15,"atk":6,"speed":8,"def":3,"res":8}
-{"name":"Ursula5","skills1":[15,20041],"skills40":[15,20022,30013,50049],"HP":16,"atk":17,"speed":8,"def":4,"res":8}
+{"name":"Ursula5","skills1":[15,20041],"skills40":[15,20022,30013,50049],"HP":16,"atk":7,"speed":8,"def":4,"res":8}
 {"name":"Virion3","skills1":[132],"skills40":[116,20034,30023,40062],"HP":19,"atk":6,"speed":6,"def":6,"res":2}
 {"name":"Virion4","skills1":[116,20034],"skills40":[116,20003,30024,40063],"HP":19,"atk":7,"speed":7,"def":6,"res":2}
 {"name":"Virion5","skills1":[117,20034],"skills40":[117,20003,30025,40063],"HP":20,"atk":7,"speed":7,"def":7,"res":3}
