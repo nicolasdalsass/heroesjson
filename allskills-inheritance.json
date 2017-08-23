@@ -203,6 +203,17 @@
 {"id":209,"name":"Slaying Edge","mods":[0,10,0,0,0],"parents":[132],"inheritanceRestriction":"SWORD"}
 {"id":210,"name":"Slaying Edge+","mods":[0,14,0,0,0],"parents":[209],"inheritanceRestriction":"SWORD"}
 {"id":211,"name":"Dark Excalibur","mods":[0,14,0,0,0],"parents":[104],"inheritanceRestriction":"NOT_INHERITABLE"}
+{"id":212,"name":"Berkut's Lance","mods":[0,10,0,0,0],"parents":[131],"inheritanceRestriction":"LANCE"}
+{"id":213,"name":"Berkut's Lance+","mods":[0,14,0,0,0],"parents":[212],"inheritanceRestriction":"LANCE"}
+{"id":214,"name":"Sealife Tome","mods":[0,8,0,0,0],"parents":[34],"inheritanceRestriction":"BTOME"}
+{"id":215,"name":"Sealife Tome+","mods":[0,12,0,0,0],"parents":[214],"inheritanceRestriction":"BTOME"}
+{"id":216,"name":"Hibisus Tome","mods":[0,8,0,0,0],"parents":[35],"inheritanceRestriction":"GTOME"}
+{"id":217,"name":"Hibisus Tome+","mods":[0,12,0,0,0],"parents":[216],"inheritanceRestriction":"GTOME"}
+{"id":218,"name":"Tomato Tome","mods":[0,8,0,0,0],"parents":[33,109],"inheritanceRestriction":"RTOME"}
+{"id":219,"name":"Tomato Tome+","mods":[0,12,0,0,0],"parents":[218],"inheritanceRestriction":"RTOME"}
+{"id":220,"name":"Lilith Floatie","mods":[0,10,0,0,0],"parents":[128],"inheritanceRestriction":"AXE"}
+{"id":221,"name":"Lilith Floatie+","mods":[0,14,0,0,0],"parents":[220],"inheritanceRestriction":"AXE"}
+{"id":222,"name":"Cursed Lance","mods":[0,16,0,0,0],"parents":[120],"inheritanceRestriction":"NOT_INHERITABLE"}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_STAFF"}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_INHERITABLE"}
@@ -227,7 +238,8 @@
 {"id":10020,"name":"Smite","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_STAFF"}
 {"id":10021,"name":"Swap","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_STAFF"}
 {"id":10022,"name":"Rally Atk/Spd","mods":[0,0,0,0,0],"parents":[10009,10012],"inheritanceRestriction":"NOT_STAFF"}
-{"id":10023,"name":"Rally Def/Res","mods":[0,0,0,0,0],"parents":[10009,10012],"inheritanceRestriction":"NOT_STAFF"}
+{"id":10023,"name":"Rally Def/Res","mods":[0,0,0,0,0],"parents":[10010,10011],"inheritanceRestriction":"NOT_STAFF"}
+{"id":10023,"name":"Rally Atk/Res","mods":[0,0,0,0,0],"parents":[10009,10011],"inheritanceRestriction":"NOT_STAFF"}
 
 {"id":20001,"name":"Aegis","mods":[0,0,0,0,0],"parents":[20025],"inheritanceRestriction":"MELEE"}
 {"id":20002,"name":"Aether","mods":[0,0,0,0,0],"parents":[20030,20044],"inheritanceRestriction":"NOT_STAFF"}
@@ -366,6 +378,13 @@
 {"id":30086,"name":"Mirror Strike 2","mods":[0,0,0,0,0],"parents":[30086],"inheritanceRestriction":"NOT_STAFF"}
 {"id":30087,"name":"HP Spd 1","mods":[3,0,1,0,0],"parents":[30042,30033],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":30088,"name":"HP Spd 2","mods":[4,0,2,0,0],"parents":[30087],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30089,"name":"Water Boost 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30090,"name":"Water Boost 2","mods":[0,0,0,0,0],"parents":[30089],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30091,"name":"Water Boost 3","mods":[0,0,0,0,0],"parents":[30090],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30092,"name":"Spd Res 1","mods":[0,0,1,0,2],"parents":[30042,30039],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30093,"name":"Spd Res 2","mods":[0,0,2,0,2],"parents":[30092],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":30094,"name":"Swift Strike 1","mods":[0,0,0,0,0],"parents":[30008,30049],"inheritanceRestriction":"NOT_STAFF"}
+{"id":30095,"name":"Swift Strike 2","mods":[0,0,0,0,0],"parents":[30094],"inheritanceRestriction":"NOT_STAFF"}
 
 {"id":40001,"name":"Axebreaker 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_BLUE"}
 {"id":40002,"name":"Axebreaker 2","mods":[0,0,0,0,0],"parents":[40001],"inheritanceRestriction":"NOT_BLUE"}
@@ -563,3 +582,9 @@
 {"id":50093,"name":"Res Ploy 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":50094,"name":"Res Ploy 2","mods":[0,0,0,0,0],"parents":[50093],"inheritanceRestriction":"NO_RESTRICTIONS"}
 {"id":50095,"name":"Res Ploy 3","mods":[0,0,0,0,0],"parents":[50094],"inheritanceRestriction":"NO_RESTRICTIONS"}
+{"id":50096,"name":"G Tome Valor 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"GTOME"}
+{"id":50097,"name":"G Tome Valor 2","mods":[0,0,0,0,0],"parents":[50096],"inheritanceRestriction":"GTOME"}
+{"id":50098,"name":"G Tome Valor 3","mods":[0,0,0,0,0],"parents":[50097],"inheritanceRestriction":"GTOME"}
+{"id":50099,"name":"Infantry Pulse 1","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"INFANTRY"}
+{"id":50100,"name":"Infantry Pulse 2","mods":[0,0,0,0,0],"parents":[50099],"inheritanceRestriction":"INFANTRY"}
+{"id":50101,"name":"Infantry Pulse 3","mods":[0,0,0,0,0],"parents":[50100],"inheritanceRestriction":"INFANTRY"}
