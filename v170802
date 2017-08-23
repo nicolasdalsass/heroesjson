@@ -1,3 +1,10 @@
+{"name":"Innes5","skills1":[225,20010],"skills40":[225,20026,40097,40098],"HP":16,"atk":9,"speed":8,"def":4,"res":7}
+{"name":"Amelia5","skills1":[224,20025],"skills40":[224,20043,30066,50107],"HP":19,"atk":6,"speed":8,"def":9,"res":4}
+{"name":"Seth5","skills1":[108,10021],"skills40":[108,10021,30057,40103],"HP":18,"atk":8,"speed":7,"def":8,"res":5}
+{"name":"Tana5","skills1":[226,20033],"skills40":[226,20032,30100,50104],"HP":17,"atk":8,"speed":10,"def":6,"res":6}
+{"name":"Valter3","skills1":[131],"skills40":[120,20033,30009,50076],"HP":17,"atk":7,"speed":8,"def":7,"res":3}
+{"name":"Valter4","skills1":[120,20033],"skills40":[120,20030,30010,50077],"HP":17,"atk":8,"speed":9,"def":7,"res":3}
+{"name":"Valter5","skills1":[222,20033],"skills40":[222,20030,30010,50078],"HP":18,"atk":8,"speed":9,"def":8,"res":4}
 {"name":"Clive4","skills1":[120,20009],"skills40":[120,20015,30016,40081],"HP":18,"atk":9,"speed":5,"def":8,"res":3}
 {"name":"Clive5","skills1":[121,20009],"skills40":[121,20015,30016,40081],"HP":19,"atk":9,"speed":6,"def":8,"res":4}
 {"name":"CorrinFSummer5","skills1":[215,20014],"skills40":[215,20013,30095,50010],"HP":17,"atk":7,"speed":8,"def":5,"res":7}
