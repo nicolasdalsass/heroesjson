@@ -214,10 +214,10 @@
 {"id":220,"name":"Lilith Floatie","mods":[0,10,0,0,0],"parents":[128],"inheritanceRestriction":"AXE"}
 {"id":221,"name":"Lilith Floatie+","mods":[0,14,0,0,0],"parents":[220],"inheritanceRestriction":"AXE"}
 {"id":222,"name":"Cursed Lance","mods":[0,16,0,0,0],"parents":[120],"inheritanceRestriction":"NOT_INHERITABLE"}
-{"id":223,"name":"Slaying Axe","mods":[0,10,0,0,0],"parents":[128],"inheritanceRestriction":"AXE"}}
-{"id":224,"name":"Slaying Axe+","mods":[0,14,0,0,0],"parents":[120],"inheritanceRestriction":"AXE"}}
-{"id":225,"name":"Nidhogg","mods":[0,14,0,0,0],"parents":[116],"inheritanceRestriction":"NOT_INHERITABLE"}}
-{"id":226,"name":"Vidofnir","mods":[0,16,0,0,0],"parents":[66],"inheritanceRestriction":"NOT_INHERITABLE"}}
+{"id":223,"name":"Slaying Axe","mods":[0,10,0,0,0],"parents":[128],"inheritanceRestriction":"AXE"}
+{"id":224,"name":"Slaying Axe+","mods":[0,14,0,0,0],"parents":[120],"inheritanceRestriction":"AXE"}
+{"id":225,"name":"Nidhogg","mods":[0,14,0,0,0],"parents":[116],"inheritanceRestriction":"NOT_INHERITABLE"}
+{"id":226,"name":"Vidofnir","mods":[0,16,0,0,0],"parents":[66],"inheritanceRestriction":"NOT_INHERITABLE"}
 
 {"id":10000,"name":"Ardent Sacrifice","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_STAFF"}
 {"id":10001,"name":"Dance","mods":[0,0,0,0,0],"parents":[],"inheritanceRestriction":"NOT_INHERITABLE"}
