@@ -1,7 +1,7 @@
-{"name":"FestivalOlivia","hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1}
-{"name":"FestivalAzura","hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1}
-{"name":"Inigo","hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1}
-{"name":"Shigure","hpGrowth":1,"atkGrowth":1,"spdGrowth":1,"defGrowth":1,"resGrowth":1}
+{"name":"FestivalOlivia","hpGrowth":5,"atkGrowth":6,"spdGrowth":8,"defGrowth":2,"resGrowth":7}
+{"name":"FestivalAzura","hpGrowth":5,"atkGrowth":8,"spdGrowth":8,"defGrowth":4,"resGrowth":6}
+{"name":"Inigo","hpGrowth":6,"atkGrowth":6,"spdGrowth":8,"defGrowth":4,"resGrowth":4}
+{"name":"Shigure","hpGrowth":5,"atkGrowth":7,"spdGrowth":7,"defGrowth":4,"resGrowth":5}
 {"name":"Elincia","hpGrowth":5,"atkGrowth":8,"spdGrowth":8,"defGrowth":5,"resGrowth":5}
 {"name":"Nephenee","hpGrowth":5,"atkGrowth":7,"spdGrowth":8,"defGrowth":8,"resGrowth":3}
 {"name":"Oscar","hpGrowth":6,"atkGrowth":8,"spdGrowth":8,"defGrowth":5,"resGrowth":3}
