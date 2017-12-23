@@ -1,3 +1,8 @@
+
+{"name":"ChromChristmas","hpGrowth":8,"atkGrowth":9,"spdGrowth":3,"defGrowth":8,"resGrowth":7}
+{"name":"LissaChristmas","hpGrowth":6,"atkGrowth":7,"spdGrowth":6,"defGrowth":8,"resGrowth":8}
+{"name":"TharjaChristmas","hpGrowth":7,"atkGrowth":7,"spdGrowth":2,"defGrowth":8,"resGrowth":8}
+{"name":"RobinChristmas","hpGrowth":6,"atkGrowth":8,"spdGrowth":8,"defGrowth":8,"resGrowth":5}
 {"name":"Shiro","hpGrowth":6,"atkGrowth":8,"spdGrowth":7,"defGrowth":8,"resGrowth":4}
 {"name":"Siegbert","hpGrowth":6,"atkGrowth":8,"spdGrowth":8,"defGrowth":7,"resGrowth":2}
 {"name":"Soleil","hpGrowth":5,"atkGrowth":9,"spdGrowth":8,"defGrowth":6,"resGrowth":5}
