@@ -1,7 +1,7 @@
-{"name":"takuminy2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":,"atk":,"speed":,"def":,"res":}
-{"name":"azurany2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":,"atk":,"speed":,"def":,"res":}
-{"name":"corrinny2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":,"atk":,"speed":,"def":,"res":}
-{"name":"camillany2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":,"atk":,"speed":,"def":,"res":}
+{"name":"Takuminy2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":-1,"atk":-1,"speed":,"def":-1,"res":-1}
+{"name":"Azurany2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
+{"name":"Corrinny2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
+{"name":"Camillany2018","mods1":[0,0,0,0,0],"mods40":[0,0,0,0,0],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
 {"name":"Gunnthra5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
 {"name":"ChromChristmas5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":25,"atk":12,"speed":4,"def":9,"res":5}
 {"name":"LissaChristmas5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":21,"atk":9,"speed":8,"def":9,"res":8}
