@@ -1,4 +1,4 @@
-{"name":"Gunnthra5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
+{"name":"Gunnthra5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":15,"atk":7,"speed":9,"def":6,"res":6}
 {"name":"ChromChristmas5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":25,"atk":12,"speed":4,"def":9,"res":5}
 {"name":"LissaChristmas5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":21,"atk":9,"speed":8,"def":9,"res":8}
 {"name":"RobinChristmas5","mods1":[0,14,0,0,0],"mods40":[0,14,0,0,0],"HP":23,"atk":9,"speed":8,"def":9,"res":6}
