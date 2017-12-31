@@ -152,7 +152,7 @@
 {"HP":19,"atk":8,"def":9,"mods1":[0,16,0,0,0],"mods40":[0,16,0,0,0],"name":"Michalis5","speed":7,"res":4}
 {"HP":18,"atk":7,"def":8,"mods1":[0,16,0,0,0],"mods40":[0,21,5,-5,-5],"name":"Minerva5","speed":9,"res":5}
 {"HP":17,"atk":8,"def":5,"mods1":[0,0,0,0,0],"mods40":[0,5,0,0,0],"name":"Mist5","speed":6,"res":8}
-{"HP":18,"atk":8,"def":8,"mods1":[0,12,0,0,0],"mods40":[0,12,0,0,0],"name":"Narcian5","speed":7,"res":7}
+{"HP":18,"atk":7,"def":8,"mods1":[0,12,0,0,0],"mods40":[0,12,0,0,0],"name":"Narcian5","speed":7,"res":7}
 {"HP":18,"atk":7,"def":6,"mods1":[0,11,0,0,0],"mods40":[0,11,0,0,0],"name":"Navarre5","speed":11,"res":5}
 {"HP":18,"atk":6,"def":4,"mods1":[0,9,0,0,0],"mods40":[0,9,0,0,0],"name":"Niles5","speed":8,"res":8}
 {"HP":16,"atk":5,"def":6,"mods1":[0,13,0,0,0],"mods40":[0,13,0,0,0],"name":"Ninian5","speed":7,"res":5}
@@ -280,7 +280,7 @@
 {"HP":16,"atk":6,"def":5,"mods1":[0,4,0,0,0],"mods40":[0,4,0,0,0],"name":"Matthew4","speed":10,"res":4}
 {"HP":18,"atk":7,"def":5,"mods1":[0,9,0,0,0],"mods40":[4,9,0,0,0],"name":"Merric4","speed":8,"res":3}
 {"HP":18,"atk":8,"def":9,"mods1":[0,11,0,0,0],"mods40":[0,11,0,0,0],"name":"Michalis4","speed":6,"res":3}
-{"HP":17,"atk":8,"def":8,"mods1":[0,8,0,0,0],"mods40":[0,8,0,0,0],"name":"Narcian4","speed":6,"res":6}
+{"HP":17,"atk":7,"def":8,"mods1":[0,8,0,0,0],"mods40":[0,8,0,0,0],"name":"Narcian4","speed":6,"res":6}
 {"HP":17,"atk":7,"def":5,"mods1":[0,7,0,0,0],"mods40":[0,7,0,0,0],"name":"Navarre4","speed":11,"res":4}
 {"HP":17,"atk":6,"def":3,"mods1":[0,5,0,0,0],"mods40":[0,5,0,0,0],"name":"Niles4","speed":8,"res":8}
 {"HP":15,"atk":7,"def":3,"mods1":[0,9,0,0,0],"mods40":[0,9,0,0,3],"name":"Nino4","speed":10,"res":6}
@@ -362,7 +362,7 @@
 {"HP":18,"atk":6,"def":4,"mods1":[0,8,0,0,0],"mods40":[0,7,1,0,0],"name":"Lonqu3","speed":10,"res":4}
 {"HP":16,"atk":5,"def":5,"mods1":[0,5,0,0,0],"mods40":[0,4,0,0,0],"name":"Matthew3","speed":9,"res":4}
 {"HP":18,"atk":7,"def":8,"mods1":[0,8,0,0,0],"mods40":[0,11,0,0,0],"name":"Michalis3","speed":6,"res":3}
-{"HP":17,"atk":7,"def":7,"mods1":[0,8,0,0,0],"mods40":[0,8,0,0,0],"name":"Narcian3","speed":6,"res":6}
+{"HP":17,"atk":6,"def":7,"mods1":[0,8,0,0,0],"mods40":[0,8,0,0,0],"name":"Narcian3","speed":6,"res":6}
 {"HP":17,"atk":6,"def":5,"mods1":[0,8,0,0,0],"mods40":[0,7,0,0,0],"name":"Navarre3","speed":10,"res":4}
 {"HP":17,"atk":5,"def":3,"mods1":[0,6,0,0,0],"mods40":[0,5,0,0,0],"name":"Niles3","speed":7,"res":7}
 {"HP":15,"atk":6,"def":3,"mods1":[0,6,0,0,0],"mods40":[0,9,0,0,2],"name":"Nino3","speed":9,"res":6}
