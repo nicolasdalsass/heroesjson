@@ -183,7 +183,7 @@
 {"HP":18,"atk":6,"def":8,"mods1":[0,12,0,0,0],"mods40":[0,12,0,0,0],"name":"Selena5","speed":9,"res":6}
 {"HP":19,"atk":8,"def":8,"mods1":[0,16,0,0,0],"mods40":[5,16,0,0,0],"name":"Seliph5","speed":7,"res":5}
 {"HP":16,"atk":6,"def":4,"mods1":[0,0,0,0,0],"mods40":[0,4,0,0,0],"name":"Serra5","speed":9,"res":9}
-{"HP":17,"atk":8,"def":8,"mods1":[0,12,0,0,0],"mods40":[0,9,0,5,0],"name":"Seth4","speed":6,"res":4}
+{"HP":17,"atk":8,"def":8,"mods1":[0,8,0,0,0],"mods40":[0,5,0,5,0],"name":"Seth4","speed":6,"res":4}
 {"HP":18,"atk":8,"def":8,"mods1":[0,12,0,0,0],"mods40":[0,9,0,5,0],"name":"Seth5","speed":7,"res":5}
 {"HP":18,"atk":6,"def":5,"mods1":[0,11,0,0,0],"mods40":[5,11,0,0,0],"name":"Setsuna5","speed":9,"res":6}
 {"HP":17,"atk":8,"def":6,"mods1":[0,11,0,0,0],"mods40":[0,11,0,0,0],"name":"Shanna5","speed":9,"res":7}
