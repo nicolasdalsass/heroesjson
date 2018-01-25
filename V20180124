@@ -3,6 +3,8 @@
 {"name":"Myrrh5","mods1":[0,19,0,0,0],"mods40":[0,22,3,3,3],"HP":16,"atk":7,"speed":6,"def":3,"res":7}
 {"name":"Marisa5","mods1":[-1,-1,-1,-1,-1],"mods40":[-1,-1,-1,-1,-1],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
 {"name":"Lyon5","mods1":[-1,-1,-1,-1,-1],"mods40":[-1,-1,-1,-1,-1],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
+{"name":"Lyon4","mods1":[-1,-1,-1,-1,-1],"mods40":[-1,-1,-1,-1,-1],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
+{"name":"Lyon3","mods1":[-1,-1,-1,-1,-1],"mods40":[-1,-1,-1,-1,-1],"HP":-1,"atk":-1,"speed":-1,"def":-1,"res":-1}
 {"name":"Micaiah5","mods1":[0,14,0,0,3],"mods40":[0,14,0,0,3],"HP":16,"atk":9,"speed":6,"def":5,"res":9}
 {"name":"Sothe5","mods1":[0,14,0,0,0],"mods40":[0,19,5,-5,-5],"HP":17,"atk":10,"speed":9,"def":5,"res":4}
 {"name":"Zelgius5","mods1":[0,16,0,0,0],"mods40":[0,16,0,0,0],"HP":23,"atk":10,"speed":7,"def":10,"res":6}
