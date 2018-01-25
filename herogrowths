@@ -1,8 +1,8 @@
-{"name":"Myrrh","hpGrowth":5,"atkGrowth":8,"spdGrowth":6,"defGrowth":2,"resGrowth":8}
-{"name":"Larachel","hpGrowth":5,"atkGrowth":8,"spdGrowth":6,"defGrowth":2,"resGrowth":8}
-{"name":"Eirika20180124","hpGrowth":5,"atkGrowth":8,"spdGrowth":6,"defGrowth":2,"resGrowth":8}
-{"name":"Lyon","hpGrowth":5,"atkGrowth":8,"spdGrowth":6,"defGrowth":2,"resGrowth":8}
-{"name":"Marisa","hpGrowth":5,"atkGrowth":8,"spdGrowth":6,"defGrowth":2,"resGrowth":8}
+{"name":"Myrrh","hpGrowth":8,"atkGrowth":8,"spdGrowth":5,"defGrowth":11,"resGrowth":7}
+{"name":"Larachel","hpGrowth":4,"atkGrowth":7,"spdGrowth":7,"defGrowth":2,"resGrowth":7}
+{"name":"Eirika20180124","hpGrowth":5,"atkGrowth":7,"spdGrowth":8,"defGrowth":3,"resGrowth":4}
+{"name":"Lyon","hpGrowth":6,"atkGrowth":7,"spdGrowth":4,"defGrowth":6,"resGrowth":6}
+{"name":"Marisa","hpGrowth":9,"atkGrowth":6,"spdGrowth":8,"defGrowth":7,"resGrowth":3}
 {"name":"Micaiah","hpGrowth":5,"atkGrowth":8,"spdGrowth":6,"defGrowth":2,"resGrowth":8}
 {"name":"Sothe","hpGrowth":6,"atkGrowth":8,"spdGrowth":7,"defGrowth":4,"resGrowth":4}
 {"name":"Zelgius","hpGrowth":7,"atkGrowth":8,"spdGrowth":8,"defGrowth":9,"resGrowth":3}
