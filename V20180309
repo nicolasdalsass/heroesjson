@@ -43,7 +43,7 @@
 {"name":"Soleil4","mods1":[0,11,0,0,0],"mods40":[0,11,0,0,0],"HP":17,"atk":10,"speed":9,"def":5,"res":4}
 {"name":"Shiro5","mods1":[0,16,0,0,0],"mods40":[0,16,0,0,0],"HP":18,"atk":9,"speed":6,"def":9,"res":5}
 {"name":"Siegbert5","mods1":[0,16,0,0,0],"mods40":[0,16,0,0,0],"HP":19,"atk":8,"speed":9,"def":7,"res":3}
-{"name":"Soleil5","mods1":[0,15,0,0,0],"mods40":[0,15,0,0,0],"HP":19,"atk":10,"speed":9,"def":6,"res":5}
+{"name":"Soleil5","mods1":[0,15,0,0,0],"mods40":[0,15,0,0,0],"HP":18,"atk":10,"speed":9,"def":6,"res":5}
 {"name":"Rhajat5","mods1":[0,12,0,0,0],"mods40":[0,12,0,0,0],"HP":17,"atk":9,"speed":8,"def":4,"res":7}
 {"name":"Fjorm5","mods1":[0,16,0,0,0],"mods40":[0,16,0,0,0],"HP":17,"atk":8,"speed":7,"def":8,"res":8}
 {"name":"Joshua4","mods1":[0,10,0,0,0],"mods40":[0,10,0,0,0],"HP":17,"atk":6,"speed":9,"def":8,"res":5}
